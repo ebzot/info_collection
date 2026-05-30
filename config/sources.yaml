@@ -1,0 +1,13 @@
+sources:
+  - name: Publickey
+    category: it
+    url: https://www.publickey1.jp/atom.xml
+  - name: GIGAZINE
+    category: it
+    url: https://gigazine.net/news/rss_2.0/
+  - name: 4Gamer
+    category: game
+    url: https://www.4gamer.net/rss/index.xml
+  - name: ファミ通
+    category: game
+    url: https://www.famitsu.com/rss/famitsu.xml
