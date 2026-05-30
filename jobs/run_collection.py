@@ -1,4 +1,3 @@
-import os
 import sys
 from pathlib import Path
 
@@ -17,6 +16,8 @@ JSON_PATH = str(ROOT / "docs" / "articles.json")
 HTML_PATH = str(ROOT / "docs" / "index.html")
 SOURCES_PATH = ROOT / "config" / "sources.yaml"
 
+MAX_NEW_ARTICLES = 10
+
 
 def load_sources() -> list[dict]:
     with open(SOURCES_PATH, "r", encoding="utf-8") as f:
@@ -29,12 +30,22 @@ def main() -> None:
     new_count = 0
 
     for source in load_sources():
+        print(f"collecting from: {source['name']}")
         for article in collect_feed(source):
+            if new_count >= MAX_NEW_ARTICLES:
+                print("reached max new articles limit")
+                break
+
             if article_exists(conn, article["url"]):
                 continue
+
+            print(f"processing: {article['title']}")
             summary_data = summarize_article(article)
             insert_article(conn, article, summary_data, MODEL_NAME)
             new_count += 1
+
+        if new_count >= MAX_NEW_ARTICLES:
+            break
 
     articles = export_articles(conn)
     write_json(JSON_PATH, articles)
