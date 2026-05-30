@@ -1,0 +1,28 @@
+[
+  {
+    "title": "AWS、インストール不要でWebブラウザから使えるコーディングAIエージェント「Kiro Web」発表",
+    "url": "https://www.publickey1.jp/blog/26/awswebaikiro_web.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-05-27T15:56:26Z",
+    "fetched_at": "2026-05-30T23:49:57.819804+00:00",
+    "summary": "Amazon Web Services（AWS）は、Webブラウザから使えてインストール不要のコーディングAIエージェント「Kiro Web」をプレビュー公開しました。 Introducing Kiro Web, now in previe...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "ついにMonoランタイムを脱却する「.NET MAUI」。Xamarinから続いてきたMonoランタイムをCoreCLRに移行",
+    "url": "https://www.publickey1.jp/blog/26/mononet_mauixamarinmonocoreclr.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-05-26T15:42:28Z",
+    "fetched_at": "2026-05-30T23:49:58.840036+00:00",
+    "summary": "マイクロソフトは、シングルコードでiOS、Android、Windows、macOSに対応するUIフレームワーク「.NET MAUI」のiOSとAndroidにおけるランタイムが、今秋リリース予定の.NET 11でCoreCLRに移行するこ...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  }
+]
