@@ -1,6 +1,8 @@
 import feedparser
 from bs4 import BeautifulSoup
 
+MAX_ITEMS_PER_FEED = 5
+
 
 def html_to_text(value: str) -> str:
     if not value:
@@ -13,7 +15,7 @@ def collect_feed(source: dict) -> list[dict]:
     parsed = feedparser.parse(source["url"])
     articles = []
 
-    for entry in parsed.entries:
+    for entry in parsed.entries[:MAX_ITEMS_PER_FEED]:
         summary = html_to_text(getattr(entry, "summary", ""))
         content = ""
         if getattr(entry, "content", None):
