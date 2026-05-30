@@ -16,7 +16,7 @@ JSON_PATH = str(ROOT / "docs" / "articles.json")
 HTML_PATH = str(ROOT / "docs" / "index.html")
 SOURCES_PATH = ROOT / "config" / "sources.yaml"
 
-MAX_NEW_ARTICLES = 10
+MAX_NEW_ARTICLES = 2
 
 
 def load_sources() -> list[dict]:
