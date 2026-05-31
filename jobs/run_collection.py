@@ -30,6 +30,7 @@ def main() -> None:
     conn = connect_db(DB_PATH)
     new_count = 0
     openai_summary_count = 0
+    fallback_summary_count = 0
 
     for source in load_sources():
         print(f"collecting from: {source['name']}")
@@ -43,12 +44,18 @@ def main() -> None:
 
             print(f"processing: {article['title']}")
             if openai_summary_count < MAX_OPENAI_SUMMARIES:
-                print("using OpenAI summary")
-                summary_data = summarize_article(article)
-                openai_summary_count += 1
+                try:
+                    print("using OpenAI summary")
+                    summary_data = summarize_article(article)
+                    openai_summary_count += 1
+                except Exception as exc:
+                    print(f"OpenAI summary failed, falling back: {exc}")
+                    summary_data = fallback_summary(article)
+                    fallback_summary_count += 1
             else:
                 print("using fallback summary")
                 summary_data = fallback_summary(article)
+                fallback_summary_count += 1
 
             insert_article(conn, article, summary_data, MODEL_NAME)
             new_count += 1
@@ -61,7 +68,7 @@ def main() -> None:
     render_index_html(HTML_PATH, articles)
     print(
         f"completed: {new_count} new articles, {len(articles)} total articles, "
-        f"{openai_summary_count} OpenAI summaries"
+        f"{openai_summary_count} OpenAI summaries, {fallback_summary_count} fallback summaries"
     )
 
 
