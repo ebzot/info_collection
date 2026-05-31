@@ -1,5 +1,31 @@
 [
   {
+    "title": "スマホでも動作する日本語対応小型AIモデル「LFM2.5-8B-A1B」が登場",
+    "url": "https://gigazine.net/news/20260531-lfm25-8b-a1b/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 31 May 2026 21:11:00 +0900",
+    "fetched_at": "2026-05-31T21:55:15.419602+00:00",
+    "summary": "AI企業のLiquid AIが小型言語モデル「LFM2.5-8B-A1B」を2026年5月28日にオープンモデルとして公開しました。LFM2.5-8B-A1Bはスマートフォンでも実行可能で、日本語の質問にも高品質な応答を返せます。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「猫の鳴き声で音を出すピアノ」や「色で奏でる鍵盤楽器」など実在しない楽器ばかりを集めたオンライン博物館「Museum of Imaginary Musical Instruments」を巡ってみた",
+    "url": "https://gigazine.net/news/20260531-museum-imaginary-musical-instruments/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 31 May 2026 21:00:00 +0900",
+    "fetched_at": "2026-05-31T21:55:15.420812+00:00",
+    "summary": "実在しない楽器や、文学・図面・構想の中だけに存在する楽器を集めた「Museum of Imaginary Musical Instruments」は、音楽史・音楽技術史を研究するディアドラ・ラフリッジ氏と音楽学者のトーマス・パテソン氏が、想像上の楽器を収集・分類するために公開しているオンライン博物館です。実際にどんな展示があるのかをサイト上を巡りながら確かめ…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "地域の経済状況と住民のメンタルヘルスには密接な関連があるという研究結果",
     "url": "https://gigazine.net/news/20260531-county-level-wealth-community-mental-health/",
     "source": "GIGAZINE",
@@ -59,6 +85,45 @@
     "published_at": "Sat, 30 May 2026 20:00:00 +0900",
     "fetched_at": "2026-05-31T00:13:08.704043+00:00",
     "summary": "中国に本拠を置くネットワーク機器メーカーのGL.iNetが2026年2月に発売した次世代モバイルルーター「Beryl 7」は、持ち運びに適したコンパクトなルーターでありながら、GL.iNetのモバイルルーターラインナップの中で最速となるWireGuardで最大1100Mbps、OpenVPN-DCOで最大1000MbpsのVPN速度を実現し、2つの2.5Gイ…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "目がかゆくてもこすらない方がいい理由とは？専門家が原因と対策を解説",
+    "url": "https://gigazine.net/news/20260601-itchy-eyes-rubbing/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 01 Jun 2026 06:00:00 +0900",
+    "fetched_at": "2026-05-31T21:55:15.418024+00:00",
+    "summary": "かゆみや砂が入ったような違和感がある時に目をこするのは自然な反応です。しかし、イリノイ大学シカゴ校で眼科を専門とするテイラー・スターンズ氏とニーラム・パタディア氏は、目をこする行為にはリスクがあると指摘した上で、目をこすりたくなる原因とかゆみや違和感を減らす方法について解説しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Google Cloud、高速にフェイルオーバー可能なPostgreSQL互換AlloyDBの新たなホットスタンバイを提供",
+    "url": "https://www.publickey1.jp/blog/26/google_cloudpostgresqlalloydb.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-05-31T15:26:39Z",
+    "fetched_at": "2026-05-31T21:55:14.696759+00:00",
+    "summary": "Google Cloudは、エンタープライズ向けに提供されているPostgreSQL互換のデータベースサービス「AlloyDB for PostgreSQL」で、通常30秒以内の高速なフェイルオーバーを可能にする新たなホットスタンバイ機能の...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AWS、他クラウドと500Mbpsまでの接続が無料に。AWS  Interconnect - multicloudに無料枠が登場",
+    "url": "https://www.publickey1.jp/blog/26/aws500mbpsaws_interconnect_-_multicloud.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-05-31T15:24:56Z",
+    "fetched_at": "2026-05-31T21:55:14.703267+00:00",
+    "summary": "Amazon Web Services（AWS）は、Google CloudやMicrosoft Azureなどのクラウドと閉域網による高速な接続を実現する新サービス「AWS Interconnect - multicloud」において、5...…",
     "importance": "medium",
     "tags": [
       "it"
