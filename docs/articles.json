@@ -1,5 +1,31 @@
 [
   {
+    "title": "AIによる人員削減のせいで市場が壊滅して民主主義体制が揺らぐ「死んだ経済理論」とは？",
+    "url": "https://gigazine.net/news/20260602-ai-dead-economy-theory/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 02 Jun 2026 07:00:00 +0900",
+    "fetched_at": "2026-06-01T22:59:30.031541+00:00",
+    "summary": "AIテクノロジーの発達によりさまざまなタスクをAIが実行できるようになり、企業は人間の従業員をAIシステムに置き換えようと躍起になっています。哲学やテクノロジーに関するブログを書いているオーウェン・マクグラン氏が、AIによる人員削減がもたらす社会経済の問題を「死んだ経済理論」と名付け、起こり得る問題について指摘しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "アメリカの民家の庭で見つかった石板が約1900年前の古代ローマ水兵の墓碑だったと判明",
+    "url": "https://gigazine.net/news/20260602-roman-headstone-new-orleans-backyard/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 02 Jun 2026 06:00:00 +0900",
+    "fetched_at": "2026-06-01T22:59:30.032745+00:00",
+    "summary": "アメリカ・ニューオーリンズの民家の庭で見つかったラテン語碑文入りの大理石板が、約1900年前にローマ帝国海軍の水兵「セクストゥス・コンゲニウス・ウェルス」を記念して作られた墓碑だったと判明しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "スマホでも動作する日本語対応小型AIモデル「LFM2.5-8B-A1B」が登場",
     "url": "https://gigazine.net/news/20260531-lfm25-8b-a1b/",
     "source": "GIGAZINE",
@@ -91,6 +117,19 @@
     ]
   },
   {
+    "title": "「GTA 6」開発元の従業員が労働組合を結成",
+    "url": "https://gigazine.net/news/20260601-rockstar-games-workers-union/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 01 Jun 2026 22:00:00 +0900",
+    "fetched_at": "2026-06-01T22:59:30.033490+00:00",
+    "summary": "業界から登場が心待ちにされているゲーム「グランド・セフト・オートVI(GTA 6)」を開発するRockstar Gamesの従業員が、Rockstar Gamesに対抗するための労働組合を結成しました。同社は2025年に実施した解雇措置について不当解雇だと訴えられています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "目がかゆくてもこすらない方がいい理由とは？専門家が原因と対策を解説",
     "url": "https://gigazine.net/news/20260601-itchy-eyes-rubbing/",
     "source": "GIGAZINE",
@@ -98,6 +137,32 @@
     "published_at": "Mon, 01 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-05-31T21:55:15.418024+00:00",
     "summary": "かゆみや砂が入ったような違和感がある時に目をこするのは自然な反応です。しかし、イリノイ大学シカゴ校で眼科を専門とするテイラー・スターンズ氏とニーラム・パタディア氏は、目をこする行為にはリスクがあると指摘した上で、目をこすりたくなる原因とかゆみや違和感を減らす方法について解説しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Rust製の高速なJavaScriptバンドラ「Rolldown」がバージョン1.0に到達。ビルドツールVite 8.0で採用",
+    "url": "https://www.publickey1.jp/blog/26/rustjavascriptrolldown10vite_80.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-06-01T15:04:50Z",
+    "fetched_at": "2026-06-01T22:59:29.916435+00:00",
+    "summary": "Rutで書かれたオープンソースの高速なJavaSriptバンドラ「Rolldown」がバージョン1.0に到達しました。 esbuildの高速性とRollupの拡張性を兼ね備える Rolldownは長年にわたり人気を維持してきたJavaScr...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Oracle Database@AWSが大阪リージョンでも提供開始。これでAWS東京リージョンとAWS大阪リージョンの両方で利用可能に",
+    "url": "https://www.publickey1.jp/blog/26/oracle_databaseawsawsaws.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-06-01T15:02:13Z",
+    "fetched_at": "2026-06-01T22:59:29.919725+00:00",
+    "summary": "Amazon Web Services（AWS）は、AWSのクラウドデータセンターにOracle Cloudのインフラを持ち込み、そこでOracle Databaseを提供する「Oracle Database@AWS」がAWS大阪リージョン...…",
     "importance": "medium",
     "tags": [
       "it"
