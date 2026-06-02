@@ -1,5 +1,18 @@
 [
   {
+    "title": "鏡は割れる前に曲がるのか？スーパースローモーション映像で検証",
+    "url": "https://gigazine.net/news/20260603-mirror-bend-before-breaks/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 03 Jun 2026 07:00:00 +0900",
+    "fetched_at": "2026-06-02T22:57:46.594285+00:00",
+    "summary": "チャンネル登録者数1500万人の人気YouTuberであるThe Slow Mo Guysが、ハイスピードカメラを用いて人間の目では識別できないくらい精密に「鏡が割れる瞬間」を捉えた映像を公開しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "AIによる人員削減のせいで市場が壊滅して民主主義体制が揺らぐ「死んだ経済理論」とは？",
     "url": "https://gigazine.net/news/20260602-ai-dead-economy-theory/",
     "source": "GIGAZINE",
@@ -137,6 +150,58 @@
     "published_at": "Mon, 01 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-05-31T21:55:15.418024+00:00",
     "summary": "かゆみや砂が入ったような違和感がある時に目をこするのは自然な反応です。しかし、イリノイ大学シカゴ校で眼科を専門とするテイラー・スターンズ氏とニーラム・パタディア氏は、目をこする行為にはリスクがあると指摘した上で、目をこすりたくなる原因とかゆみや違和感を減らす方法について解説しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "［速報］マイクロソフト、自社開発した7つのAIモデル「Microsoft AI Models」を発表",
+    "url": "https://www.publickey1.jp/blog/26/7aimicrosoft_ai_models.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-06-02T18:40:20Z",
+    "fetched_at": "2026-06-02T22:57:45.764868+00:00",
+    "summary": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、自社開発した7つのAIモデル群「Microsoft AI Models」を発表しました。 MAI-Thinking-1 Micro...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "［速報］マイクロソフト、AIエージェントのためのカスタマイズ可能な分離環境「Microsoft Execution Containers （MXC）」発表",
+    "url": "https://www.publickey1.jp/blog/26/aimicrosoft_execution_containers_mxc.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-06-02T18:20:20Z",
+    "fetched_at": "2026-06-02T22:57:45.770675+00:00",
+    "summary": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、AIエージェントのためのカスタマイズ可能な分離環境「Microsoft Execution Containers （MXC）」を発表...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "［速報］Windows上でLinuxコンテナの作成や実行ができる「WSL containers」発表",
+    "url": "https://www.publickey1.jp/blog/26/windowslinuxwsl_containers.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-06-02T17:27:08Z",
+    "fetched_at": "2026-06-02T22:57:45.771724+00:00",
+    "summary": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、Windows上でLinuxコンテナの作成や実行、操作などを実現するWSL（Windows Subsystem for Linux）...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "［速報］マイクロソフト、UNIX系コマンドをWindowsに移植「Coreutils for Window」一般公開",
+    "url": "https://www.publickey1.jp/blog/26/unixwindowscoreutils_for_window.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-06-02T16:58:57Z",
+    "fetched_at": "2026-06-02T22:57:45.773113+00:00",
+    "summary": "マイクロソフトは、日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、UNIX系の基本的なコマンド群をWindowsに移植した「Coreutils for Window」の一般公開を発表しました。 Co...…",
     "importance": "medium",
     "tags": [
       "it"
