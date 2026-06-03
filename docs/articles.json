@@ -1,5 +1,31 @@
 [
   {
+    "title": "Intelの自社工場製プロセッサー「Core Ultra シリーズ 3(Panther Lake)」と「Core シリーズ 3(Wildcat Lake)」が供給不足に陥っているとの報道",
+    "url": "https://gigazine.net/news/20260603-intel-18a-supply/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 03 Jun 2026 21:00:00 +0900",
+    "fetched_at": "2026-06-03T23:01:09.272903+00:00",
+    "summary": "Intelは2026年1月に「Core Ultra シリーズ 3(コードネーム：Panther Lake)」を発表し、2026年4月には「Core シリーズ 3(コードネーム：Wildcat Lake)」を発表しました。これらのプロセッサーはIntelの18Aと呼ばれるプロセスノードで生産されているのですが、テクノロジージャーナリストのTim Culpan氏…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "16人の数学者がAIの精度や信頼性など数学分野への潜在的な脅威について警告する「ライデン宣言」を発表",
+    "url": "https://gigazine.net/news/20260603-leiden-declaration-on-ai-and-math/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 03 Jun 2026 20:00:00 +0900",
+    "fetched_at": "2026-06-03T23:01:09.274386+00:00",
+    "summary": "数学研究におけるAIの利用が証明の信頼性、著作権や貢献の帰属、研究の自律性などに影響を及ぼすとして、15大学の研究者16人からなる作業部会が2026年6月2日、「Leiden Declaration on Artificial Intelligence and Mathematics(人工知能と数学に関するライデン宣言)」を発表しました。宣言はAIを数学から…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "鏡は割れる前に曲がるのか？スーパースローモーション映像で検証",
     "url": "https://gigazine.net/news/20260603-mirror-bend-before-breaks/",
     "source": "GIGAZINE",
@@ -33,6 +59,32 @@
     "published_at": "Tue, 02 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-06-01T22:59:30.032745+00:00",
     "summary": "アメリカ・ニューオーリンズの民家の庭で見つかったラテン語碑文入りの大理石板が、約1900年前にローマ帝国海軍の水兵「セクストゥス・コンゲニウス・ウェルス」を記念して作られた墓碑だったと判明しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "CPU温度やクロック周波数などをグラフ化できる定番アプリ「HWiNFO」はNASAの実験にも活用されている",
+    "url": "https://gigazine.net/news/20260604-hwinfo-nasa/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 04 Jun 2026 07:00:00 +0900",
+    "fetched_at": "2026-06-03T23:01:09.270287+00:00",
+    "summary": "「HWiNFO」はハードウェア情報の取得および監視が可能なWindowsアプリで、CPU・GPU・メモリ・ストレージ・ケースファンなどPCに含まれるほとんどのハードウェアの情報を取得することができます。そんなHWiNFOはNASAの研究でも活用されています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「アイスマン」の体から「パン作りに使えそうな酵母」が発見される、研究チームはアイスマン由来の酵母からパン種の作成に成功",
+    "url": "https://gigazine.net/news/20260604-otzi-iceman-yeast-bread/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 04 Jun 2026 06:00:00 +0900",
+    "fetched_at": "2026-06-03T23:01:09.271653+00:00",
+    "summary": "約5300年前にアルプス山脈で死亡し、氷河の中で自然にミイラ化した「アイスマン」の体から、パン作りに使える可能性がある酵母が見つかりました。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
@@ -150,6 +202,19 @@
     "published_at": "Mon, 01 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-05-31T21:55:15.418024+00:00",
     "summary": "かゆみや砂が入ったような違和感がある時に目をこするのは自然な反応です。しかし、イリノイ大学シカゴ校で眼科を専門とするテイラー・スターンズ氏とニーラム・パタディア氏は、目をこする行為にはリスクがあると指摘した上で、目をこすりたくなる原因とかゆみや違和感を減らす方法について解説しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "マイクロソフト、AIエージェントにWindowsアプリ開発の知識を与える「Windows Development Skills」を一般提供開始",
+    "url": "https://www.publickey1.jp/blog/26/aiwindowswindows_development_skills.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-06-03T15:11:06Z",
+    "fetched_at": "2026-06-03T23:01:09.155209+00:00",
+    "summary": "マイクロソフトは日本時間6月3日未明に開幕した年次イベント「Microsoft Build 2026」で、AIエージェントにWindowsアプリ開発のライフサイクル全体に関する知識を与える「Windows Development Skill...…",
     "importance": "medium",
     "tags": [
       "it"
