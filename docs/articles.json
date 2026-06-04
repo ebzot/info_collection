@@ -65,6 +65,45 @@
     ]
   },
   {
+    "title": "AIが法学教授より学生の質問にうまく答えられるとの研究結果、ブラインドテストでもAIの方が「誤解を招く可能性が低い」と判断される",
+    "url": "https://gigazine.net/news/20260604-ai-outperforms-law-professors-stanford/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 04 Jun 2026 20:00:00 +0900",
+    "fetched_at": "2026-06-04T22:17:38.670222+00:00",
+    "summary": "スタンフォード大学ロースクールの法学教授が主導した研究により、学生からの質問には人間の法学教授よりもAIの方がうまく答えられるとの結果が示されました。さらに、回答が誤解を招くあるいは有害なものであると判断される割合も、AIの方が人間の教授よりも低かったと報告されています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "2026年6月4日のヘッドラインニュース",
+    "url": "https://gigazine.net/news/20260604-headline/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 04 Jun 2026 19:25:00 +0900",
+    "fetched_at": "2026-06-04T22:17:38.671392+00:00",
+    "summary": "牛丼チェーンの松屋で、新メニュー「ネオトマトごろごろチキンカレー」が2026年6月9日(火)10時から提供されます。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "GitHubのアクセストークンが「リンクを1回クリックしただけ」で盗まれる脆弱性が報告される",
+    "url": "https://gigazine.net/news/20260604-github-token-stealing/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 04 Jun 2026 19:05:00 +0900",
+    "fetched_at": "2026-06-04T22:17:38.672897+00:00",
+    "summary": "GitHubのブラウザ版開発環境「github.dev」で、細工されたリンクをクリックするだけでGitHubの認証トークンが盗まれる可能性があった脆弱(ぜいじゃく)性が報告されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "CPU温度やクロック周波数などをグラフ化できる定番アプリ「HWiNFO」はNASAの実験にも活用されている",
     "url": "https://gigazine.net/news/20260604-hwinfo-nasa/",
     "source": "GIGAZINE",
@@ -202,6 +241,32 @@
     "published_at": "Mon, 01 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-05-31T21:55:15.418024+00:00",
     "summary": "かゆみや砂が入ったような違和感がある時に目をこするのは自然な反応です。しかし、イリノイ大学シカゴ校で眼科を専門とするテイラー・スターンズ氏とニーラム・パタディア氏は、目をこする行為にはリスクがあると指摘した上で、目をこすりたくなる原因とかゆみや違和感を減らす方法について解説しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "SF作家のテッド・チャンが「AIは意識を持っていると考えるべきではない」と語る",
+    "url": "https://gigazine.net/news/20260605-ai-conscious/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 05 Jun 2026 07:00:00 +0900",
+    "fetched_at": "2026-06-04T22:17:38.662384+00:00",
+    "summary": "映画「メッセージ」の原作として知られるSF短編小説「あなたの人生の物語」の作者であるテッド・チャン氏が、アメリカの月刊誌「The Atlantic」に「いいえ、人工知能は意識を持っていません」と題したコラムを寄稿しました。チャン氏は生成AIに「有害な存在」と否定的な立場を取りつつ、AIに「意識」や「主体性」といった表現を用いることは非常に重大な危険性が生じる…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "鳥の自慰行為は問題行動ではなく自然な性的行動だとする研究結果",
+    "url": "https://gigazine.net/news/20260605-birds-masturbation-evolution/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 05 Jun 2026 06:00:00 +0900",
+    "fetched_at": "2026-06-04T22:17:38.669007+00:00",
+    "summary": "ペットのインコやオウムが枝やおもちゃに体をこすりつける自慰行為を見た飼い主は、ストレスや病気のサインではないかと心配するかもしれません。しかし2026年5月31日に発表された論文において、こうした自慰行為は問題行動ではなく自然な性的行動の一部である可能性が示されました。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
