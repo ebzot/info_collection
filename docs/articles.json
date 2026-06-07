@@ -169,6 +169,19 @@
     ]
   },
   {
+    "title": "妊娠中の母親が野菜を食べていると生まれてきた子どもは野菜好きになる可能性",
+    "url": "https://gigazine.net/news/20260607-young-children-vegetable-smells-womb/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 07 Jun 2026 23:00:00 +0900",
+    "fetched_at": "2026-06-07T22:00:14.214134+00:00",
+    "summary": "バランスのいい食事は子どもの健康のために重要ですが、好き嫌いが多い子どもに野菜を食べさせるのは困難な場合があります。新たな研究では、妊娠中の母親が野菜を食べていた場合、生まれてきた子どもは野菜を嫌いになりにくい可能性があると判明しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "SNS依存症を巡る訴訟が公判前に和解した一件で支払われる和解金総額は40億円以上に",
     "url": "https://gigazine.net/news/20260530-kentucky-sns-lawsuit/",
     "source": "GIGAZINE",
@@ -286,6 +299,32 @@
     ]
   },
   {
+    "title": "史上最大の株式市場デビューとなることが期待されているOpenAI・Anthropic・SpaceXを市場は受け止めきれるか？",
+    "url": "https://gigazine.net/news/20260608-stockmarket-swallow-anthropic-spacex-openai/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 08 Jun 2026 07:00:00 +0900",
+    "fetched_at": "2026-06-07T22:00:14.211470+00:00",
+    "summary": "ChatGPTの開発元でありAIブームの火付け役でもあるOpenAI、Claudeの開発元として知られるAnthropic、Grokの開発元であるxAIを傘下に持つイーロン・マスク氏率いるSpaceXというAI業界でも特に注目度の高い3社が上場を検討しています。AI大手の相次ぐ上場に市場は耐えられるのかについて、世界有数の経済紙であるThe Economis…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "鮮明な夢を見た後になぜ疲れていると感じるのか？",
+    "url": "https://gigazine.net/news/20260608-tired-after-vivid-dreams/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 08 Jun 2026 06:00:00 +0900",
+    "fetched_at": "2026-06-07T22:00:14.212843+00:00",
+    "summary": "鮮明な夢を見た後は長く眠ったはずなのに頭がぼんやりして体が重く、十分に休めていないように感じることがあります。サンシャイン・コースト大学で睡眠健康を研究するヤクート・ファティマ氏らは、こうした疲れには夢そのものよりも夢を覚えている時の目覚め方や睡眠の質が影響している可能性があると説明しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "「GTA 6」開発元の従業員が労働組合を結成",
     "url": "https://gigazine.net/news/20260601-rockstar-games-workers-union/",
     "source": "GIGAZINE",
@@ -397,6 +436,32 @@
     "published_at": "Fri, 05 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-06-04T22:17:38.669007+00:00",
     "summary": "ペットのインコやオウムが枝やおもちゃに体をこすりつける自慰行為を見た飼い主は、ストレスや病気のサインではないかと心配するかもしれません。しかし2026年5月31日に発表された論文において、こうした自慰行為は問題行動ではなく自然な性的行動の一部である可能性が示されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "CloudflareがViteやRolldownの開発元であるVoidZeroの買収を発表。これでAstroとViteがCloudflareの傘下に",
+    "url": "https://www.publickey1.jp/blog/26/cloudflareviterolldownvoidzeroastrovitecloudflare.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-06-07T15:26:45Z",
+    "fetched_at": "2026-06-07T22:00:12.904347+00:00",
+    "summary": "Cloudflareは、JavaScriptで人気のビルドツール「Vite」やバンドルツール「Rolldown」の開発元であるVoidZeroの買収を発表しました（Cloudflareの発表、VoidZeroの発表）。 Today, Voi...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "マイクロソフト独自のLinuxディストリビューション「Azure Linux 4.0」パブリックプレビュー開始。Azureに最適化、WSLでも利用可能に",
+    "url": "https://www.publickey1.jp/blog/26/linuxazure_linux_40azurewsl.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-06-07T15:21:33Z",
+    "fetched_at": "2026-06-07T22:00:12.910064+00:00",
+    "summary": "マイクロソフトは同社が独自に構築したLinuxディストリビューション「Azure Linux 4.0」のパブリックプレビューを発表しました。 Azure Linux 4.0はFedora由来のRPMベースのLinuxディストリビューションで...…",
     "importance": "medium",
     "tags": [
       "it"
