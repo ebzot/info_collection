@@ -39,6 +39,58 @@
     ]
   },
   {
+    "title": "トランプ大統領一族が仮想通貨市場や予測市場に参入するため政府機関から職員を追放したとの報道",
+    "url": "https://gigazine.net/news/20260609-cftc-trump/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 09 Jun 2026 07:00:00 +0900",
+    "fetched_at": "2026-06-08T22:22:18.187249+00:00",
+    "summary": "ニューヨーク・タイムズの調査で、ドナルド・トランプ大統領の親族とビジネス上のつながりを持つ予測市場のPolymarket、クリプト・ドットコム、Gemini Titanについて懸念を表明した商品先物取引委員会(CFTC)の職員たちが、同機関から追放されたことが明らかになりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "腸内細菌のバランスを保って睡眠を改善するための3つのヒント",
+    "url": "https://gigazine.net/news/20260609-gut-microbiota-sleep/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 09 Jun 2026 06:00:00 +0900",
+    "fetched_at": "2026-06-08T22:22:18.190096+00:00",
+    "summary": "よく眠れない時は睡眠時間や寝室の環境、寝る前のスマートフォン操作などを見直す人が多いはず。しかし、良い睡眠には腸内細菌を中心とする微生物群のバランスも関わっているとして、スペイン・マドリードにあるネブリハ大学で心理生物学を研究するサラ・ウセダ・グティエレス氏とマヌエル・レイリス・ロハス氏が、睡眠と腸内細菌叢(そう)の関係や日常生活で意識できる3つのヒントにつ…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "iPadOS 27では第8世代iPadや第5世代iPad miniがサポート対象から外れることが明らかに",
+    "url": "https://gigazine.net/news/20260609-apple-ipados-27-support/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 09 Jun 2026 05:15:00 +0900",
+    "fetched_at": "2026-06-08T22:22:18.192467+00:00",
+    "summary": "2026年6月9日(火)に開催されたAppleの年次開発者会議「WWDC26」でiPadOSの次期バージョンとなる「iPadOS 27」が発表されました。同時に発表されたiOS 27はiOS 26と同様にiPhone 11以降をサポートすることが明らかにされた一方で、Appleが公開したiPadOS 27の対応機種リストにより、第8世代iPadや第5世代iP…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "iOS 27の目玉機能である「Siri AI」がEU圏内では延期されることが決定",
+    "url": "https://gigazine.net/news/20260609-apple-wwdc26-ai-siri-eu/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 09 Jun 2026 04:46:00 +0900",
+    "fetched_at": "2026-06-08T22:22:18.193686+00:00",
+    "summary": "Appleが日本時間の2026年6月9日にWWDC26の基調講演を実施し、SiriとApple Intelligenceを統合した「Siri AI」を発表しました。このSiri AIについて、EU圏内では延期圏内ではiOS 27とiPadOS 27におけるSiri AIの提供を延期することが発表されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "AIによる人員削減のせいで市場が壊滅して民主主義体制が揺らぐ「死んだ経済理論」とは？",
     "url": "https://gigazine.net/news/20260602-ai-dead-economy-theory/",
     "source": "GIGAZINE",
@@ -436,6 +488,19 @@
     "published_at": "Fri, 05 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-06-04T22:17:38.669007+00:00",
     "summary": "ペットのインコやオウムが枝やおもちゃに体をこすりつける自慰行為を見た飼い主は、ストレスや病気のサインではないかと心配するかもしれません。しかし2026年5月31日に発表された論文において、こうした自慰行為は問題行動ではなく自然な性的行動の一部である可能性が示されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Ubuntu、サンドボックス化された開発環境をコマンド一発で構築。新機能「Workshop」リリース",
+    "url": "https://www.publickey1.jp/blog/26/ubuntuworkshop.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-06-08T15:43:33Z",
+    "fetched_at": "2026-06-08T22:22:17.344768+00:00",
+    "summary": "Ubuntuの開発元であるCanonicalは、AIエージェントなどに適したサンドボックス化された開発環境をコマンド一発で構築できる新機能「Workshop」をリリースしました。 Today we announced Workshop – ...…",
     "importance": "medium",
     "tags": [
       "it"
