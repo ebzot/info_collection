@@ -1,5 +1,57 @@
 [
   {
+    "title": "イスラエルがイランの監視カメラ映像をAIで分析してハメネイ師の位置を特定したことを受けてロシアはプーチン大統領を警護する監視システムの一部を一時停止",
+    "url": "https://gigazine.net/news/20260610-protecting-putin-system/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 10 Jun 2026 07:00:00 +0900",
+    "fetched_at": "2026-06-09T22:19:19.093806+00:00",
+    "summary": "現地時間2026年2月28日にイスラエルがイランへ先制攻撃を実施し、首都テヘラン中心部を爆撃した際に、イランの最高指導者アリ・ハメネイ師が死亡しています。この攻撃について、ハメネイ師と側近らが会談する場所と日時を、交通監視カメラにハッキングすることでイスラエル諜報機関が特定していたとされています。これを受けてロシアの治安機関は、ウラジーミル・プーチン大統領と…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "無料でMetaがデータセンター建設の訓練を行う短期プログラム「人材育成アカデミー」を開設、1億1500万ドルを投じ卒業後はMetaの建設現場での雇用を保証",
+    "url": "https://gigazine.net/news/20260610-meta-workforce-academy/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 10 Jun 2026 06:00:00 +0900",
+    "fetched_at": "2026-06-09T22:19:19.095184+00:00",
+    "summary": "Metaがデータセンターの建設を促進するため、熟練技能職への新規参入者を対象とした研修プログラム「アメリカ人材育成アカデミー」を開設しました。Metaはプログラムに1億1500万ドル(約180億円)を投資しており、参加費は無料で卒業生にはMetaデータセンター関係の就職を保証することが約束されています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「ゼルダの伝説 時のオカリナ」がNintendo Switch 2でフルリメイク",
+    "url": "https://gigazine.net/news/20260610-the-legend-of-zelda-ocarina-of-time-nintendo-switch-2/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 10 Jun 2026 01:38:00 +0900",
+    "fetched_at": "2026-06-09T22:19:19.098719+00:00",
+    "summary": "1998年にNINTENDO 64向けのゲームとして登場した、ゼルダの伝説シリーズ初の3D作品である「ゼルダの伝説 時のオカリナ」が、Nintendo Switch 2で再びリメイクされます。なお、「ゼルダの伝説 時のオカリナ」は2011年6月にニンテンドー3DS向けにリメイクされ「ゼルダの伝説 時のオカリナ 3D」として発売されています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "2026年後半に発売されるNintendo Switch 2向けソフトを中心に最新情報を発信しまくる「Nintendo Direct 2026.6.9」まとめ",
+    "url": "https://gigazine.net/news/20260610-nintendo-direct-2026-6-9/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 10 Jun 2026 01:22:00 +0900",
+    "fetched_at": "2026-06-09T22:19:19.099877+00:00",
+    "summary": "任天堂が2026年後半に発売されるNintendo Switch 2／Nintendo Switch向けソフトに関する情報を中心に発信する「Nintendo Direct 2026.6.9」を、2026年6月9日23時から配信しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "Intelの自社工場製プロセッサー「Core Ultra シリーズ 3(Panther Lake)」と「Core シリーズ 3(Wildcat Lake)」が供給不足に陥っているとの報道",
     "url": "https://gigazine.net/news/20260603-intel-18a-supply/",
     "source": "GIGAZINE",
@@ -488,6 +540,19 @@
     "published_at": "Fri, 05 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-06-04T22:17:38.669007+00:00",
     "summary": "ペットのインコやオウムが枝やおもちゃに体をこすりつける自慰行為を見た飼い主は、ストレスや病気のサインではないかと心配するかもしれません。しかし2026年5月31日に発表された論文において、こうした自慰行為は問題行動ではなく自然な性的行動の一部である可能性が示されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Cloudflare、従業員やアプリごとにAIの利用上限額を設定できるCloudflare AI Gatewayの新機能を発表",
+    "url": "https://www.publickey1.jp/blog/26/cloudflareaicloudflare_ai_gateway.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-06-09T15:55:18Z",
+    "fetched_at": "2026-06-09T22:19:18.933185+00:00",
+    "summary": "Cloudflareは、同社が提供するサービス「Cloudflare AI Gateway」の新機能として、全社でAIベンダのAPIキーを共有して使用していても、従業員やアプリごとに毎月のAIの利用料の上限額を設定できる[新機能を発表しまし...…",
     "importance": "medium",
     "tags": [
       "it"
