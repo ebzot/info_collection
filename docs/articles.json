@@ -1,5 +1,31 @@
 [
   {
+    "title": "ComfyUIがOpenAI・Anthropic・Google・MoonshotのAIを競わせてプルリクをレビューする仕組みを公開",
+    "url": "https://gigazine.net/news/20260610-comfyui-four-rival-review/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 10 Jun 2026 21:00:00 +0900",
+    "fetched_at": "2026-06-10T22:50:00.706803+00:00",
+    "summary": "コンテンツ生成AIアプリ「ComfyUI」の開発チームが、4つのAIモデルを使ってプルリクエストをレビューする仕組み「Cursor Review」を公開し、解説記事が公式ブログに掲載されました。OpenAI、Anthropic、Google、Moonshotのモデルに同じプルリクエスト(PR)を別々の観点からチェックさせ、最後に1つの判定モデルが結果を整理し…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AIの誤検知による誤認逮捕で職・家・2人の子どもの親権を失う事例が発生",
+    "url": "https://gigazine.net/news/20260610-ai-misidentification-wrongful-arrest/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 10 Jun 2026 20:00:00 +0900",
+    "fetched_at": "2026-06-10T22:50:00.707782+00:00",
+    "summary": "アメリカ・ノースカロライナ州シャーロット在住のジャリル・リチャードソン氏は、AIによる顔認識技術によって、自身が犯していない自動車窃盗の容疑で誤認逮捕されました。同氏は数カ月間拘留された後、訴訟を取り下げてもらうことに成功したものの、その間に職を失い、家を失い、2人の子どもの親権まで失っています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "イスラエルがイランの監視カメラ映像をAIで分析してハメネイ師の位置を特定したことを受けてロシアはプーチン大統領を警護する監視システムの一部を一時停止",
     "url": "https://gigazine.net/news/20260610-protecting-putin-system/",
     "source": "GIGAZINE",
@@ -163,6 +189,32 @@
     "published_at": "Tue, 02 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-06-01T22:59:30.032745+00:00",
     "summary": "アメリカ・ニューオーリンズの民家の庭で見つかったラテン語碑文入りの大理石板が、約1900年前にローマ帝国海軍の水兵「セクストゥス・コンゲニウス・ウェルス」を記念して作られた墓碑だったと判明しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「陰謀論にハマる数年前から兆候がある」という研究結果、機械学習モデルで見えた特徴的な言葉遣い",
+    "url": "https://gigazine.net/news/20260611-conspiracy-language/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 11 Jun 2026 07:00:00 +0900",
+    "fetched_at": "2026-06-10T22:50:00.704623+00:00",
+    "summary": "陰謀論コミュニティに関与したユーザーは、陰謀論について語っていない場所でも特徴的な言葉遣いをしており、しかも陰謀論コミュニティに関与する前から同様の傾向が見られるという研究結果が発表されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "1日1杯未満の飲酒でも複数のがんリスク上昇につながるという研究結果",
+    "url": "https://gigazine.net/news/20260611-alcohol-cancer-risk-low-consumption/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 11 Jun 2026 06:00:00 +0900",
+    "fetched_at": "2026-06-10T22:50:00.705911+00:00",
+    "summary": "「少しお酒を飲む程度なら大きな問題はない」と考えている人は多いかもしれません。しかし、ワシントン大学の研究チームが飲酒とがん・心血管疾患・2型糖尿病・認知症などの関係を調べたところ、少量の飲酒でも複数のがんリスク上昇につながることが示されました。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
@@ -540,6 +592,19 @@
     "published_at": "Fri, 05 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-06-04T22:17:38.669007+00:00",
     "summary": "ペットのインコやオウムが枝やおもちゃに体をこすりつける自慰行為を見た飼い主は、ストレスや病気のサインではないかと心配するかもしれません。しかし2026年5月31日に発表された論文において、こうした自慰行為は問題行動ではなく自然な性的行動の一部である可能性が示されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Apple、macOS上にLinuxコンテナを統合する新機能「Container machine」バージョン1.0リリース",
+    "url": "https://www.publickey1.jp/blog/26/applemacoslinuxcontainer_machine10.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-06-10T15:29:34Z",
+    "fetched_at": "2026-06-10T22:50:00.589505+00:00",
+    "summary": "Appleは日本時間6月9日未明に開催した開発者向けの年次イベント「WWDC26」で、macOSに統合された形でLinuxコンテナを起動し、利用できる新機能「Container machine」バージョン1.0のリリースを発表しました。 C...…",
     "importance": "medium",
     "tags": [
       "it"
