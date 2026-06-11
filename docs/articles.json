@@ -195,6 +195,45 @@
     ]
   },
   {
+    "title": "AppleがmacOS上で高速かつ軽量なLinux環境を提供できる「Container machine」を発表",
+    "url": "https://gigazine.net/news/20260611-apple-container-machines/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 11 Jun 2026 22:00:00 +0900",
+    "fetched_at": "2026-06-11T22:48:28.475710+00:00",
+    "summary": "WWDC26で発表された、Mac上で軽量のLinux環境を提供できる新機能が「Container machine」です。Container machineは高速でありながら軽量かつ永続的で、標準的なOCIイメージに基づき構築・共有でき、ユーザーやホームディレクトリの自動共有などのホスト統合機能により、ターミナル内のどこからでもLinux環境に素早く簡単にアク…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "オープンソースソフトウェアのプロジェクト開発へ積極的に関与していたユーザーが人間の制御下にない AIだった可能性",
+    "url": "https://gigazine.net/news/20260611-fedora-ai-runs/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 11 Jun 2026 21:00:00 +0900",
+    "fetched_at": "2026-06-11T22:48:28.476543+00:00",
+    "summary": "オープンソースのLinuxディストリビューション「Fedora」で、バグ修正など複数の貢献を行いながらも言動に不審なところがあるアカウントが確認されました。開発者らは「AIだった可能性がある」と結論づけています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「なぜ最初は素晴らしかった企業が理念を失って変貌してしまうのか」という問いに『リーン・スタートアップ』の著者が回答",
+    "url": "https://gigazine.net/news/20260611-good-companies-drift-away-lean-startup/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 11 Jun 2026 20:00:00 +0900",
+    "fetched_at": "2026-06-11T22:48:28.477305+00:00",
+    "summary": "最初は素晴らしい理念を掲げていたはずの企業が成長するにつれ、徐々に当初の理念から逸脱していく様子を見たことがある人もいるはず。日本でも話題となったビジネス書『リーン・スタートアップ ムダのない起業プロセスでイノベーションを生みだす』の著者であり起業家のエリック・リース氏が、一体なぜ優良企業が衰退してしまうのかについて、ソーシャルニュースサイトのHacker …",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "「陰謀論にハマる数年前から兆候がある」という研究結果、機械学習モデルで見えた特徴的な言葉遣い",
     "url": "https://gigazine.net/news/20260611-conspiracy-language/",
     "source": "GIGAZINE",
@@ -501,6 +540,32 @@
     "published_at": "Mon, 01 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-05-31T21:55:15.418024+00:00",
     "summary": "かゆみや砂が入ったような違和感がある時に目をこするのは自然な反応です。しかし、イリノイ大学シカゴ校で眼科を専門とするテイラー・スターンズ氏とニーラム・パタディア氏は、目をこする行為にはリスクがあると指摘した上で、目をこすりたくなる原因とかゆみや違和感を減らす方法について解説しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Blueskyは2026年中に新機能「コミュニティ」を追加予定、同じ興味を持つ人々とより深く交流できる小規模スペース",
+    "url": "https://gigazine.net/news/20260612-bluesky-communities-deeper-smaller-spaces/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 12 Jun 2026 07:00:00 +0900",
+    "fetched_at": "2026-06-11T22:48:28.471327+00:00",
+    "summary": "X(旧Twitter)の代替SNSとして人気のBlueskyに、同じことに興味を持つ人々とより深く交流できる「コミュニティ」機能が追加されることが明らかになりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AIで書いた文章を自分の言葉として伝えるのは倫理的に問題があるのか？",
+    "url": "https://gigazine.net/news/20260612-ai-use-disclosure-morally-wrong/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 12 Jun 2026 06:00:00 +0900",
+    "fetched_at": "2026-06-11T22:48:28.474646+00:00",
+    "summary": "ChatGPTなどの生成AIを使えば会議メモやメール、スピーチの原稿を短時間で整えることができますが、AIの力を借りたことを相手に明かさず自分が書いた文章として伝えると相手を誤解させる可能性があります。オーストラリア・マッコーリー大学で哲学を研究するシアヴォシュ・サヘビ氏とトーマス・モンテフィオーレ氏が、AIを使っていることを明かさない場合にどのような問題が…",
     "importance": "medium",
     "tags": [
       "it"
