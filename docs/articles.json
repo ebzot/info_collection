@@ -429,6 +429,71 @@
     ]
   },
   {
+    "title": "KDPで「予約注文禁止状態」になってから解除されるまでの経緯をまとめてみた",
+    "url": "https://gigazine.net/news/20260613-kdp-pre-orders/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 13 Jun 2026 20:00:00 +0900",
+    "fetched_at": "2026-06-13T21:59:03.035598+00:00",
+    "summary": "GIGAZINEがマンガや作品集などをリリースするために使用しているAmazonのKindleダイレクト・パブリッシング(KDP)では、本を「予約注文用に設定」という機能を使うことで、「本のストアを開設して予約注文できるが発売日まで本をダウンロードできない」といった設定が可能です。新しい作品をリリースする際に「予約注文用に設定」でトラブルが発生したところ、「…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "無料でローカルで動きデバイス間で同期可能な自分だけのObsidianを作ってメモや知識をため込んで整理できる「Files.md」、オープンソースでセルフホストも可能",
+    "url": "https://gigazine.net/news/20260613-files-md/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 13 Jun 2026 18:00:00 +0900",
+    "fetched_at": "2026-06-13T21:59:03.039757+00:00",
+    "summary": "Obsidianのようなノートアプリを使い込むほどプラグインや自動化ワークフローの管理が増え、ノート整理自体が目的になってしまうことがあります。機能を意図的に絞り込み、ブラウザだけで動作しPWAとして無料で使えるうえ、クラウドストレージやセルフホストサーバーを通じたデバイス間同期にも対応したオープンソースの「Files.md」が公開されています。 続きを読む…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Steamの運営元Valveが1日で13トンのVRヘッドセットを輸入、間もなく発売のSteam Frameの初期出荷分か",
+    "url": "https://gigazine.net/news/20260613-valve-imported-13-tons-vr-headsets/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 13 Jun 2026 13:00:00 +0900",
+    "fetched_at": "2026-06-13T21:59:03.040728+00:00",
+    "summary": "ゲーム配信プラットフォームのSteamを運営するValveは、スタンドアローン型のVRヘッドセットである「Steam Frame」を2026年夏に発売予定です。このSteam Frameが、アメリカ国内に輸入されているとテクノロジーメディアのThe Vergeが報じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "インライン3Dグラフィックスを備えたGPUレンダリングのターミナルエミュレータ「Ratty」、回転するネズミのカーソル付き",
+    "url": "https://gigazine.net/news/20260613-ratty/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 13 Jun 2026 12:00:00 +0900",
+    "fetched_at": "2026-06-13T21:59:03.041513+00:00",
+    "summary": "Rattyはインライン3DグラフィックスによるGPUレンダリングをサポートするターミナルエミュレータです。フリー・オープンソースソフトウェアを扱うニュースサイトのIt's FOSSが「馬鹿げているけど滅茶苦茶楽しい」と評したアプリと聞いて気になったので調べてみました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Anthropicがアメリカ政府の指示で「Claude Fable 5」と「Claude Mythos 5」の提供を停止",
+    "url": "https://gigazine.net/news/20260613-anthropic-claude-fable-mythos-suspend/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 13 Jun 2026 11:28:00 +0900",
+    "fetched_at": "2026-06-13T21:59:03.042556+00:00",
+    "summary": "Anthropicが「Claude Mythos 5」および「Claude Fable 5」の提供を停止しました。Anthropicは「アメリカ政府の国家安全保障当局による指示」が原因であると説明しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "政治家がインタビューで質問に答えない時に使う35種類のテクニックとは？",
     "url": "https://gigazine.net/news/20260613-politicians-35-techniques/",
     "source": "GIGAZINE",
