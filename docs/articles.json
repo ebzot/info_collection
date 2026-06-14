@@ -364,6 +364,19 @@
     ]
   },
   {
+    "title": "メモ書き機能付きAmazon純正電子書籍リーダー「Kindle Scribe」に初のカラー表示可能な「Kindle Scribe Colorsoft」を含む3モデルが新登場したので使ってみた",
+    "url": "https://gigazine.net/news/20260614-kindle-scribe-2026/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 14 Jun 2026 21:00:00 +0900",
+    "fetched_at": "2026-06-14T22:04:49.967146+00:00",
+    "summary": "Amazonは2025年9月に手書き可能な電子ペーパー搭載デバイス「Kindle Scribe」の新型モデルを発表しました。新たなKindle Scribeはフロントライトの有無を選択可能なほか、カラー表示に対応した「Kindle Scribe Colorsoft」もラインナップされています。2026年6月10日に発売したKindle Scribeの3モデル…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "妊娠中の母親が野菜を食べていると生まれてきた子どもは野菜好きになる可能性",
     "url": "https://gigazine.net/news/20260607-young-children-vegetable-smells-womb/",
     "source": "GIGAZINE",
@@ -585,6 +598,32 @@
     ]
   },
   {
+    "title": "検索エンジンに「AIによる概要」が表示される状況で自社のウェブサイトを見てもらいやすくする方法とは？",
+    "url": "https://gigazine.net/news/20260615-make-your-website-discoverable-by-ai/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 15 Jun 2026 07:00:00 +0900",
+    "fetched_at": "2026-06-14T22:04:49.965082+00:00",
+    "summary": "近年は検索エンジン各社がAIを導入しており、検索結果画面に「AIによる概要」が表示されたり、AIとチャットして情報を探すことが当たり前になったりしています。そんな状況下で、自社のウェブサイトがAIによる概要やAIの回答に表示されやすくするための4つのポイントについて、ホスティングブログサービスの「WordPress.com」を提供するAutomatticがま…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AMDの自動更新ツールに見つかったリモートコード実行の脆弱性、報告から公開までに何が起きたのか",
+    "url": "https://gigazine.net/news/20260615-amd-auto-updater-vulnerability-rce/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 15 Jun 2026 06:00:00 +0900",
+    "fetched_at": "2026-06-14T22:04:49.966418+00:00",
+    "summary": "AMDの自動更新ツールにリモートコード実行につながる可能性がある脆弱(ぜいじゃく)性が見つかりました。セキュリティ研究者のMrBruh氏はAMDに報告したものの、中間者攻撃を前提とするため報奨金制度の対象外と判断され、その対応を巡って議論が広がっています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "史上最大の株式市場デビューとなることが期待されているOpenAI・Anthropic・SpaceXを市場は受け止めきれるか？",
     "url": "https://gigazine.net/news/20260608-stockmarket-swallow-anthropic-spacex-openai/",
     "source": "GIGAZINE",
@@ -787,6 +826,32 @@
     "published_at": "Fri, 05 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-06-04T22:17:38.669007+00:00",
     "summary": "ペットのインコやオウムが枝やおもちゃに体をこすりつける自慰行為を見た飼い主は、ストレスや病気のサインではないかと心配するかもしれません。しかし2026年5月31日に発表された論文において、こうした自慰行為は問題行動ではなく自然な性的行動の一部である可能性が示されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "WASI 0.3が正式版に。WebAssembly Componentの非同期処理が共通基盤に",
+    "url": "https://www.publickey1.jp/blog/26/wasi_03webassembly_component.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-06-14T15:24:47Z",
+    "fetched_at": "2026-06-14T22:04:49.796668+00:00",
+    "summary": "WebAssembly関連仕様の標準化を行っているByteCode Allianceは、WebAssemblyを基盤としたコンポーネントモデルの最新仕様「WASI 0.3」（WebAssembly System Interface Prev...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "2027年までにAIエージェントでコーディングを行うチームの65％が、IDEが必要不可欠だとは考えなくなる。ガートナーの予想",
+    "url": "https://www.publickey1.jp/blog/26/2027ai65ide.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-06-14T15:23:43Z",
+    "fetched_at": "2026-06-14T22:04:49.800711+00:00",
+    "summary": "調査会社のガートナーは、エンタープライズ市場におけるAIコーディングエージェント市場が、拡大と競争再編の新たな段階に突入したとし、それに関する予想を発表しました。 AIによる支援を用いたコーディング作業は、当初はVisual Studio ...…",
     "importance": "medium",
     "tags": [
       "it"
