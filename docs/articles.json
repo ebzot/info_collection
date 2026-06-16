@@ -1,5 +1,18 @@
 [
   {
+    "title": "ヴァイキング最初期の銀貨はイスラム圏から来た銀を混ぜて作られていた可能性がある",
+    "url": "https://gigazine.net/news/20260617-viking-islamic-silver-coins/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 17 Jun 2026 06:00:00 +0900",
+    "fetched_at": "2026-06-16T21:51:20.110291+00:00",
+    "summary": "ヴァイキングは略奪者として語られることが多い一方で、ヨーロッパ各地やその外側まで広がる交易にも深く関わっていました。デンマークで見つかったヴァイキング時代初期の銀貨266枚についてデンマーク・オーフス大学やデンマーク国立博物館などの研究チームが化学組成と鉛同位体を分析したところ、スカンジナビアで作られた最初期の銀貨に、西ヨーロッパ由来の銀だけでなくイスラム圏…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "ComfyUIがOpenAI・Anthropic・Google・MoonshotのAIを競わせてプルリクをレビューする仕組みを公開",
     "url": "https://gigazine.net/news/20260610-comfyui-four-rival-review/",
     "source": "GIGAZINE",
@@ -111,6 +124,45 @@
     "published_at": "Wed, 03 Jun 2026 07:00:00 +0900",
     "fetched_at": "2026-06-02T22:57:46.594285+00:00",
     "summary": "チャンネル登録者数1500万人の人気YouTuberであるThe Slow Mo Guysが、ハイスピードカメラを用いて人間の目では識別できないくらい精密に「鏡が割れる瞬間」を捉えた映像を公開しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "力こそパワーな筋肉駆動の手回し式AIマシン「CrankGPT」が登場、負荷の高いAI処理ほど多くの筋力を求められる仕様",
+    "url": "https://gigazine.net/news/20260616-crankgpt-local-human-powered-ai/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 16 Jun 2026 23:00:00 +0900",
+    "fetched_at": "2026-06-16T21:51:20.112008+00:00",
+    "summary": "ChatGPTなどの主流のAIサービスは大規模な電力を消費するAIデータセンターで処理が実行されており、ローカルAIも「消費電力の大きなGPUをゴリゴリ回す」というイメージがあります。そんな時流に反して登場したAIデバイスが「CrankGPT」で、手回し式発電によって電力を賄いつつ音声会話AIをローカル実行することができます。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "EPUBファイルに何も問題がないのにKoboで非対応となるのはAdobeが原因だった",
+    "url": "https://gigazine.net/news/20260616-epub-kobo-adobe/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 16 Jun 2026 22:00:00 +0900",
+    "fetched_at": "2026-06-16T21:51:20.112870+00:00",
+    "summary": "新しい本を電子書籍ファイルフォーマットのEPUBで公開したところ、楽天の電子書籍リーダー・Koboでのみ「破損している」と報告があったため調査した結果、KoboではなくAdobeのソフトウェアに問題があったという経緯とトラブルの詳細について、ライターのアンドレ・クライン氏がまとめています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "テクノロジー業界のリーダーたちが「魅力的なオタク」から「嫌な金持ち」へと変貌を遂げた経緯とは？",
+    "url": "https://gigazine.net/news/20260616-nerds-technology-industry-leader-terrifying-overlord/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 16 Jun 2026 21:00:00 +0900",
+    "fetched_at": "2026-06-16T21:51:20.114409+00:00",
+    "summary": "近年は積極的にSNSで発信したり、ポッドキャストに出演したりするテクノロジー企業の創業者や幹部が増えていますが、中には世間一般の感覚とずれた発言をして炎上するケースもあります。テクノロジー系ブロガーのMr. Marketが、テクノロジー業界のリーダーたちが「魅力的なオタク」から「嫌な金持ち」に変貌してしまった理由についてまとめています。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
@@ -878,6 +930,19 @@
     "published_at": "Fri, 05 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-06-04T22:17:38.669007+00:00",
     "summary": "ペットのインコやオウムが枝やおもちゃに体をこすりつける自慰行為を見た飼い主は、ストレスや病気のサインではないかと心配するかもしれません。しかし2026年5月31日に発表された論文において、こうした自慰行為は問題行動ではなく自然な性的行動の一部である可能性が示されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "GitLab、AIエージェント向けの次世代Git互換ソースコード管理サービス「Project Switch」発表。最大で50倍高速かつ半分のトークンで利用可能に",
+    "url": "https://www.publickey1.jp/blog/26/gitlabaigitproject_switch50.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-06-16T18:05:15Z",
+    "fetched_at": "2026-06-16T21:51:19.883103+00:00",
+    "summary": "GitLabは6月10日にロンドンで開催したイベント「GitLab Transcend」で、AIエージェント向けの次世代Git互換ソースコード管理サービス「Project Switch」を発表しました。 GitLabやGitHubが提供する...…",
     "importance": "medium",
     "tags": [
       "it"
