@@ -611,6 +611,19 @@
     ]
   },
   {
+    "title": "メモ書き機能付きAmazon純正電子書籍リーダー「Kindle Scribe」2026年モデルに追加された新機能や初のカラーモデルのメモ書きを使ってみた",
+    "url": "https://gigazine.net/news/20260620-kindle-scribe-writing/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 20 Jun 2026 00:00:00 +0900",
+    "fetched_at": "2026-06-19T21:25:44.614081+00:00",
+    "summary": "2026年6月10日に発売した手書きメモ可能な電子ペーパー搭載デバイス「Kindle Scribe」の新型モデルは、カラー表示に対応した「Kindle Scribe Colorsoft」がラインナップされて色付きのメモができるようになったほか、書き心地や視差が改善されています。そんなKindle Scribeのメモ書き機能を新機能も合わせて使ってみました。 …",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "KDPで「予約注文禁止状態」になってから解除されるまでの経緯をまとめてみた",
     "url": "https://gigazine.net/news/20260613-kdp-pre-orders/",
     "source": "GIGAZINE",
@@ -878,6 +891,58 @@
     "published_at": "Mon, 01 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-05-31T21:55:15.418024+00:00",
     "summary": "かゆみや砂が入ったような違和感がある時に目をこするのは自然な反応です。しかし、イリノイ大学シカゴ校で眼科を専門とするテイラー・スターンズ氏とニーラム・パタディア氏は、目をこする行為にはリスクがあると指摘した上で、目をこすりたくなる原因とかゆみや違和感を減らす方法について解説しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "その人の「名前」がAIモデルの中でどれほど強く重み付けされているのかがわかる「IN THE WEIGHTS」",
+    "url": "https://gigazine.net/news/20260619-intheweights-llm-weights-name/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 19 Jun 2026 23:00:00 +0900",
+    "fetched_at": "2026-06-19T21:25:44.619643+00:00",
+    "summary": "大規模言語モデルのトレーニングでは、より正確な出力結果を得るために入力データの重要度を調整する「重み付け」が行われます。「IN THE WEIGHTS」は歴史上の偉人や芸能人、スポーツ選手などさまざまな人物の「名前」が、AIモデルの中でどれほど強く重み付けされているのかがわかるサービスです。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "FIFAワールドカップ2026の公式ボール「トリオンダ」の空力特性を日本の研究チームが徹底検証した結果は？",
+    "url": "https://gigazine.net/news/20260619-world-cup-ball-trionda/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 19 Jun 2026 22:00:00 +0900",
+    "fetched_at": "2026-06-19T21:25:44.620873+00:00",
+    "summary": "4年に1度のサッカーの祭典であるFIFAワールドカップでは、いくつかの厳格なルールが存在します。ピッチサイズは厳格に規定されており、オフサイドは旗で示され、審判は笛を吹いて試合終了を知らせなければいけません。しかし、試合で使用されるボールは大会ごとに変更されており、FIFAワールドカップ2026ではアディダスの「トリオンダ」が採用されています。そんなトリオン…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "アメリカのエネルギー当局がデータセンターへの電力供給を加速するよう電力会社に指示",
+    "url": "https://gigazine.net/news/20260619-us-ferc-energy-order/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 19 Jun 2026 21:00:00 +0900",
+    "fetched_at": "2026-06-19T21:25:44.622088+00:00",
+    "summary": "アメリカの連邦エネルギー規制委員会が送電網運営者に対し、データセンターなどの非常に大規模なエネルギー消費施設を迅速に送電網へ接続するための新たなプロトコルを検討するよう命じました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AIに「分からないことを分からないと認める力」は身につくのか？OpenAIが有益な性質を強化学習で定着させる研究結果を公開",
+    "url": "https://gigazine.net/news/20260619-openai-beneficial-rl/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 19 Jun 2026 20:00:00 +0900",
+    "fetched_at": "2026-06-19T21:25:44.623711+00:00",
+    "summary": "OpenAIは2026年6月18日、AIに正直さや不確実性を認める謙虚さ、訂正を受け入れる姿勢、公平性などの有益な性質を学習させると訓練に使っていない分野でも望ましい振る舞いが広がり、悪意ある指示にも崩されにくくなるという研究結果を公開しました。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
