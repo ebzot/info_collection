@@ -611,6 +611,71 @@
     ]
   },
   {
+    "title": "歩きながらブレのない安定した動画を撮影できる小型カメラ「Osmo Pocket 4」でVlogっぽい散歩動画を撮影してみたよレビュー",
+    "url": "https://gigazine.net/news/20260620-osmo-pocket-4-example/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 20 Jun 2026 20:08:00 +0900",
+    "fetched_at": "2026-06-20T21:29:39.884174+00:00",
+    "summary": "「Osmo Pocket 4」は2026年4月22日に登場した小型のカメラです。本体をどれだけ動かしてもカメラ部分を水平の安定した状態に保てる「ジンバル」を搭載しているのが大きな特徴で、歩きながらでもブレの少ない動画を撮影することができます。そんなOsmo Pocket 4がGIGAZINE編集部に届いたので実際に外に持ち出してどんな動画を撮影できるのか確か…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "お酒とソフトドリンクを交互に飲むことで二日酔いを回避できるのか？",
+    "url": "https://gigazine.net/news/20260620-zebra-striping-drink-less-hangover/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 20 Jun 2026 20:00:00 +0900",
+    "fetched_at": "2026-06-20T21:29:39.887759+00:00",
+    "summary": "飲み会の前には「健康のためにお酒を控えめにしよう」と決心していても、場の雰囲気に流されて2杯、3杯と酒量が増えてしまうのはよくあることです。そんな中、欧米ではアルコール入りのお酒とノンアルコールのソフトドリンクを交互に飲む「zebra striping(ゼブラ飲み)」が、健康志向の人々の間で流行しています。果たしてゼブラ飲みが二日酔いの悪影響を軽減するのかど…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "カメラが進化しデザインも刷新されたソニー「Xperia 1 VIII」で写真や動画を撮ってきたよ作例まとめ",
+    "url": "https://gigazine.net/news/20260620-sony-xperia-1-viii-camera/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 20 Jun 2026 19:00:00 +0900",
+    "fetched_at": "2026-06-20T21:29:39.889154+00:00",
+    "summary": "ソニーが2026年6月11日に発売した「Xperia」シリーズのフラッグシップモデル「Xperia 1 VIII」は「超広角カメラ」「広角カメラ」「望遠カメラ」の3眼構成で、望遠カメラのセンサーサイズが前世代と比較して4倍になっています。そんなXperia 1 VIIIで写真やムービーをいろいろ撮影してきました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "フォルクスワーゲンがGrapheneOSで利用不能に、API変更でサードパーティモジュール全般が機能停止",
+    "url": "https://gigazine.net/news/20260620-volkswagen-grapheneos/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 20 Jun 2026 18:25:00 +0900",
+    "fetched_at": "2026-06-20T21:29:39.890610+00:00",
+    "summary": "フォルクスワーゲンは公式アプリと連携することで、走行距離を確認したり乗車前にエアコンをオンにしておいたりと、スマートフォンから便利な操作をすることができるほか、フォルクスワーゲンのAPIを使用することで、充電ソリューションの設定やサードパーティアプリからの車両制御などが可能です。しかし、フォルクスワーゲンがAPIの認証フローを変更したことでサードパーティソフ…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "無料でブラウザからSSH・RDP・VNCができる「Pangolin」、オープンソースでセルフホスト可能",
+    "url": "https://gigazine.net/news/20260620-pangolin/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 20 Jun 2026 18:00:00 +0900",
+    "fetched_at": "2026-06-20T21:29:39.891956+00:00",
+    "summary": "固定IPもポート開放も不要でファイアウォール内のSSH・RDP・VNCをブラウザから直接操作でき、ポートの転送も簡単に設定できるリモートアクセス基盤「Pangolin」が、オープンソースソフトウェアとして公開されています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "メモ書き機能付きAmazon純正電子書籍リーダー「Kindle Scribe」2026年モデルに追加された新機能や初のカラーモデルのメモ書きを使ってみた",
     "url": "https://gigazine.net/news/20260620-kindle-scribe-writing/",
     "source": "GIGAZINE",
