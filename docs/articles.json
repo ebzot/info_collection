@@ -533,6 +533,32 @@
     ]
   },
   {
+    "title": "ハチミツは運動のパフォーマンス向上に役立つのか？",
+    "url": "https://gigazine.net/news/20260621-honey-natural-fuel-workouts/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 21 Jun 2026 23:00:00 +0900",
+    "fetched_at": "2026-06-21T21:29:34.403209+00:00",
+    "summary": "ミツバチが集めた花の蜜であるハチミツは健康食品やエネルギー源として古くから重宝されており、一部のSNSユーザーやインフルエンサーは、ハチミツが運動やスポーツ前のエネルギー源として最適だと主張しています。果たして運動前にハチミツを食べるのがパフォーマンス向上に役立つのかどうかについて、イギリス・エセックス大学の運動科学講師であるヘンリー・チャン氏らが解説しまし…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "無料でグラボのVRAMが壊れていないかチェックできるツール「memtest_vulkan」の使い方、インストール不要でダブルクリックして待つだけでOK",
+    "url": "https://gigazine.net/news/20260621-gpu-vram-check-memtest-vulkan/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 21 Jun 2026 22:52:00 +0900",
+    "fetched_at": "2026-06-21T21:29:34.404746+00:00",
+    "summary": "ゲームやAI処理ではGPUのメモリである「VRAM」を酷使します。VRAMに異常が発生しているとGPUの性能を十分に引き出せずにゲームプレイ中にフリーズが発生したりAI処理を正常に実行できなくなったりします。「memtest_vulkan」は自分の使っているGPUのVRAMが故障していないかチェックできる無料ツールで、インストール不要でダブルクリックするだけ…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "メモ書き機能付きAmazon純正電子書籍リーダー「Kindle Scribe」に初のカラー表示可能な「Kindle Scribe Colorsoft」を含む3モデルが新登場したので使ってみた",
     "url": "https://gigazine.net/news/20260614-kindle-scribe-2026/",
     "source": "GIGAZINE",
@@ -839,6 +865,19 @@
     "published_at": "Sat, 06 Jun 2026 18:00:00 +0900",
     "fetched_at": "2026-06-06T21:59:51.213751+00:00",
     "summary": "「LLM Checker」は自分のPCのハードウェアをスキャンしローカルで実行可能なLLMを推薦してくれるCLIツールであり、Ollamaと完全に統合されていることを特徴としています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "カラー電子ペーパーを採用した13.3インチモニター「Modos Flow」、3200×2400の高解像度・60Hzのリフレッシュレートを実現",
+    "url": "https://gigazine.net/news/20260622-modos-flow/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 22 Jun 2026 06:00:00 +0900",
+    "fetched_at": "2026-06-21T21:29:34.401492+00:00",
+    "summary": "電子書籍リーダーなどでよく使われている「電子ペーパー」をPC用モニターにも採用し、PC画面を紙のように快適にする「Modos Flow」がクラウドファンディングを実施しており、記事作成時点で目標額の274％となる約48万ドル(約7700万円)を達成するほど注目を集めています。Modos Flowの詳細についてクラウドファンディングサイトのCrowd Supp…",
     "importance": "medium",
     "tags": [
       "it"
@@ -1177,6 +1216,32 @@
     "published_at": "Fri, 05 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-06-04T22:17:38.669007+00:00",
     "summary": "ペットのインコやオウムが枝やおもちゃに体をこすりつける自慰行為を見た飼い主は、ストレスや病気のサインではないかと心配するかもしれません。しかし2026年5月31日に発表された論文において、こうした自慰行為は問題行動ではなく自然な性的行動の一部である可能性が示されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AWS、コードだけでなくインフラ構成とビジネスコンテキストも理解した上で脆弱性を推論する「AWS Contiuum」発表。特定のAIモデルに依存せず",
+    "url": "https://www.publickey1.jp/blog/26/awsaws_contiuumai.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-06-21T15:26:18Z",
+    "fetched_at": "2026-06-21T21:29:34.296679+00:00",
+    "summary": "Amazon Web Services（AWS）は、コードをスキャンするだけでなく、インフラ構成やアクセス許可、ネットワークトポロジーそしてビジネス上の優先事項やドキュメントなどの非構造化データなどをコンテキストとして活用し、システムの脆弱...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AWS、AIエージェントがリポジトリを自動スキャンして技術的負債を指摘してくれる「AWS Transform – continuous modernization」プレビュー公開",
+    "url": "https://www.publickey1.jp/blog/26/awsaiaws_transform_continuous_modernization.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-06-21T15:24:42Z",
+    "fetched_at": "2026-06-21T21:29:34.302278+00:00",
+    "summary": "Amazon Web Services（AWS）は、AIエージェントがコードリポジトリを継続的に自動スキャンし、サポートが終了したライブラリやフレームワークなどを始めとする技術的負債を検出し、優先順位をつけて報告あるいは修正のためのプルリク...…",
     "importance": "medium",
     "tags": [
       "it"
