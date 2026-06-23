@@ -1,5 +1,18 @@
 [
   {
+    "title": "家族で45分間運動すると親子の認知機能が短期的に改善する可能性",
+    "url": "https://gigazine.net/news/20260624-family-exercise-cognitive-function/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 24 Jun 2026 06:00:00 +0900",
+    "fetched_at": "2026-06-23T21:33:25.216372+00:00",
+    "summary": "親子で一緒に体を動かす45分間の運動によって親の食後インスリン濃度が低くなり、親子の一部の認知課題の成績も短期的に改善する可能性が示されました。ノッティンガム・トレント大学の研究者であるスカーレット・ファウンテン氏とカラ・ドリング氏が、家族で行う運動の効果と続けやすさについて解説しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "無料でウェブページの変化を自動検知できる「changedetection.io」をDockerでセットアップして実際に監視してみた",
     "url": "https://gigazine.net/news/20260617-changedetection-io-setup/",
     "source": "GIGAZINE",
@@ -163,6 +176,45 @@
     "published_at": "Wed, 03 Jun 2026 07:00:00 +0900",
     "fetched_at": "2026-06-02T22:57:46.594285+00:00",
     "summary": "チャンネル登録者数1500万人の人気YouTuberであるThe Slow Mo Guysが、ハイスピードカメラを用いて人間の目では識別できないくらい精密に「鏡が割れる瞬間」を捉えた映像を公開しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "世界的なメモリ不足が極まってDDR2やDDR3のような旧型製品の価格も上昇開始",
+    "url": "https://gigazine.net/news/20260623-cascading-consumer-dram-shortage/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 23 Jun 2026 23:00:00 +0900",
+    "fetched_at": "2026-06-23T21:33:25.382938+00:00",
+    "summary": "台湾の市場調査会社・TrendForceの調べにより、世界的なメモリ不足が転換点を迎え、旧世代の製品と表現されるようなDDR2メモリやDDR3メモリの価格も上昇していることがわかりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "不動産業者がAIで加工した物件画像が賃貸探しを混乱させている",
+    "url": "https://gigazine.net/news/20260623-generative-ai-impossible-homes/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 23 Jun 2026 22:00:00 +0900",
+    "fetched_at": "2026-06-23T21:33:25.450935+00:00",
+    "summary": "生成AIを使って家具や内装を加えた不動産物件の掲載画像が増え、実際に内見すると写真とはまったく異なる部屋だったという事例が報告されています。見栄えを整えるための「バーチャルステージング」が、物件の欠点を隠したり、存在しない設備を加えたりする手段に変わりつつあり、賃貸物件を探す人の負担を増やしています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Steam Machineで1080p・60fpsで各ゲームを動かす設定はどのプリセットになるのか＆熱と電力と騒音はどうなるか？",
+    "url": "https://gigazine.net/news/20260623-steam-machine-spec/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 23 Jun 2026 20:00:00 +0900",
+    "fetched_at": "2026-06-23T21:33:25.451949+00:00",
+    "summary": "SteamOSに対応したゲーミングPC「Steam Machine」を一足早く手に入れた海外ユーザーが、いくつかのテストを実施しました。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
@@ -1268,6 +1320,19 @@
     "published_at": "Fri, 05 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-06-04T22:17:38.669007+00:00",
     "summary": "ペットのインコやオウムが枝やおもちゃに体をこすりつける自慰行為を見た飼い主は、ストレスや病気のサインではないかと心配するかもしれません。しかし2026年5月31日に発表された論文において、こうした自慰行為は問題行動ではなく自然な性的行動の一部である可能性が示されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "TypeScriptコンパイラをGo言語に移植することで10倍速にしたTypeScript 7.0リリース候補版が登場",
+    "url": "https://www.publickey1.jp/blog/26/typescriptgo10typescript_70.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-06-23T15:29:40Z",
+    "fetched_at": "2026-06-23T21:33:24.651471+00:00",
+    "summary": "マイクロソフトは、TypeScriptをGo言語に移植した最初のバージョンとなる「TypeScript 7.0」リリース候補版のリリースを発表しました。 TypeScript 7's Release Candidate is now...…",
     "importance": "medium",
     "tags": [
       "it"
