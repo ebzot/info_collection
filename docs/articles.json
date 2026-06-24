@@ -1,5 +1,44 @@
 [
   {
+    "title": "AliExpress運営元のAlibabaがアメリカ国防総省を提訴、中国軍とのつながりを否定しブラックリストからの削除を要求",
+    "url": "https://gigazine.net/news/20260624-alibaba-sues-us/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 24 Jun 2026 21:20:00 +0900",
+    "fetched_at": "2026-06-24T21:31:07.214418+00:00",
+    "summary": "中国のIT大手で、通販サイト・AliExpressなどの運営で知られるAlibaba(阿里巴巴)が、アメリカの国防総省を提訴しました。国防総省が「中国軍事企業」のリストにAlibabaを追加したことに対して、Alibabaは「事実ではないし、法律上の根拠もない」と強く反論しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "まるでホンモノをガラスの中に閉じ込めたかのような3DGSデータの3Dプリント品がすごい",
+    "url": "https://gigazine.net/news/20260624-3dgs-in-glass/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 24 Jun 2026 21:00:00 +0900",
+    "fetched_at": "2026-06-24T21:31:07.215333+00:00",
+    "summary": "被写体をさまざまな方向から撮影することで高精度の3Dモデルを作成することを「3Dガウシアンプラッティング(3DGS)」といいます。昆虫を中心にさまざまなものを3DGSで3Dモデル化しているダニー・ビッテル氏が、自身のモデルを3Dプリンターで現実に立体化した作品を紹介しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "テンセントが日本のゲーム会社への投資を縮小へ、場合によっては保有株売却も",
+    "url": "https://gigazine.net/news/20260624-tencent-japanese-game-investment/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 24 Jun 2026 20:10:00 +0900",
+    "fetched_at": "2026-06-24T21:31:07.216243+00:00",
+    "summary": "中国のビッグテックの1つで、世界最大級のゲーム会社でもあるテンセント(騰訊)が、日本のゲーム会社への投資からの撤退を検討していることが報じられています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "家族で45分間運動すると親子の認知機能が短期的に改善する可能性",
     "url": "https://gigazine.net/news/20260624-family-exercise-cognitive-function/",
     "source": "GIGAZINE",
@@ -358,6 +397,19 @@
     "published_at": "Tue, 02 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-06-01T22:59:30.032745+00:00",
     "summary": "アメリカ・ニューオーリンズの民家の庭で見つかったラテン語碑文入りの大理石板が、約1900年前にローマ帝国海軍の水兵「セクストゥス・コンゲニウス・ウェルス」を記念して作られた墓碑だったと判明しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "薬で「脳凍結」のような状態を作ると脳卒中後の脳損傷を抑えられる可能性",
+    "url": "https://gigazine.net/news/20260625-drug-brain-freeze-stroke/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 25 Jun 2026 06:00:00 +0900",
+    "fetched_at": "2026-06-24T21:31:07.212588+00:00",
+    "summary": "脳の血管が詰まる脳卒中では血流が止まることに加えて、血流が再開した後にも脳損傷が進む場合があります。中国・首都医科大学のシューアイリー・シュ氏、ウー・ディ氏らの研究チームは、薬で低体温・低代謝に近い状態へ誘導することで脳卒中後の脳を保護できるかを調べました。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
@@ -1320,6 +1372,19 @@
     "published_at": "Fri, 05 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-06-04T22:17:38.669007+00:00",
     "summary": "ペットのインコやオウムが枝やおもちゃに体をこすりつける自慰行為を見た飼い主は、ストレスや病気のサインではないかと心配するかもしれません。しかし2026年5月31日に発表された論文において、こうした自慰行為は問題行動ではなく自然な性的行動の一部である可能性が示されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AWS Lambda MicroVMs登場。サーバレスの手軽さでステートフルかつ隔離された実行環境を提供",
+    "url": "https://www.publickey1.jp/blog/26/aws_lambda_microvms.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-06-24T15:40:24Z",
+    "fetched_at": "2026-06-24T21:31:07.114364+00:00",
+    "summary": "Amazon Web Servicesは、AWS Lambda上で一時的にステートフルな実行環境をMicroVMによって安全に隔離された状態で用意できる新サービス「AWS Lambda Micro VMs」を発表しました。 AWS Lamb...…",
     "importance": "medium",
     "tags": [
       "it"
