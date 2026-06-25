@@ -403,6 +403,58 @@
     ]
   },
   {
+    "title": "カーボンナノチューブ採用サーマルパッド「Carbice Ice Pad」はどれぐらいCPUを冷やす効果があるのか？",
+    "url": "https://gigazine.net/news/20260625-carbice-carbon-nanotube-cpu-cooling/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 25 Jun 2026 23:00:00 +0900",
+    "fetched_at": "2026-06-25T21:32:56.804706+00:00",
+    "summary": "カーボンナノチューブ(CNT)を熱伝導材に使うCarbiceの「Ice Pad」はCPUの熱をクーラー側へ移すシート状のサーマルパッドで、一般的なグリスとは異なり、熱や圧力の変化によって接触面になじみ、長期にわたる安定した熱伝達を目指す仕組みを採用しています。高性能グリスや相変化型のサーマルパッドと比べた場合、CPU温度にはどのような差が生じるかについて、ハ…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AI採用ツールは人種差別や組織的な排除につながりやすいことが研究で判明",
+    "url": "https://gigazine.net/news/20260625-ai-hiring-tools-racial-bias/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 25 Jun 2026 22:00:00 +0900",
+    "fetched_at": "2026-06-25T21:32:56.805756+00:00",
+    "summary": "実運用環境の採用アルゴリズムに関する初の大規模調査によって、AI採用ツールが候補者を不採用とするときのパターンに懸念すべき傾向があることが明らかになりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Nintendo Switch・PS5・Xbox・Steamのコントローラーのボタンを押すのに必要な力にはどれぐらい差があるのか？",
+    "url": "https://gigazine.net/news/20260625-game-controller-force/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 25 Jun 2026 21:50:00 +0900",
+    "fetched_at": "2026-06-25T21:32:56.806866+00:00",
+    "summary": "ゲームのコントローラーにはさまざまな種類があり、当然ながらボタンを押すために必要な力も異なります。海外メディアのLTT Labsが実際に計測した結果を共有しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "ワインボトルの「コルク」にワインの成分を変える働きがあることが判明",
+    "url": "https://gigazine.net/news/20260625-wine-cork-oxygen-mechanism/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 25 Jun 2026 21:40:00 +0900",
+    "fetched_at": "2026-06-25T21:32:56.808443+00:00",
+    "summary": "ワインボトルの栓には主にコルクガシの樹皮から作られた「コルク」が使われます。このコルク栓には単に中身がこぼれないように瓶を密閉するだけでなく、ワインの成分を変化させる働きがあることがフランスの研究で明らかになりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "薬で「脳凍結」のような状態を作ると脳卒中後の脳損傷を抑えられる可能性",
     "url": "https://gigazine.net/news/20260625-drug-brain-freeze-stroke/",
     "source": "GIGAZINE",
@@ -1151,6 +1203,19 @@
     "published_at": "Mon, 01 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-05-31T21:55:15.418024+00:00",
     "summary": "かゆみや砂が入ったような違和感がある時に目をこするのは自然な反応です。しかし、イリノイ大学シカゴ校で眼科を専門とするテイラー・スターンズ氏とニーラム・パタディア氏は、目をこする行為にはリスクがあると指摘した上で、目をこすりたくなる原因とかゆみや違和感を減らす方法について解説しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「集中力」を支える脳幹ニューロンが特定される",
+    "url": "https://gigazine.net/news/20260626-brainstem-neurons-focus/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 26 Jun 2026 06:00:00 +0900",
+    "fetched_at": "2026-06-25T21:32:56.799410+00:00",
+    "summary": "作業中に周囲の音や動きが気になってしまう時、人間は不要な刺激を無視して重要な情報へ注意を向けようとするものです。ジョンズ・ホプキンス大学のニナド・B・コタリ氏らの研究チームが、こうした「集中力」を支える脳幹のニューロン群をマウス実験で特定したと報告しました。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
