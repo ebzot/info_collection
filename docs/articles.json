@@ -806,6 +806,71 @@
     ]
   },
   {
+    "title": "無料で創作に生かせる3Dポーズ作成ツール「SetPose」",
+    "url": "https://gigazine.net/news/20260627-setpose-3d/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 27 Jun 2026 21:00:00 +0900",
+    "fetched_at": "2026-06-27T21:24:11.317155+00:00",
+    "summary": "無料＆ログイン不要で3Dデッサン人形を動かして自由なポーズを付けることができるサイト「SetPose」では、体のパーツごとにドラッグするだけで簡単にポーズを作って創作に生かすことができます。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "合体ロボットアニメ『獣王無神ダンデヴァイン』ティザーPV公開、グッドスマイルカンパニー創業25周年プロジェクト「合体神シリーズ」第1弾作品",
+    "url": "https://gigazine.net/news/20260627-dandivine/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 27 Jun 2026 20:30:00 +0900",
+    "fetched_at": "2026-06-27T21:24:11.322888+00:00",
+    "summary": "フィギュアメーカー・グッドスマイルカンパニーの創業25周年プロジェクト「合体神シリーズ」の第1弾作品となるTVアニメ『獣王無神ダンデヴァイン』のティザーPVが公開されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "無料でChrome・Firefoxで訪問したウェブサイトを自動的にローカルに保存しインデックス化＆定期自動取得で最新状態を維持し続ける汎用検索エンジン「Hister」、セルフホスト可能でMCPサーバー化させてAIとの連携やローカルのファイル検索も実現",
+    "url": "https://gigazine.net/news/20260627-hister/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 27 Jun 2026 20:00:00 +0900",
+    "fetched_at": "2026-06-27T21:24:11.324388+00:00",
+    "summary": "「数カ月前に読んだはずの記事を探そうとしても、キーワードが曖昧で検索エンジンやブラウザ履歴から目的のページを見つけにくい」というケースがあります。メタ検索エンジンsearxの作者が新たに開発した「Hister」は、ChromeやFirefoxで開いたWebページをセルフホスト環境に保存し、自分専用の検索インデックスを作成できる無料のオープンソース検索エンジン…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "無料でセルフホスト型のChatGPTやClaudeっぽいローカルAIワークスペースが実現できる「Odysseus」、ファイルアップロード・モデルダウンロード・ウェブ検索・メール/カレンダー連携が可能",
+    "url": "https://gigazine.net/news/20260627-odysseus/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 27 Jun 2026 18:00:00 +0900",
+    "fetched_at": "2026-06-27T21:24:11.325288+00:00",
+    "summary": "Odysseusはチャット・エージェント・ディープリサーチ・ドキュメント・メール・メモ・カレンダー・ローカルモデルワークフローに対応したセルフホスト型のAIワークスペースです。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "超音波を使ってエスプレッソを抽出すると一体どんな効果があるのか？",
+    "url": "https://gigazine.net/news/20260627-ultrasound-espresso-machine/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 27 Jun 2026 12:00:00 +0900",
+    "fetched_at": "2026-06-27T21:24:11.326278+00:00",
+    "summary": "高周波の超音波を使ってエスプレッソを抽出する手法を、ニュー・サウス・ウェールズ大学の上級講師であるフランシスコ・トルヒーリョ氏の率いる研究チームが開発しました。従来のエスプレッソマシンと比べ、同じ飲料濃度での消費エネルギーを約75％削減できる可能性が示されています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "作家や批評家が選んだ「史上最高の小説100選」・空が青い理由などAmazonで売上トップ10のGIGAZINE記事ランキング2026年5月版はコレ！",
     "url": "https://gigazine.net/news/20260627-gigazine-kindle-ranking-2026-05/",
     "source": "GIGAZINE",
