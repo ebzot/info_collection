@@ -702,6 +702,45 @@
     ]
   },
   {
+    "title": "「給与支払日のわずかなズレ」がパートナーの女性に対する暴力増加に関連している可能性",
+    "url": "https://gigazine.net/news/20260628-delays-regular-paychecks-partner-violence/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 28 Jun 2026 23:00:00 +0900",
+    "fetched_at": "2026-06-28T21:23:55.921518+00:00",
+    "summary": "多くの会社では毎月の給与支払日が固定されていますが、時には金融機関の休日の関係で支払日が数日ずれることがあります。そんなささいな給与支払日のズレが、パートナーの女性に対する暴力の増加に関連しているとの研究結果が報告されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "無料でローカルPCの操作を自動化できる「UI-TARS-desktop」について現状を確認してみた",
+    "url": "https://gigazine.net/news/20260628-ui-tars-desktop/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 28 Jun 2026 22:00:00 +0900",
+    "fetched_at": "2026-06-28T21:23:55.922786+00:00",
+    "summary": "ByteDanceが公開したマルチモーダルGUIエージェントスタックであるUI-TARS-desktopは、自然言語による指示と画面のスクリーンショットをセルフホスティングした視覚言語モデル(VLM)に入力することによりローカルPCの操作を安全に自動化することができるアプリであるとのことなので、実際のところ使えそうなのかを確認してみました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "iPhoneでFirefox用拡張機能を使えるウェブブラウザ「Reynard」のインストール手順、WebKitではなくGeckoを搭載した野良アプリ",
+    "url": "https://gigazine.net/news/20260628-reynard-ios-gecko-browser/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 28 Jun 2026 21:11:00 +0900",
+    "fetched_at": "2026-06-28T21:23:55.923528+00:00",
+    "summary": "iPhoneにはFirefoxやChromeなどのサードパーティー製ウェブブラウザをインストールできますが、App Storeで配布されているすべてのブラウザはWebKitをベースにしたもので、iPhone版FirefoxにはFirefox用拡張機能をインストールすることができません。「Reynard」はFirefoxと同じGeckoをベースに開発されている…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "ハチミツは運動のパフォーマンス向上に役立つのか？",
     "url": "https://gigazine.net/news/20260621-honey-natural-fuel-workouts/",
     "source": "GIGAZINE",
@@ -1112,6 +1151,19 @@
     "published_at": "Sat, 06 Jun 2026 18:00:00 +0900",
     "fetched_at": "2026-06-06T21:59:51.213751+00:00",
     "summary": "「LLM Checker」は自分のPCのハードウェアをスキャンしローカルで実行可能なLLMを推薦してくれるCLIツールであり、Ollamaと完全に統合されていることを特徴としています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "脚本家・野木亜紀子原案による初のアニメ作品『LONA』2027年春放送決定",
+    "url": "https://gigazine.net/news/20260629-lona/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 29 Jun 2026 00:15:00 +0900",
+    "fetched_at": "2026-06-28T21:23:55.919912+00:00",
+    "summary": "シェアード・ユニバース作品として展開されたドラマ『アンナチュラル』『MIU404』や映画『ラストマイル』をはじめ、数々のドラマや映画を手がけてきた脚本家・野木亜紀子が原案・脚本を担当する初のTVアニメ『LONA』が2027年春に放送されることが決定し、ティザーPVが公開されました。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
@@ -1567,6 +1619,19 @@
     "published_at": "Fri, 05 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-06-04T22:17:38.669007+00:00",
     "summary": "ペットのインコやオウムが枝やおもちゃに体をこすりつける自慰行為を見た飼い主は、ストレスや病気のサインではないかと心配するかもしれません。しかし2026年5月31日に発表された論文において、こうした自慰行為は問題行動ではなく自然な性的行動の一部である可能性が示されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Deno 2.9正式リリース。起動が2倍速、消費メモリは半分に。WebViewを用いたデスクトップアプリが作れる「Deno Desktop」など",
+    "url": "https://www.publickey1.jp/blog/26/deno_292webviewdeno_desktop.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-06-28T15:15:39Z",
+    "fetched_at": "2026-06-28T21:23:55.755911+00:00",
+    "summary": "JavaScript/TypeScriptランタイムのDenoを開発するDeno Landは、Deno 2.9正式版をリリースしました。 Deno 2.9は起動を2倍速にするなどの性能面での大幅向上や、Denoを基盤にJavaScriptや...…",
     "importance": "medium",
     "tags": [
       "it"
