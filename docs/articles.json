@@ -221,6 +221,19 @@
     ]
   },
   {
+    "title": "安くて長持ちする冷凍・缶詰の果物や野菜を選ぶ時の注意点とは？",
+    "url": "https://gigazine.net/news/20260630-frozen-canned-fruit-veg-tips/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 30 Jun 2026 06:00:00 +0900",
+    "fetched_at": "2026-06-29T21:31:29.387727+00:00",
+    "summary": "果物や野菜が健康に良いことは広く知られていますが、生鮮食品を買い続けるにはコストや保存期間の問題があります。そこで、安くて長持ちする冷凍・缶詰の果物や野菜を選ぶ時に何に注意すべきなのかについて、オーストラリアのスウィンバーン工科大学で栄養学の上級講師を務めるマーガレット・マレー氏が解説しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "世界的なメモリ不足が極まってDDR2やDDR3のような旧型製品の価格も上昇開始",
     "url": "https://gigazine.net/news/20260623-cascading-consumer-dram-shortage/",
     "source": "GIGAZINE",
@@ -1151,6 +1164,58 @@
     "published_at": "Sat, 06 Jun 2026 18:00:00 +0900",
     "fetched_at": "2026-06-06T21:59:51.213751+00:00",
     "summary": "「LLM Checker」は自分のPCのハードウェアをスキャンしローカルで実行可能なLLMを推薦してくれるCLIツールであり、Ollamaと完全に統合されていることを特徴としています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "サッカーの才能の宝庫ブラジルでは動画を分析して選手のスカウトを行うAIスカウトアプリが普及しつつある",
+    "url": "https://gigazine.net/news/20260629-brazil-next-big-soccer-star-scouted-ai/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 29 Jun 2026 23:00:00 +0900",
+    "fetched_at": "2026-06-29T21:31:29.392909+00:00",
+    "summary": "他のスポーツと比べてデータ活用やテクノロジーの導入で後れを取ってきたサッカーですが、近年は半自動オフサイドテクノロジーを含むさまざまなテクノロジーがAIで管理されていたり、戦術に関するアドバイスが行えるAIまで登場していたりします。そんなサッカー界において才能の宝庫として知られるブラジルでは、動画などを自動分析して選手を評価するAIスカウトアプリが普及しつつ…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "ストレスを感じると血液にどのような科学的変化が生じるのか？",
+    "url": "https://gigazine.net/news/20260629-what-happens-blood-stressed/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 29 Jun 2026 22:00:00 +0900",
+    "fetched_at": "2026-06-29T21:31:29.393973+00:00",
+    "summary": "ストレスや不安はあくまで精神的なものと捉えられがちですが、近年の研究では心と体が密接に結びついており、精神状態の変化が身体機能や健康にさまざまな科学的影響を及ぼしていることがわかっています。イギリスのサウスウェールズ大学で人間生理学上級講師を務めるルイス・フォール氏らの研究チームは、ストレスを感じると血液に生じる生化学的な変化を、実験を通じて明らかにしました…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "自作の量子乱数生成器を使った占いアプリ「A Quantum Magic 8-Ball」",
+    "url": "https://gigazine.net/news/20260629-a-quantum-magic-8-ball/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 29 Jun 2026 21:00:00 +0900",
+    "fetched_at": "2026-06-29T21:31:29.394987+00:00",
+    "summary": "研究者でエンジニアのデビッド・ノエル・ン氏が「光子がどちらの検出器に届くか」という量子測定の結果を利用して乱数を生成する装置を自作し、その乱数で占いの回答を選ぶウェブアプリ「A Quantum Magic 8-Ball」を作成しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "持ち帰り試験で平均96点のクラスが対面試験に切り替えると平均48点に、教授は「AIでカンニングしている」と落胆",
+    "url": "https://gigazine.net/news/20260629-ai-exam-brown-university/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 29 Jun 2026 20:00:00 +0900",
+    "fetched_at": "2026-06-29T21:31:29.396315+00:00",
+    "summary": "アメリカの名門・ブラウン大学の教授が、自身が担当する数理経済学の試験で大規模な不正があったという話を海外メディアのEL PAÍSに共有しました。試験を自宅持ち帰り方式から対面方式に切り替えただけで平均点が大幅に下がり、持ち帰り試験で満点を出した学生のほとんどは対面試験に出席してこなかったといいます。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
