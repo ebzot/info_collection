@@ -221,6 +221,32 @@
     ]
   },
   {
+    "title": "AIバイブコーディングでゲームのリリースが急増か、わずか6カ月で18万1000本のスマホゲームがリリースされiOSでは前年同期比118％増・Androidでは73％増",
+    "url": "https://gigazine.net/news/20260701-mobile-game-boom/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 01 Jul 2026 21:00:00 +0900",
+    "fetched_at": "2026-07-01T21:32:21.989583+00:00",
+    "summary": "調査会社の分析により、スマートフォン向けアプリのリリースがかつてないほど急増していることが分かりました。その大きな要因は、AIを使ってコーディングをする「バイブコーディング」だと指摘されています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "トランプ大統領が仮想通貨事業で総額2200億円以上を稼いだことが明らかに、80億円以上のビットコインも保有",
+    "url": "https://gigazine.net/news/20260701-trump-over-1-billion-income-crypto/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 01 Jul 2026 20:00:00 +0900",
+    "fetched_at": "2026-07-01T21:32:21.990438+00:00",
+    "summary": "アメリカのドナルド・トランプ大統領は国の政策として仮想通貨を推進する傍らで、家族と共同で仮想通貨企業を設立しています。そんなトランプ大統領が総額14億ドル(約2280億円)以上を仮想通貨関連で稼いだことが、2026年6月30日に公開された年次資産報告書で明らかになりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "中国のオープンウェイトモデル「GLM-5.2」が脆弱性検出ベンチマークでClaude Codeを上回る",
     "url": "https://gigazine.net/news/20260630-glm-5-2-beats-claude-cyber-benchmarks/",
     "source": "GIGAZINE",
@@ -696,6 +722,19 @@
     "published_at": "Thu, 04 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-06-03T23:01:09.271653+00:00",
     "summary": "約5300年前にアルプス山脈で死亡し、氷河の中で自然にミイラ化した「アイスマン」の体から、パン作りに使える可能性がある酵母が見つかりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "自分の家の中でも迷子になってしまう「発達性地誌的見当識障害」とは？",
+    "url": "https://gigazine.net/news/20260702-what-is-dtd-atopia/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 02 Jul 2026 06:00:00 +0900",
+    "fetched_at": "2026-07-01T21:32:21.987574+00:00",
+    "summary": "スマートフォンの地図アプリが使えなくなった時に慌てることはありますが、一部の人は自宅の中のような慣れた場所でも方向が分からなくなることがあります。オランダのライデン大学で神経心理学を研究するイザベル・カイコ氏らが、頭の中に場所のつながりを示す地図を作れない状態と、発達性地誌的見当識障害(Developmental topographical disorien…",
     "importance": "medium",
     "tags": [
       "it"
@@ -1710,6 +1749,32 @@
     "published_at": "Fri, 05 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-06-04T22:17:38.669007+00:00",
     "summary": "ペットのインコやオウムが枝やおもちゃに体をこすりつける自慰行為を見た飼い主は、ストレスや病気のサインではないかと心配するかもしれません。しかし2026年5月31日に発表された論文において、こうした自慰行為は問題行動ではなく自然な性的行動の一部である可能性が示されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "DNSを基盤にAIエージェントに信頼できる名前を与える「Agent Name Service（ANS）」、立ち上げ意向をLinux Foundationが発表",
+    "url": "https://www.publickey1.jp/blog/26/dnsaiagent_name_serviceanslinux_foundation.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-07-01T15:04:00Z",
+    "fetched_at": "2026-07-01T21:32:21.484473+00:00",
+    "summary": "Linux Foundationは、既存のドメインネームシステム（DNS）基盤を拡張してインターネット上で稼働するAIエージェントに信頼できる識別子としての名前などを提供する新しいオープンソース標準「Agent Name Service（A...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "静的サイトジェネレータ「Astro 7.0」正式リリース、ビルドシステムがVite 8/Rolldownに、Rust製コンパイラ採用で高速化",
+    "url": "https://www.publickey1.jp/blog/26/astro_70vite_8rolldownrust.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-07-01T15:01:18Z",
+    "fetched_at": "2026-07-01T21:32:21.488055+00:00",
+    "summary": "静的サイトジェネレータ「Astro」の最新版となる「Astro 7.0」正式版がリリースされました。 Astro 7 is here! A new Rust compiler, a new Rust Markdown/MDX process...…",
     "importance": "medium",
     "tags": [
       "it"
