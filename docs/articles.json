@@ -728,6 +728,45 @@
     ]
   },
   {
+    "title": "GLM-5.2の開発元による中国製AIエージェントアプリ「ZCode」、AnthropicやOpenAIのAIモデルも活用可能",
+    "url": "https://gigazine.net/news/20260702-zcode-ai-agent/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 02 Jul 2026 21:00:00 +0900",
+    "fetched_at": "2026-07-02T21:25:59.939691+00:00",
+    "summary": "中国企業のZ.aiはClaude Opus 4.8などの高性能クローズドモデルに匹敵する性能のAIモデルをオープンモデルとして公開しており、API経由でのAIサービスも展開しています。そんなZ.aiはClaude CodeやCodexに似たAIエージェントアプリ「ZCode」もリリースしています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "オープンソースのゲームエンジン「Godot」がAI製コードを今後受け付けないことを決定、AIを多用するユーザーが自分のコードを十分に理解して修正できるとは限らないため",
+    "url": "https://gigazine.net/news/20260702-godot-ban-ai/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 02 Jul 2026 20:40:00 +0900",
+    "fetched_at": "2026-07-02T21:25:59.941484+00:00",
+    "summary": "「Slay the Spire 2」や「Brotato」などのゲームを支えるオープンソースのゲームエンジン「Godot」が、AIで生成した大量のプルリクエストに悩まされていることを理由に、今後は自律型AIエージェントやバイブコーディングによるプルリクエストを受け付けないという判断を下しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Belkinの「Nintendo Switch 2用USB-C to USB-Cケーブル60W」は本当にNintendo Switch 2をより速く充電できるのか？",
+    "url": "https://gigazine.net/news/20260702-belkin-cable-charge-nintendo-switch-2-faster/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 02 Jul 2026 20:00:00 +0900",
+    "fetched_at": "2026-07-02T21:25:59.942786+00:00",
+    "summary": "チャンネル登録者数1690万人超の人気ガジェットレビューチャンネルであるLinus Tech Tipsが立ち上げた研究開発ラボ・LTT Labsが、スマートフォン向けの充電機器などで知られるBelkinが販売している「Nintendo Switch 2用USB-C to USB-Cケーブル60W」は、本当にNintendo Switch 2を急速充電できるの…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "自分の家の中でも迷子になってしまう「発達性地誌的見当識障害」とは？",
     "url": "https://gigazine.net/news/20260702-what-is-dtd-atopia/",
     "source": "GIGAZINE",
@@ -1749,6 +1788,32 @@
     "published_at": "Fri, 05 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-06-04T22:17:38.669007+00:00",
     "summary": "ペットのインコやオウムが枝やおもちゃに体をこすりつける自慰行為を見た飼い主は、ストレスや病気のサインではないかと心配するかもしれません。しかし2026年5月31日に発表された論文において、こうした自慰行為は問題行動ではなく自然な性的行動の一部である可能性が示されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "国際宇宙ステーションの空気漏れで宇宙飛行士5人が一時退避、老朽化が進む中でいつまで使い続けられるのか？",
+    "url": "https://gigazine.net/news/20260703-iss-air-leak-habitable/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
+    "fetched_at": "2026-07-02T21:25:59.937683+00:00",
+    "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "UNIX系コマンドをWindowsに移植／macOS上にLinuxコンテナを統合／Ubuntu、開発環境をコマンド一発で構築ほか、2026年6月の人気記事",
+    "url": "https://www.publickey1.jp/blog/26/unixwindowsmacoslinuxubuntu20266.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-07-02T15:34:09Z",
+    "fetched_at": "2026-07-02T21:25:59.326142+00:00",
+    "summary": "枕は一度買えばずっと使えるものと思っていたのですが、どうやらへたってきたりつぶれてきたりしたら買い換えた方がいいらしい、ということを最近知りました。今使ってる枕、一体何年使ってきたんだ……。 というわけで今、新しい枕を買うべくネットやお店で...…",
     "importance": "medium",
     "tags": [
       "it"
