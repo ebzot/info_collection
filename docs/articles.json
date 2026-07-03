@@ -1794,6 +1794,71 @@
     ]
   },
   {
+    "title": "エベレストの有名遺体「グリーンブーツ」の身元がDNA鑑定により判明、回収ミッションも実施へ",
+    "url": "https://gigazine.net/news/20260703-everest-green-boots/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 03 Jul 2026 23:00:00 +0900",
+    "fetched_at": "2026-07-03T21:25:28.015625+00:00",
+    "summary": "エベレスト北側から山頂を目指すと必ず通過する目印になっている、標高8500mの洞窟にある遺体「グリーンブーツ」の身元が、DNA鑑定によってインドチベット国境警察(ITBP)の登山隊員だったドルジェ・モルップ氏だったことが確認されました。インド当局は、モルップ氏の遺体を回収するミッションを検討しているとのことです。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「国家安全保障にまつわる機密情報が悪用される懸念」からスペイン政府がデータ分析大手のPalantir Technologiesをブラックリストに登録",
+    "url": "https://gigazine.net/news/20260703-spain-orders-blacklist-us-tech-giant-palantir/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 03 Jul 2026 22:00:00 +0900",
+    "fetched_at": "2026-07-03T21:25:28.019630+00:00",
+    "summary": "機密扱いの国家安全保障情報が悪用される懸念が高まっているとして、スペイン政府はアメリカのデータ分析大手であるPalantir Technologiesと公的機関・国営企業・民間企業が取引することを止めるよう指示を出したことが明らかになりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "独立した複数のサーバーで動画を管理する分散型動画配信プラットフォーム「PeerTube」、ActivityPub対応＆サーバーを介さずP2Pで動画配信も可能",
+    "url": "https://gigazine.net/news/20260703-peertube/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 03 Jul 2026 21:00:00 +0900",
+    "fetched_at": "2026-07-03T21:25:28.021286+00:00",
+    "summary": "AGPL-3.0ライセンスのオープンソースソフトウェアとして開発されている「PeerTube」はYouTubeやニコニコ動画のように特定の企業が動画と利用者を一元管理するのではなく、独立した複数のサーバーがつながって動画を配信する分散型の動画プラットフォームです。利用者が動画の公開先となるインスタンスを選べるほか、サーバー間で投稿やアカウント情報を連携できる…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Android開発者認証は「保護を装った脅威」だとF-Droidが主張",
+    "url": "https://gigazine.net/news/20260703-android-developer-verification-malware-f-droid/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 03 Jul 2026 20:00:00 +0900",
+    "fetched_at": "2026-07-03T21:25:28.022189+00:00",
+    "summary": "Androidのアプリ開発者にGoogleへの個人情報登録を求め、登録しない開発者のアプリをこれまで以上にインストールしにくくするセキュリティ対策「開発者認証」が間もなく始まります。この対策で大打撃を受けるアプリ配布サイト「F-Droid」が、「保護を装った脅威」だとこの制度を批判しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Steam公式ゲーミングPC「Steam Machine」を買って届いたので開封の儀、大きさや搭載ポートを詳しくチェックしてみたよレビュー",
+    "url": "https://gigazine.net/news/20260703-steam-machine-appearance/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 03 Jul 2026 19:37:00 +0900",
+    "fetched_at": "2026-07-03T21:25:28.023193+00:00",
+    "summary": "「Steam Machine」はSteam OSを搭載したSteam公式ゲーミングPCです。PlayStationやXBOXと違ってLinuxベースのOSを搭載しており、Steamライブラリ上のゲームをプレイできるだけでなくLinuxマシンとして使うことも可能です。かなり面白そうなデバイスだったので発売と同時に購入。2026年7月1日にGIGAZINE編集部…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "国際宇宙ステーションの空気漏れで宇宙飛行士5人が一時退避、老朽化が進む中でいつまで使い続けられるのか？",
     "url": "https://gigazine.net/news/20260703-iss-air-leak-habitable/",
     "source": "GIGAZINE",
