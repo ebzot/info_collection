@@ -182,6 +182,32 @@
     ]
   },
   {
+    "title": "オーストラリアの「未成年SNS禁止」は年齢確認が機能していない",
+    "url": "https://gigazine.net/news/20260708-australia-sns-ban-fails/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 08 Jul 2026 23:50:00 +0900",
+    "fetched_at": "2026-07-08T21:25:14.644738+00:00",
+    "summary": "世界初となる「未成年者のSNS使用禁止」法を運用しているオーストラリアで、実際には未成年者によるアカウント作成を防止するための年齢確認がまったく機能していないことが、政府チームによる調査で明らかになりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "無料でポート開放など面倒な設定不要でローカル環境を外部に公開できる「Cloudflare Tunnel」を使ってみた",
+    "url": "https://gigazine.net/news/20260708-cloudflare-tunnel/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 08 Jul 2026 23:00:00 +0900",
+    "fetched_at": "2026-07-08T21:25:14.645707+00:00",
+    "summary": "「Cloudflare Tunnel」はローカル環境のアプリケーションを簡単に外部へ公開できるサービスです。「自宅サーバー」を出先から使うために必要なポート開放などのさまざまな設定を丸ごとスキップ可能なうえ、Cloudflare Accessと組み合わせれば複数ユーザーでの認証も設定可能です。今回はまずCloudflare Tunnelでローカル環境のサービ…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "無料でWord・Excel・PowerPointをあらゆるAIエージェントに完全制御させることができる「OfficeCLI」",
     "url": "https://gigazine.net/news/20260708-officecli/",
     "source": "GIGAZINE",
@@ -722,6 +748,19 @@
     "published_at": "Thu, 11 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-06-10T22:50:00.705911+00:00",
     "summary": "「少しお酒を飲む程度なら大きな問題はない」と考えている人は多いかもしれません。しかし、ワシントン大学の研究チームが飲酒とがん・心血管疾患・2型糖尿病・認知症などの関係を調べたところ、少量の飲酒でも複数のがんリスク上昇につながることが示されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AI時代において「CAPTCHA」に意味はあるのか？",
+    "url": "https://gigazine.net/news/20260709-ai-captcha-obsolete/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 09 Jul 2026 06:00:00 +0900",
+    "fetched_at": "2026-07-08T21:25:14.643124+00:00",
+    "summary": "ウェブサイトのログインやフォーム入力時には画像の中から特定の物体を選ぶもの、「私はロボットではありません」というチェックボックスをクリックするもの、パズルのピースを正しい位置に合わせるものなどさまざまな認証テストが使われています。こうした認証テストは「CAPTCHA」と呼ばれ人間とボットを見分けるために使われてきましたが、AIの進歩によって有効性が疑問視され…",
     "importance": "medium",
     "tags": [
       "it"
@@ -2061,6 +2100,32 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "PostgreSQLをクラスタ化した分散DBでスケーリングと高可用性を実現する「Multigres v0.1」アルファ版が登場",
+    "url": "https://www.publickey1.jp/blog/26/postgresqldbmultigres_v01.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-07-08T15:33:17Z",
+    "fetched_at": "2026-07-08T21:25:14.158875+00:00",
+    "summary": "PostgreSQLをベースにしたBaaS（Backend as a Service）の「Supabase」を開発し提供しているSupabase社は、複数のPostgreSQLをクラスタ化することでデータベースの水平スケールと高可用性などを...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "PostgreSQL 19ベータ版が登場。I/Oワーカーの自動スケール、Autovacuumの改善など新機能",
+    "url": "https://www.publickey1.jp/blog/26/postgresql_19ioautovacuum.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-07-08T15:31:27Z",
+    "fetched_at": "2026-07-08T21:25:14.162613+00:00",
+    "summary": "オープンソースのリレーショナルデータベース「PostgreSQL 19」のベータ版が先月（2026年6月）にリリースされています。 PostgreSQLは高い拡張性や信頼性を特徴としており、ITエンジニアのコミュニティであるStackove...…",
     "importance": "medium",
     "tags": [
       "it"
