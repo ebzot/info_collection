@@ -754,6 +754,45 @@
     ]
   },
   {
+    "title": "EVE Onlineのゲームエンジン「Carbon」がオープンソース化、開発者が理由を解説",
+    "url": "https://gigazine.net/news/20260709-eve-online-carbon-engine-open-source/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 09 Jul 2026 22:00:00 +0900",
+    "fetched_at": "2026-07-09T21:30:38.533501+00:00",
+    "summary": "2003年に発売された老舗MMORPGの「EVE Online」で利用されているゲームエンジンの「Carbon」が、オープンソース化します。Carbonの開発元であるFenris Creationsが、その理由を説明しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "山手線の各駅の発車メロディ・ドア開閉音・車内アナウンスを延々ループ再生し続ける「Yamanote.fun」",
+    "url": "https://gigazine.net/news/20260709-yamanote-fun/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 09 Jul 2026 21:00:00 +0900",
+    "fetched_at": "2026-07-09T21:30:38.534460+00:00",
+    "summary": "東京都心部を周回する山手線では、駅ごとにさまざまな発車メロディが設定されています。「Yamanote.fun」は、山手線各駅の発車メロディやドアの開閉音、列車の走行音、停車駅のアナウンスなどを延々とループ再生できるウェブサイトです。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Grok 4.5・GPT-5.5・Claude Opus 4.8／Fable 5に同じアプリを作らせてレイテンシとコストを測定した結果、勝ったAIはどれか？",
+    "url": "https://gigazine.net/news/20260709-grok-gpt-claude-build-apps/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 09 Jul 2026 20:00:00 +0900",
+    "fetched_at": "2026-07-09T21:30:38.535138+00:00",
+    "summary": "2026年7月8日に発表されたGrok 4.5について、SpaceXAIは「コーディングとエージェント作業のためにCursorと並行してトレーニングされた」と、これまでで最も賢いモデルだとアピールしています。そこでAI企業のTryAIが、Grok 4.5・GPT-5.5・Claude Opus 4.8・Claude Fable 5に同じプロンプトからアプリを…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "AI時代において「CAPTCHA」に意味はあるのか？",
     "url": "https://gigazine.net/news/20260709-ai-captcha-obsolete/",
     "source": "GIGAZINE",
@@ -1937,6 +1976,19 @@
     ]
   },
   {
+    "title": "FBIとGoogleがスマートテレビなど200万台超を乗っ取ったボットネット「NetNut」を摘発",
+    "url": "https://gigazine.net/news/20260710-fbi-google-netnut-botnet-smart-tv/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 10 Jul 2026 06:00:00 +0900",
+    "fetched_at": "2026-07-09T21:30:38.532172+00:00",
+    "summary": "FBIとGoogleが、スマートテレビなど200万台超の消費者向けデバイスを組み込んでいたとされるレジデンシャルプロキシネットワーク「NetNut」を摘発・妨害しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "無料でiPhone・iPadから直接YouTubeの動画をダウンロードして保存できる「SW-DLT」、YouTubeアプリから数タップでダウンロード可能",
     "url": "https://gigazine.net/news/20260605-sw-dlt-youtube-download/",
     "source": "GIGAZINE",
@@ -2100,6 +2152,19 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "JavaScriptランタイムのBun、Claude Fable 5を11日間稼働させてZigからRustへの移植を実現。Claudeをどう使ったのか？",
+    "url": "https://www.publickey1.jp/blog/26/javascriptbunclaude_fable_511zigrustclaude.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-07-09T15:47:05Z",
+    "fetched_at": "2026-07-09T21:30:38.373573+00:00",
+    "summary": "JavaScriptランタイム「Bun」の作者であるJarred Sumner氏は、7月8日付けで公開したBun公式ブログの記事「Rewriting Bun in Rust | Bun Blog」で、約53万5000行のZig言語のコードを...…",
     "importance": "medium",
     "tags": [
       "it"
