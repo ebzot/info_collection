@@ -1976,6 +1976,71 @@
     ]
   },
   {
+    "title": "無料で使えるCloudflare Accessで安全にローカルのAIを外部から使えるように設定してみた",
+    "url": "https://gigazine.net/news/20260710-cloudflare-tunnel-access/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 10 Jul 2026 23:15:00 +0900",
+    "fetched_at": "2026-07-10T21:23:34.314350+00:00",
+    "summary": "Cloudflare Tunnelを使うことで、ルーターのポート開放などの設定不要で、ローカルPC上で動いているサービスをCloudflare経由で公開できます。Tunnelを設定しただけの状態では誰でもアクセスできてしまうので、今回はCloudflare Tunnelで公開したURLに対して、Cloudflare Accessによる認証を追加してみることに…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「うるう秒」は2026年12月末も挿入されず、最後の「うるう秒」から10年",
+    "url": "https://gigazine.net/news/20260710-no-leap-second-at-2026/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 10 Jul 2026 22:00:00 +0900",
+    "fetched_at": "2026-07-10T21:23:34.320564+00:00",
+    "summary": "世界時の決定などに関わる国際機関の国際地球回転・基準系事業(IERS)が、天文時間と原子時間のずれ修正を目的として例年6月末と12月末に行うかどうかが検討される「うるう秒」の挿入を、2026年12月末も行わないことを決定しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "34万台超のHDDを運用するBackblazeが2026年第1四半期HDD故障率レポートを公開、壊れやすいHDDはどれ？",
+    "url": "https://gigazine.net/news/20260710-backblaze-drive-stats-for-q1-2026/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 10 Jul 2026 21:00:00 +0900",
+    "fetched_at": "2026-07-10T21:23:34.321946+00:00",
+    "summary": "クラウドストレージサービスプロバイダーのBackblazeは、自社のデータセンターでHGST・Seagate・東芝・WDCといったメーカーの合計34万台を超えるHDDを運用しています。そんなBackblazeが、2026年第1四半期版のHDD故障率レポートを公開しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "トランプモバイルのスマホ「T1」実機テストでベンチマーク・バッテリー・画面輝度などの計測結果が明らかに",
+    "url": "https://gigazine.net/news/20260710-t1-test/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 10 Jul 2026 20:00:00 +0900",
+    "fetched_at": "2026-07-10T21:23:34.323638+00:00",
+    "summary": "トランプ・オーガナイゼーションが立ち上げた携帯電話事業「トランプ・モバイル」から登場した最初のスマートフォン「T1」を詳しく調査する記事が公開されました。以前の調査でT1はほぼ「HTC U24 Pro」であることが明らかになっています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "衝撃展開でスタートしたTVアニメ『サンダー３』ノンクレジットOP＆ED映像公開に合わせて第1話情報おさらい",
+    "url": "https://gigazine.net/news/20260710-thunder-3/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 10 Jul 2026 09:00:00 +0900",
+    "fetched_at": "2026-07-10T21:23:34.319287+00:00",
+    "summary": "仲良しの中学生トリオ・ぴょんたろうたち「スモール３」が迷子になった幼い妹を探しに出たところから始まる一大活劇アニメ『サンダー３』が、2026年7月8日(水)からフジテレビ「＋Ultra」ほかにて放送スタートとなりました。初回からさっそく、主人公たちがもう1つの世界・マルチバースに迷い込むという衝撃の展開を見せています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "FBIとGoogleがスマートテレビなど200万台超を乗っ取ったボットネット「NetNut」を摘発",
     "url": "https://gigazine.net/news/20260710-fbi-google-netnut-botnet-smart-tv/",
     "source": "GIGAZINE",
