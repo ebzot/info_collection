@@ -429,6 +429,19 @@
     ]
   },
   {
+    "title": "第一子が娘の父親は男女平等に肯定的な傾向が強いことが日本の研究で判明",
+    "url": "https://gigazine.net/news/20260714-first-daughter-effect-japan/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 14 Jul 2026 06:00:00 +0900",
+    "fetched_at": "2026-07-13T21:19:55.911914+00:00",
+    "summary": "政治的な価値観は親から子への一方向だけでなく、子どもから親へも伝わる可能性があります。早稲田大学政治経済学術院の尾野嘉邦教授とマカオ大学政府行政学部の千葉大奈准教授が日本の大規模社会調査を用いて、第一子の性別と父親のジェンダー平等意識や政策への支持との関係を分析しました。研究結果は2026年6月12日付で学術誌「Public Opinion Quarterl…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "トランプ大統領一族が仮想通貨市場や予測市場に参入するため政府機関から職員を追放したとの報道",
     "url": "https://gigazine.net/news/20260609-cftc-trump/",
     "source": "GIGAZINE",
@@ -1794,6 +1807,32 @@
     ]
   },
   {
+    "title": "中学校でのスマホ禁止ルールは生徒の生活の質や健康状態を大幅に改善することはないとの研究結果",
+    "url": "https://gigazine.net/news/20260713-school-smartphone-bans-mental-health/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 13 Jul 2026 23:00:00 +0900",
+    "fetched_at": "2026-07-13T21:19:55.913334+00:00",
+    "summary": "各国では学校でのスマートフォン使用を禁止する動きが強まっており、これにより生徒の集中力やメンタルヘルスが改善すると期待されています。ところが新たな研究では、中学校におけるスマートフォン禁止ルールは、生徒の生活の質や健康状態に大きな影響をもたらさないとの結果が示されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "超音波を使って声を発することなく会話ができるシステムが開発される",
+    "url": "https://gigazine.net/news/20260713-silent-speech-with-ultrasound/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 13 Jul 2026 21:00:00 +0900",
+    "fetched_at": "2026-07-13T21:19:55.914256+00:00",
+    "summary": "AI研究開発企業のAlephが、超音波で舌の動きを観測し、声を出さずに発話した内容を文章へ変換するシステムを開発しました。約50時間分のデータで学習させた初期試作ながら、自由な語彙を含む発話を単語誤り率15.6％で認識できたと報告されています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "幼少期に施設で暮らした子どもは質の高い里親養育を受けたかどうかで16年後の生活スキルに差が出るという研究結果",
     "url": "https://gigazine.net/news/20260713-early-deprivation-life-skills/",
     "source": "GIGAZINE",
@@ -2321,6 +2360,32 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Google Cloud、生成AIのコードを瞬時に隔離して安全に実行できる「Cloud Runサンドボックス」パブリックプレビュー",
+    "url": "https://www.publickey1.jp/blog/26/google_cloudaicloud_run.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-07-13T15:50:52Z",
+    "fetched_at": "2026-07-13T21:19:55.304000+00:00",
+    "summary": "Google Cloudは、生成AIによる信頼できないコードの実行を安全に隔離して実行できる環境を瞬時に起動させることができる「Cloud Run Sandboxes」（以下、Cloud Runサンドボックス）をパブリックプレビューとして公...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "さくらのクラウドで、3つの国内開発された大規模言語モデルの試用を開始、デジタル庁がガバメントAI「源内」用に評価",
+    "url": "https://www.publickey1.jp/blog/26/3ai.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-07-13T15:48:50Z",
+    "fetched_at": "2026-07-13T21:19:55.309022+00:00",
+    "summary": "デジタル庁は、国内開発された3つの大規模言語モデルの試用をさくらのクラウド上で開始すると発表しました。 これはデジタル庁が中心となって進めている、行政業務の効率化や住民サービスの向上のために整備を進めているガバメントAI「源内」（げんない）...…",
     "importance": "medium",
     "tags": [
       "it"
