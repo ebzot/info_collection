@@ -104,6 +104,19 @@
     ]
   },
   {
+    "title": "ロシア政府の支援を受けたハッカーが設定不備のあるルーターを狙っていると13カ国19機関が警告",
+    "url": "https://gigazine.net/news/20260715-russian-state-hackers-target-routers/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 15 Jul 2026 06:00:00 +0900",
+    "fetched_at": "2026-07-14T21:21:04.245019+00:00",
+    "summary": "ロシア連邦保安庁(FSB)第16センターに関連する攻撃者が、世界各地でルーターに不正アクセスして通信やエネルギーなどの重要インフラを狙い続けているとして、アメリカ国家安全保障局(NSA)、サイバーセキュリティ・社会基盤安全保障庁(CISA)、連邦捜査局(FBI)など13カ国の19機関が共同勧告を発表しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "ComfyUIがOpenAI・Anthropic・Google・MoonshotのAIを競わせてプルリクをレビューする仕組みを公開",
     "url": "https://gigazine.net/news/20260610-comfyui-four-rival-review/",
     "source": "GIGAZINE",
@@ -423,6 +436,45 @@
     "published_at": "Tue, 16 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-06-15T21:51:45.455717+00:00",
     "summary": "アムステルダム大学医療センターなどの研究チームは2026年6月13日にトルコのイスタンブールで開催された欧州アレルギー臨床免疫学会(EAACI)の年次会議で、遺伝性血管性浮腫の患者を対象にしたCRISPR治療の試験結果を発表しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "サイバー攻撃により6週間にわたり生産停止の影響を受けた繊維企業ZEGOが破産申請",
+    "url": "https://gigazine.net/news/20260714-zego-insolvency/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 14 Jul 2026 23:40:00 +0900",
+    "fetched_at": "2026-07-14T21:21:04.246969+00:00",
+    "summary": "ドイツ・バイエルン州の繊維企業・ZEGO Textilveredelungszentrumが破産手続きを申請しました。同社は2026年3月にサイバー攻撃を受けたあと約6週間にわたって生産を停止せざるを得ない事態が発生し、その損失を取りもどすことができなかったとのことです。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "廃墟化した元IBMオフィスへの不法侵入で4カ月間に48人逮捕、火事になった事例も",
+    "url": "https://gigazine.net/news/20260714-ibm-somers-office-sneak/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 14 Jul 2026 23:00:00 +0900",
+    "fetched_at": "2026-07-14T21:21:04.247830+00:00",
+    "summary": "ニューヨーク州ウェストチェスター郡ソマーズにある元IBMのオフィス複合施設で、直近の4カ月間に48人が不法侵入のため逮捕されていることがわかりました。逮捕者のうち30人はティーンエイジャーで、事例の1つでは侵入者によって火災が起きたそうです。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "SpaceXのエンジニアたちが超大型ロケットStarshipの打ち上げに奔走する姿を捉えたドキュメンタリー「Critical Path」がYouTubeで公開中",
+    "url": "https://gigazine.net/news/20260714-starship-critical-path/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 14 Jul 2026 23:00:00 +0900",
+    "fetched_at": "2026-07-14T21:21:04.248559+00:00",
+    "summary": "イーロン・マスク氏が率いる宇宙開発企業のSpaceXは現地時間の2026年5月22日(金)、再使用型の超大型ロケット・Starshipの改良版である「Starship V3」の打ち上げに成功しました。そんなStarship V3の打ち上げに向けて奔走するエンジニアたちの姿を捉えたドキュメンタリー「Critical Path」が、YouTubeで無料公開されて…",
     "importance": "medium",
     "tags": [
       "it"
@@ -2360,6 +2412,19 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "より小さなソフトウェアエンジニアリングチームを、2029年までに60％の組織が本格展開するとの予測、ガートナー",
+    "url": "https://www.publickey1.jp/blog/26/202960.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-07-14T15:51:18Z",
+    "fetched_at": "2026-07-14T21:21:03.644274+00:00",
+    "summary": "調査会社のガートナーは、2029年までに60％の組織がより小さなソフトウェアエンジニアリングチームを本格的に展開するだろうとの予測を発表しました。 人間とAIの強みを活かすためのチームの再編成 この背景には、AIの発達によって人間に代わって...…",
     "importance": "medium",
     "tags": [
       "it"
