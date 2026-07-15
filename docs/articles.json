@@ -104,6 +104,32 @@
     ]
   },
   {
+    "title": "ロジクールの無線マウスやキーボードに付属する「Logi Bolt」ドングルは単なるUSBドングルではない",
+    "url": "https://gigazine.net/news/20260715-logitech-logi-bolt-spec/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 15 Jul 2026 23:00:00 +0900",
+    "fetched_at": "2026-07-15T21:20:53.707567+00:00",
+    "summary": "ロジテック(ロジクール)のマウスやキーボードには、製品とPCを無線接続する独自のUSBドングル「Logi Bolt」が付属していることがあります。この正体がなんなのかについてインターネット上で議論があったため、海外テック系メディアのLTT Labsが詳細をロジテックに確認しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Starlinkなどを含む合計3万基以上の人工衛星の現在位置がわかるライブマップ「Satellite Tracker」",
+    "url": "https://gigazine.net/news/20260715-satellite-tracker-live-map/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 15 Jul 2026 22:00:00 +0900",
+    "fetched_at": "2026-07-15T21:20:53.708263+00:00",
+    "summary": "以前から地球の周囲には気象観測や科学研究のために多数の人工衛星が打ち上げられており、近年はStarlinkをはじめとする衛星インターネットの発展によって、人工衛星の数は飛躍的に増加しています。そんな人工衛星の現在位置をチェックできるライブマップが「Satellite Tracker」です。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "ロシア政府の支援を受けたハッカーが設定不備のあるルーターを狙っていると13カ国19機関が警告",
     "url": "https://gigazine.net/news/20260715-russian-state-hackers-target-routers/",
     "source": "GIGAZINE",
@@ -748,6 +774,19 @@
     "published_at": "Thu, 18 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-06-17T21:39:27.660817+00:00",
     "summary": "「これまでのやり方ではうまくいかない」と分かっても、なかなかやめられずに同じ行動を繰り返してしまうことがあります。こういった行動について沖縄科学技術大学院大学(OIST)の研究チームがマウスを使った実験を行ったところ、これまでとは別の行動に切り替える能力に神経伝達物質のアセチルコリンが重要な役割を果たしていることが示されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "所得格差が大きい地域ほど劇場や博物館などに出かける人が少ないとの研究結果",
+    "url": "https://gigazine.net/news/20260716-income-inequality-cultural-participation/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 16 Jul 2026 06:00:00 +0900",
+    "fetched_at": "2026-07-15T21:20:53.706008+00:00",
+    "summary": "イタリアの全20州を12年間にわたって分析した研究で、所得格差が大きい州ほど映画館・劇場・博物館・コンサートなど自宅外の文化活動に積極的に参加する人の割合が低い傾向が示されました。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
@@ -2412,6 +2451,32 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "フロントエンド開発に必要なツールをまとめて統合した「Vite+」、ベータ公開",
+    "url": "https://www.publickey1.jp/blog/26/vite.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-07-15T15:59:11Z",
+    "fetched_at": "2026-07-15T21:20:53.526043+00:00",
+    "summary": "オープンソースのWebアプリケーションビルドツール「Vite」（ヴィットあるいはヴィート）を開発しているVoidZeroは、ViteをベースとしたJavaScriptアプリケーションのための統合開発ツールチェーン「Vite+」をベータ公開し...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "リアルタイム共同編集が可能なJavaScriptの表計算コンポーネント、メシウスが「SpreadJS」の新バージョンをリリース",
+    "url": "https://www.publickey1.jp/blog/26/javascriptspreadjs.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-07-15T15:56:19Z",
+    "fetched_at": "2026-07-15T21:20:53.529552+00:00",
+    "summary": "メシウス（旧グレープシティ）は、Excelライクな機能とユーザーインターフェイスを備えたJavaScriptの表計算コンポーネント上で、リアルタイムな共同編集を可能にする機能を備えたJavaScriptライブラリ「SpreadJS」の最新版...…",
     "importance": "medium",
     "tags": [
       "it"
