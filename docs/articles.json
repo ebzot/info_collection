@@ -780,6 +780,45 @@
     ]
   },
   {
+    "title": "Google Playとサードパーティー製アプリストアが接続可能に、GoogleがEpic Gamesとの訴訟で判決への異議申し立て取り下げを表明",
+    "url": "https://gigazine.net/news/20260716-android-third-party-app-stores/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 16 Jul 2026 23:00:00 +0900",
+    "fetched_at": "2026-07-16T21:21:53.054587+00:00",
+    "summary": "GoogleがAndroid向けアプリストア・Google Playのアプリカタログに、サードパーティー製アプリストアが接続できるようになることを明らかにしました。この措置は2026年7月22日から有効で、サードパーティー製アプリストアからアクセスした場合でも、アプリはGoogle Play経由でアクセスしたのと同条件でダウンロードされるほか、有料アプリの場…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「睡眠時間」より「睡眠の規則性」の方が寿命に影響するという研究結果",
+    "url": "https://gigazine.net/news/20260716-sleep-regularity/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 16 Jul 2026 22:00:00 +0900",
+    "fetched_at": "2026-07-16T21:21:53.055656+00:00",
+    "summary": "睡眠時間が短いと健康に悪影響という話はよく聞きますが、実は睡眠時間だけでなく睡眠の規則性も重要です。2024年1月に睡眠に関する学術誌「SLEEP」に掲載された論文では、「睡眠時間の長さ」より「睡眠の規則性」の方が死亡リスクに与える影響が大きいという結果が示されています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「金属有機構造体(MOF)」の開発でノーベル化学賞を受賞した科学者がアメリカを離れ中国の研究所所長に就任",
+    "url": "https://gigazine.net/news/20260716-nobel-winning-chemist-leaves-us-china/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 16 Jul 2026 21:00:00 +0900",
+    "fetched_at": "2026-07-16T21:21:53.056947+00:00",
+    "summary": "「金属有機構造体(Metal-Organic Frameworks、MOF)」を開発した功績で、2025年にノーベル化学賞を北川進氏やリチャード・ロブソン氏とともに受賞したオマー・ヤギー氏がアメリカを離れ、中国のAI材料研究所の所長に就任することが明らかになりました。この動きは、ドナルド・トランプ大統領による科学予算の削減と、中国による優秀な研究者の誘致が行…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "所得格差が大きい地域ほど劇場や博物館などに出かける人が少ないとの研究結果",
     "url": "https://gigazine.net/news/20260716-income-inequality-cultural-participation/",
     "source": "GIGAZINE",
@@ -2145,6 +2184,19 @@
     ]
   },
   {
+    "title": "年を取ると人の顔が見分けられなくなるのは「目の動かし方が不安定になるから」かもしれない",
+    "url": "https://gigazine.net/news/20260717-aging-face-recognition-eye-movement/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 17 Jul 2026 06:00:00 +0900",
+    "fetched_at": "2026-07-16T21:21:53.053099+00:00",
+    "summary": "年を取るにつれて人の顔を見分ける能力が低下することは知られていますが、その仕組みは十分に解明されていません。香港科技大学や香港理工大学などの研究チームは顔認識実験の結果から、顔を見る際の目の動かし方が不安定になることが加齢に伴う顔認識能力の低下の一因になり得ると指摘しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "Snapdragon 8 Elite Gen 5を搭載する「Xperia 1 VIII」のベンチマーク結果まとめ、ソニー・Xperiaシリーズのフラッグシップモデルの性能はどれほどか？",
     "url": "https://gigazine.net/news/20260612-sony-xperia-1-viii-benchmark/",
     "source": "GIGAZINE",
@@ -2451,6 +2503,19 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": ".NET 8と.NET 9は今年の11月でサポート終了、マイクロソフトが警告",
+    "url": "https://www.publickey1.jp/blog/26/net_8net_911.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-07-16T18:30:28Z",
+    "fetched_at": "2026-07-16T21:21:52.913307+00:00",
+    "summary": "マイクロソフトの包括的なソフトウェアフレームワーク「.NET 8」と「.NET 9」のサポートが今年（2026年）11月10日に終了します。 サポート終了後も.NET 8や.NET 9で開発されたアプリケーションはそのまま動作し、使えなくな...…",
     "importance": "medium",
     "tags": [
       "it"
