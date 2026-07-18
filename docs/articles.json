@@ -1170,6 +1170,19 @@
     ]
   },
   {
+    "title": "Appleが日本でiPhone・Apple Music・Apple Oneに続きiCloud＋も値上げ",
+    "url": "https://gigazine.net/news/20260719-apple-raises-icloud-plus-subscription-prices/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 19 Jul 2026 00:00:00 +0900",
+    "fetched_at": "2026-07-18T21:16:49.926169+00:00",
+    "summary": "Appleが日本を含む8カ国でクラウドストレージサービス・iCloud＋の値上げを実施しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "メモ書き機能付きAmazon純正電子書籍リーダー「Kindle Scribe」に初のカラー表示可能な「Kindle Scribe Colorsoft」を含む3モデルが新登場したので使ってみた",
     "url": "https://gigazine.net/news/20260614-kindle-scribe-2026/",
     "source": "GIGAZINE",
@@ -1463,6 +1476,58 @@
     "published_at": "Sat, 20 Jun 2026 00:00:00 +0900",
     "fetched_at": "2026-06-19T21:25:44.614081+00:00",
     "summary": "2026年6月10日に発売した手書きメモ可能な電子ペーパー搭載デバイス「Kindle Scribe」の新型モデルは、カラー表示に対応した「Kindle Scribe Colorsoft」がラインナップされて色付きのメモができるようになったほか、書き心地や視差が改善されています。そんなKindle Scribeのメモ書き機能を新機能も合わせて使ってみました。 …",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "知能が高い人ほどエコな車に乗るという研究結果",
+    "url": "https://gigazine.net/news/20260718-intelligence-voting-charitable-giving-prosocial/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 18 Jul 2026 22:00:00 +0900",
+    "fetched_at": "2026-07-18T21:16:49.932472+00:00",
+    "summary": "他者や社会全体に利益を生む行動は向社会的行動と呼ばれ、この中には不特定多数への援助や寄付、選挙での投票といったものが含まれます。新たな研究では、知能指数が高い人ほど投票や寄付、環境に優しい車の購入といった向社会的行動をする可能性が高いことが明らかになりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "郷土料理「すこ」の味わいをサイダーにした越前大野の「すこサイダー」を飲んでみた",
+    "url": "https://gigazine.net/news/20260718-suko-cider/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 18 Jul 2026 21:30:00 +0900",
+    "fetched_at": "2026-07-18T21:16:49.933679+00:00",
+    "summary": "「天空の城」の1つ・越前大野城がある福井県大野市は名水でも知られており、郷土料理「すこ」と組み合わせた「越前おおの名水すこサイダー」が販売されています。「すこ」はネットスラングのほうしか知らなかったので、いったいどんなサイダーなのか買って飲んでみました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "データセンターは本当に一般市民の電気料金値上げの原因なのか？",
+    "url": "https://gigazine.net/news/20260718-data-centers-electricity-bills/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 18 Jul 2026 21:10:00 +0900",
+    "fetched_at": "2026-07-18T21:16:49.934723+00:00",
+    "summary": "AIブームに伴うデータセンターの増加を受け、アメリカでは大手テクノロジー企業が発電や送電にかかる追加費用を公平に負担すると約束する一方、一般利用者の電気料金に費用が転嫁されるのではないかとの懸念が広がっています。フロリダ大学でエネルギー研究ディレクターを務めるセオドア・J・キュリー氏が、データセンター向けの電力設備費がどのように電気料金へ割り振られるのかを解…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "無料でWindows・macOS・Linux用のデスクトップ同期アプリとセルフホスト可能なサーバーアプリでファイルの双方向と一方向同期・自動バックグラウンド同期などが複数ユーザーで可能な「Sync-in」",
+    "url": "https://gigazine.net/news/20260718-sync-in/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 18 Jul 2026 18:00:00 +0900",
+    "fetched_at": "2026-07-18T21:16:49.935961+00:00",
+    "summary": "会社や組織など複数人でファイルを共有する際にセキュリティの規約などでクラウドサービスが利用できないケースがあります。そういう時に使えるのが「Sync-in」、セルフホスト可能なファイルサーバーとなっており、Windows・macOS・Linux用クライアントからファイルの双方向と一方向同期・自動バックグラウンド同期などが複数ユーザーで利用できます。 続きを読…",
     "importance": "medium",
     "tags": [
       "it"
