@@ -2002,6 +2002,45 @@
     ]
   },
   {
+    "title": "フランス賭博規制庁が予測市場・Polymarketへのアクセスを遮断",
+    "url": "https://gigazine.net/news/20260720-france-block-polymarket/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 20 Jul 2026 23:00:00 +0900",
+    "fetched_at": "2026-07-20T21:25:37.292044+00:00",
+    "summary": "フランス賭博規制庁(ANJ)がどんな題材でも賭け事の対象になって実質的な賭場となっている予測市場プラットフォーム「Polymarket」へのアクセスを遮断したと発表しました。ANJは以前からPolymarketについて規制対象かどうか調査を行っていました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "仕事のスケジュールが不確実な労働者は幸福度が低い傾向にあるという研究結果",
+    "url": "https://gigazine.net/news/20260720-unstable-work-schedule-happiness/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 20 Jul 2026 22:15:00 +0900",
+    "fetched_at": "2026-07-20T21:25:37.293356+00:00",
+    "summary": "勤務時刻が直前まで決まらない労働者の生活全体の幸福度は、規則的な勤務時刻の労働者よりも低い傾向にあるとアメリカ・ペンシルベニア州立大学などの研究チームが報告しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "単語を並び替えて簡単な英単語を作る無料ゲーム「18 Words」",
+    "url": "https://gigazine.net/news/20260720-18-words/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 20 Jul 2026 19:00:00 +0900",
+    "fetched_at": "2026-07-20T21:25:37.294117+00:00",
+    "summary": "「18 Words」はブラウザから無料で遊べるゲームで、4～8個のアルファベットを並び替えて英単語を見つけ出すゲームです。使われている単語は中学英語くらいの簡単なもののため、毎日変わる問題に誰でも気軽に挑戦できます。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "AI疑惑のホラー小説出版停止騒動・昔は良かった企業が変貌する理由などAmazonで売上トップ10のGIGAZINE記事ランキング2026年6月版はコレ！",
     "url": "https://gigazine.net/news/20260720-gigazine-kindle-ranking-2026-06/",
     "source": "GIGAZINE",
@@ -2698,6 +2737,32 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Claude Codeを組織一括でシングルサインオン、チームや個人の費用上限設定、デフォルト設定など可能に、「Claude apps gateway for AWS/Google Cloud」登場",
+    "url": "https://www.publickey1.jp/blog/26/claude_codeclaude_apps_gateway_for_awsgoogle_cloud.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-07-20T15:54:57Z",
+    "fetched_at": "2026-07-20T21:25:37.180515+00:00",
+    "summary": "AnthropicのAIコーディングエージェントClaud Codeは非常に人気のあるサービスとして多くの組織で採用され始めています。 Claude Codeは個人で簡単に導入できますが、企業が組織としてClaude Codeを導入する場合...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Rustで書き直されたBun、早くもClaude Codeアプリに本番投入された模様",
+    "url": "https://www.publickey1.jp/blog/26/rustbunclaude_code.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-07-20T15:52:57Z",
+    "fetched_at": "2026-07-20T21:25:37.183605+00:00",
+    "summary": "Claude Codeを用いてわずか11日間でZig言語からRust言語へ移植されたことが話題となっているJavaScriptランタイムのBunですが、そのRust版Bunが早くも7月17日にリリースされたClaude Code v2.1....…",
     "importance": "medium",
     "tags": [
       "it"
