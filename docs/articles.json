@@ -416,6 +416,45 @@
     ]
   },
   {
+    "title": "無料で使えるCloudflare Accessの「サービス認証」を設定して外出先のアプリから自宅のローカルAIにアクセスしてみた",
+    "url": "https://gigazine.net/news/20260721-cloudflare-service-token/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 21 Jul 2026 23:00:00 +0900",
+    "fetched_at": "2026-07-21T21:27:13.409281+00:00",
+    "summary": "Cloudflare Accessは特定のユーザーや端末、サービスだけにアプリケーションへのアクセスを許可するゼロトラスト型のアクセス制御サービスです。インターネット上に公開したサービスの手前にCloudflare Accessを配置するだけで設定でき、サービス本体にログイン機能がなくてもOK。今回はブラウザからのアクセスを維持しつつ、サービストークンを持つ…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "大規模AIプロジェクトで「高性能な計画役＋安価な実行役」を使うとコストが約8分の1になったとCursorが報告",
+    "url": "https://gigazine.net/news/20260721-agent-swarm-model-economics/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 21 Jul 2026 22:00:00 +0900",
+    "fetched_at": "2026-07-21T21:27:13.410838+00:00",
+    "summary": "AI向けコードエディター「Cursor」を開発するAnysphereが2026年7月20日、大規模な開発作業を複数のAIエージェントに分担させる実験結果を公開しました。計画役に最も高性能なAIモデルを割り当てて実際の作業には高速で安価なモデルを使っても、すべての役割に高性能モデルを使った場合とほぼ同じ品質を保ちながら費用を大幅に削減できたとのことです。 続き…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AppleのApp Storeでリリースされた新規アプリの数が上半期だけで昨年通年に迫る、AIのバイブコーディングで作られたアプリがストアにあふれる結果に",
+    "url": "https://gigazine.net/news/20260721-app-store-new-apps/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 21 Jul 2026 21:00:00 +0900",
+    "fetched_at": "2026-07-21T21:27:13.411606+00:00",
+    "summary": "AIを用いたコーディング手法「バイブコーディング」によりアプリの開発が高速化しており、2026年5月までの6カ月間にリリースされたスマートフォンゲームが前年同期比のほぼ倍まで増加していたり、2026年第1四半期の世界のアプリリリース総数が前年比60％増加していたりと、アプリ開発ブームをAIがけん引しているとみられます。その一方でダウンロード数の増加は2％程度…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "力こそパワーな筋肉駆動の手回し式AIマシン「CrankGPT」が登場、負荷の高いAI処理ほど多くの筋力を求められる仕様",
     "url": "https://gigazine.net/news/20260616-crankgpt-local-human-powered-ai/",
     "source": "GIGAZINE",
@@ -2737,6 +2776,32 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "企業向けでAIツールで成長率トップはAnthropic、アカウント数が最も多いのはMicrosoft 365。Oktaが調査結果を発表",
+    "url": "https://www.publickey1.jp/blog/26/aianthropicmicrosoft_365okta.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-07-21T13:51:42Z",
+    "fetched_at": "2026-07-21T21:27:12.768805+00:00",
+    "summary": "アイデンティティ管理サービスを提供するOktaは、同社のサービスを用いている2万社以上の匿名化されたアクセスデータに基づく、企業でのAIツール利用実態について調査結果を発表しました。 成長率トップはAnthropic 1つ目の調査結果は、2...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AWS、デプロイ速度が最大4倍になる「AWS CloudFormation Expressモード」を提供開始",
+    "url": "https://www.publickey1.jp/blog/26/aws4aws_cloudformation_express.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-07-21T13:50:39Z",
+    "fetched_at": "2026-07-21T21:27:12.772386+00:00",
+    "summary": "Amazon Web Services（AWS）は、デプロイ速度が最大で4倍速になるAWS CloudFormationの新機能「AWS CloudFormation Expressモード」の提供を開始しました。 AWS CloudForm...…",
     "importance": "medium",
     "tags": [
       "it"
