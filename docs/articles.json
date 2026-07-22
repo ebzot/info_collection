@@ -52,6 +52,45 @@
     ]
   },
   {
+    "title": "USB早見表、規格ごとの速度・配線・給電能力がひと目でわかる",
+    "url": "https://gigazine.net/news/20260722-usb-cheat-sheet/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 22 Jul 2026 23:00:00 +0900",
+    "fetched_at": "2026-07-22T21:24:41.437604+00:00",
+    "summary": "USBケーブルやポートなどに記載されている「USB 2.0」や「USB 3.2」といったUSB規格が何を意味しているのかを理解していないという人も多いはず。USBに関連する用語が何を意味しており、どのように理解すればいいのか、エンジニアのファビエン・サングラード氏がまとめています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "TSMCがチップの受託製造価格を最大10％引き上げへ、HPCチップの場合はさらに10％～15％の追加料金",
+    "url": "https://gigazine.net/news/20260722-tsmc-price-hike/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 22 Jul 2026 22:30:00 +0900",
+    "fetched_at": "2026-07-22T21:24:41.438611+00:00",
+    "summary": "半導体受託製造の業界最大手・TSMCが、2027年から受託価格を最大で10％引き上げる予定であることを、日経アジアが関係者からの情報として報じました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "OpenAIの「次世代AIモデル」についてサム・アルトマンCEOが直々にトランプ政権とアメリカの議員へ説明予定",
+    "url": "https://gigazine.net/news/20260722-openai-brief-us-officials/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 22 Jul 2026 22:00:00 +0900",
+    "fetched_at": "2026-07-22T21:24:41.439693+00:00",
+    "summary": "OpenAIの幹部が、同社のサム・アルトマンCEOとアメリカの議会議員が近いうちに会談を行う予定だと語りました。アルトマンCEOは次世代のAIモデルについて政府側に説明する予定です。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "無料でウェブページの変化を自動検知できる「changedetection.io」をDockerでセットアップして実際に監視してみた",
     "url": "https://gigazine.net/news/20260617-changedetection-io-setup/",
     "source": "GIGAZINE",
@@ -748,6 +787,19 @@
     "published_at": "Thu, 25 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-06-24T21:31:07.212588+00:00",
     "summary": "脳の血管が詰まる脳卒中では血流が止まることに加えて、血流が再開した後にも脳損傷が進む場合があります。中国・首都医科大学のシューアイリー・シュ氏、ウー・ディ氏らの研究チームは、薬で低体温・低代謝に近い状態へ誘導することで脳卒中後の脳を保護できるかを調べました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "メモリ価格が約8倍に高騰したのはなぜなのか？Samsung・SK hynix・Micronの価格操作疑惑を巡る訴訟が始まる",
+    "url": "https://gigazine.net/news/20260723-dram-price-fixing-lawsuit/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 23 Jul 2026 06:00:00 +0900",
+    "fetched_at": "2026-07-22T21:24:41.435329+00:00",
+    "summary": "Samsung Electronics・SK hynix・Micron Technologyの3社が従来型DRAMの供給を協調して制限し、価格を人為的につり上げたとする反トラスト訴訟がアメリカで始まりました。原告側は「AI需要の急増だけではこれだけの価格上昇を説明できない」と主張しており、その鍵となる3社のこれまでの動向をPCハードウェア系メディアのGame…",
     "importance": "medium",
     "tags": [
       "it"
@@ -2776,6 +2828,19 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "アトラシアン、JiraがAIによる要件定義の自動作成、コンテキストを保持しつつタスクをClaudeやCopilotなどのAIエージェントへアサインなど新機能",
+    "url": "https://www.publickey1.jp/blog/26/jiraaiclaudecopilotai.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-07-22T15:35:19Z",
+    "fetched_at": "2026-07-22T21:24:40.934030+00:00",
+    "summary": "アトラシアンは、プロジェクト管理ツールとして知られるJiraに生成AI機能を組み込み、AIによる要件定義の自動作成、作業すべきタスクの洗い出し、そして各タスクをClaude CodeやGitHub Copilotなどへ割り当てる新機能を発表...…",
     "importance": "medium",
     "tags": [
       "it"
