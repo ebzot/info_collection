@@ -793,6 +793,45 @@
     ]
   },
   {
+    "title": "Kimi K3はAIエージェントのベンチマーク「AA-Briefcase」でFable 5に次ぐ2位の成績を達成、しかし実行コストはOpus 4.8よりも高くタスクあたり平均1時間近くかかる",
+    "url": "https://gigazine.net/news/20260723-kimi-k3-artifical-analysis/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 23 Jul 2026 23:00:00 +0900",
+    "fetched_at": "2026-07-23T21:24:13.807335+00:00",
+    "summary": "中国のAI企業・Moonshot AIが2026年7月17日に発表した2兆8000億パラメータの大規模モデル・Kimi K3は、一部のベンチマークテストでClaude Fable 5を超える性能を示したとして大きな注目を集めました。生成モデル比較サイトのArtifical Analysisが、Kimi K3のベンチマーク結果を公開しています。 続きを読む..…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "電子書籍リーダーのためのオープンエコシステム「Free Ink」、ソフトウェア・ファームウェア・ハードウェアを開発するオープンソースプロジェクト群",
+    "url": "https://gigazine.net/news/20260723-free-ink-e-readers/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 23 Jul 2026 22:35:00 +0900",
+    "fetched_at": "2026-07-23T21:24:13.808091+00:00",
+    "summary": "「Free Ink」は電子書籍リーダーをメーカーに依存せず自由に開発・改造できるようにするためのオープンソースプロジェクト群です。ソフトウェア・ファームウェア・ハードウェアを開発するプロジェクトがそれぞれオープンに公開されているため、誰でも自由に利用・拡張・カスタマイズできます。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "不動産情報をAI改変した場合の情報開示義務付けなどをニューヨーク市長が提言",
+    "url": "https://gigazine.net/news/20260723-nyc-rental-ripoff-report/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 23 Jul 2026 22:00:00 +0900",
+    "fetched_at": "2026-07-23T21:24:13.809023+00:00",
+    "summary": "不動産業者が物件写真の生成・加工にAIを使用し混乱を招く事態が発生する中、ニューヨーク市のゾーラン・クワメ・マムダニ市長が賃貸詐欺報告書を発表し、賃貸物件の情報がAIで改変されていた場合に情報を開示することを義務付けるなど23項目の政策措置を示しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "メモリ価格が約8倍に高騰したのはなぜなのか？Samsung・SK hynix・Micronの価格操作疑惑を巡る訴訟が始まる",
     "url": "https://gigazine.net/news/20260723-dram-price-fixing-lawsuit/",
     "source": "GIGAZINE",
@@ -2392,6 +2431,19 @@
     ]
   },
   {
+    "title": "単一HTMLファイルでローカル動作するスライド作成ウェブアプリ「Bento/Slides」が登場、共同編集可能＆AIエージェントでの自動操作もスムーズ",
+    "url": "https://gigazine.net/news/20260724-bento-slides-powerpoint-alternative/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 24 Jul 2026 06:00:00 +0900",
+    "fetched_at": "2026-07-23T21:24:13.806086+00:00",
+    "summary": "FirefoxやChromeなどのウェブブラウザ上で動作する無料のスライド作成アプリ「Bento/Slides」が登場しました。Bento/Slidesは作成したスライドだけでなく「スライド作成機能そのもの」も含めて単一のHTMLファイルとして保存できるのが特徴で、インターネット接続不要でスライドを作成できます。また、AIエージェントを用いたスライド作成も考…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "その人の「名前」がAIモデルの中でどれほど強く重み付けされているのかがわかる「IN THE WEIGHTS」",
     "url": "https://gigazine.net/news/20260619-intheweights-llm-weights-name/",
     "source": "GIGAZINE",
@@ -2828,6 +2880,19 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": ".NET MAUI、iOS/AndoridのランタイムがMonoからCoreCLRに更新、開発者は動作確認を。.NET 11 Preview 6が公開",
+    "url": "https://www.publickey1.jp/blog/26/net_mauiiosandoridmonocoreclrnet_11_preview_6.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-07-23T18:22:56Z",
+    "fetched_at": "2026-07-23T21:24:13.661582+00:00",
+    "summary": "マイクロソフトは今秋リリース予定の包括的フレームワーク「Microsoft .NET」のプレビュー版となる「Microsoft .NET 11 Preview 6」（以下、.NET Preview 6）を公開しました。 .NET 11 Pr...…",
     "importance": "medium",
     "tags": [
       "it"
