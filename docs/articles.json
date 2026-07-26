@@ -1274,6 +1274,32 @@
     ]
   },
   {
+    "title": "30年以上前の「使徒、襲来」から人気が衰えない「エヴァンゲリオン」シリーズの作品をワンフェス2026[夏]会場でピックアップ",
+    "url": "https://gigazine.net/news/20260726-evangelion-wf2026s/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 26 Jul 2026 23:22:00 +0900",
+    "fetched_at": "2026-07-26T21:18:31.718320+00:00",
+    "summary": "1995年に放送されたテレビアニメ『新世紀エヴァンゲリオン』は社会現象とも呼べる規模の大ブームを巻き起こし、その後に発表された『ヱヴァンゲリヲン新劇場版』シリーズは2021年に公開された『シン・エヴァンゲリオン劇場版:||』で完結を迎えました。放送から30年以上が経過してもなお新作が発表される「エヴァ」は人気タイトルであり、世界最大級の立体物イベントであるワ…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "氷点下で植物を枯らさずに「氷で守る」技術とは？",
+    "url": "https://gigazine.net/news/20260726-freezing-plants/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 26 Jul 2026 23:00:00 +0900",
+    "fetched_at": "2026-07-26T21:18:31.719966+00:00",
+    "summary": "果樹園では寒さから花を守るために、「植物を凍結から守るためにあえて氷で覆う」という方法が採用されることがあります。その不思議なメカニズムについて、科学実験を行うYouTubeチャンネル「The Action Lab」が実際の実験と合わせて解説しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "ハチミツは運動のパフォーマンス向上に役立つのか？",
     "url": "https://gigazine.net/news/20260621-honey-natural-fuel-workouts/",
     "source": "GIGAZINE",
@@ -2171,6 +2197,19 @@
     ]
   },
   {
+    "title": "DivXやXvidで知られる動画圧縮規格「MPEG-4 Visual」でViaが管理する最後の特許が失効",
+    "url": "https://gigazine.net/news/20260727-mpeg-4-visual-last-patent-expired/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 27 Jul 2026 06:00:00 +0900",
+    "fetched_at": "2026-07-26T21:18:31.716303+00:00",
+    "summary": "DivXやXvidで使われる動画圧縮規格「MPEG-4 Visual(MPEG-4 Part 2)」について、特許の管理とライセンス提供を行うVia Licensing Allianceの特許リストに残っていた最後の1件が、2026年7月19日にブラジルで失効しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "劇場アニメ『楽園追放 心のレゾナンス』テクニカルミーティングレポート、「3Dの顔をどこから見ても可愛くする」「Mayaでエフェクトを組み上げる苦労話」など盛りだくさんの内容",
     "url": "https://gigazine.net/news/20260622-rakuen-tsuihou-machiasobi30/",
     "source": "GIGAZINE",
@@ -3010,6 +3049,32 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "MCP仕様が明日アップデート、7月28日版MCPからはステートレスな接続が正式仕様に。GitHub MCPサーバが早くも対応発表",
+    "url": "https://www.publickey1.jp/blog/26/mcp728mcpgithub_mcp.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-07-26T15:06:36Z",
+    "fetched_at": "2026-07-26T21:18:31.599946+00:00",
+    "summary": "AIツールとサービスを接続するための事実上の業界標準となっている通信プロトコルMCP（Model Context Protocol）の7月28日版仕様の登場が目前となっています。 MCPの仕様は継続的にアップデートされ続けており、GitHu...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "ゲームエンジン「Unity 7」発表、ランタイム基盤がMonoから.NET CoreCLRへ移行。高速化により、開発画面からほぼ瞬時にプレイモードが起動",
+    "url": "https://www.publickey1.jp/blog/26/unity_7mononet_coreclr.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-07-26T15:02:22Z",
+    "fetched_at": "2026-07-26T21:18:31.605355+00:00",
+    "summary": "Unity社は代表的なゲームエンジンの1つである「Unity」の次世代版となる「Unity 7」を発表しました。 Introducing Unity 7 - built for a faster-moving, more open indu...…",
     "importance": "medium",
     "tags": [
       "it"
