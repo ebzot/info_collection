@@ -403,6 +403,19 @@
     ]
   },
   {
+    "title": "夏の日差しだけではビタミンD不足を解消できない可能性がある",
+    "url": "https://gigazine.net/news/20260728-summer-sun-vitamin-d-insufficiency/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 28 Jul 2026 06:00:00 +0900",
+    "fetched_at": "2026-07-27T21:24:52.401357+00:00",
+    "summary": "日照時間の短い冬には体内のビタミンD量が低下し、日照時間の長い夏になれば回復すると考えられています。ニューカッスル大学のアリス・ゴダード氏らの研究チームは、ビタミンDが不足している人の割合が季節によってどう変わるのかを調べました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "世界的なメモリ不足が極まってDDR2やDDR3のような旧型製品の価格も上昇開始",
     "url": "https://gigazine.net/news/20260623-cascading-consumer-dram-shortage/",
     "source": "GIGAZINE",
@@ -2197,6 +2210,19 @@
     ]
   },
   {
+    "title": "Firefoxがリリースサイクルを4週間から2週間に短縮、準備の整った機能をユーザーに頻繁に届けられるように",
+    "url": "https://gigazine.net/news/20260727-firefox-release-cadence/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 27 Jul 2026 23:45:00 +0900",
+    "fetched_at": "2026-07-27T21:24:52.402785+00:00",
+    "summary": "Mozillaのウェブブラウザ・Firefoxは4週間に1回の頻度でメジャーアップデートを配信していますが、2026年9月から、頻度を2週間に1回に早めることになりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "DivXやXvidで知られる動画圧縮規格「MPEG-4 Visual」でViaが管理する最後の特許が失効",
     "url": "https://gigazine.net/news/20260727-mpeg-4-visual-last-patent-expired/",
     "source": "GIGAZINE",
@@ -3049,6 +3075,45 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "SaaSにおけるUI開発のよくある課題とその解決方法、教えます［PR］",
+    "url": "https://www.publickey1.jp/blog/26/saasuipr.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-07-27T15:43:49Z",
+    "fetched_at": "2026-07-27T21:24:52.224029+00:00",
+    "summary": ".jetform-wrapper { border: 2px solid #ccc; /* 枠線 / padding: 20px; / 内側の余白 / border-radius: 12p...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Vercel、TypeScriptをC言語に変換してからネイティブな実行ファイルにコンパイルする「scriptc」、オープンソースで公開",
+    "url": "https://www.publickey1.jp/blog/26/verceltypescriptcscriptc.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-07-27T15:20:00Z",
+    "fetched_at": "2026-07-27T21:24:52.229136+00:00",
+    "summary": "Webアプリケーションのホスティングサービス「Vercel」で知られるVercel社は、Node.jsで実行可能なTypeScriptコードを、変更することなく同じ機能を備えたネイティブな実行ファイルにコンパイルするコンパイラ「script...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AWSの公式オンラインワークショップ、無料のAWSサンドボックス環境を提供開始。学習用にAWSのサービスやコード実行など利用可能に",
+    "url": "https://www.publickey1.jp/blog/26/awsawsaws.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-07-27T15:15:59Z",
+    "fetched_at": "2026-07-27T21:24:52.230391+00:00",
+    "summary": "Amazon Web Services（AWS）は、同社がAWSのオンライン学習教材として提供している「ワークショップ」において、無料でAWSのサービスやコードの実行などを試すことができるサンドボックス環境の提供開始を発表しました。 AWS...…",
     "importance": "medium",
     "tags": [
       "it"
