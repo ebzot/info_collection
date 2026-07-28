@@ -1,5 +1,18 @@
 [
   {
+    "title": "「ため息」は注意力にどのような影響を与えるのか？",
+    "url": "https://gigazine.net/news/20260729-sigh-attention/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 29 Jul 2026 06:00:00 +0900",
+    "fetched_at": "2026-07-28T21:25:07.251018+00:00",
+    "summary": "疲れたり退屈したりしている時に出る「ため息」は、呼吸だけでなく注意力も立て直す可能性があると考えられています。アイルランドのトリニティ・カレッジ・ダブリンの研究チームが、ため息の前後で呼吸・瞳孔・注意力がどのように変化するのかを分析した結果を報告しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "AliExpress運営元のAlibabaがアメリカ国防総省を提訴、中国軍とのつながりを否定しブラックリストからの削除を要求",
     "url": "https://gigazine.net/news/20260624-alibaba-sues-us/",
     "source": "GIGAZINE",
@@ -397,6 +410,45 @@
     "published_at": "Tue, 30 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-06-29T21:31:29.387727+00:00",
     "summary": "果物や野菜が健康に良いことは広く知られていますが、生鮮食品を買い続けるにはコストや保存期間の問題があります。そこで、安くて長持ちする冷凍・缶詰の果物や野菜を選ぶ時に何に注意すべきなのかについて、オーストラリアのスウィンバーン工科大学で栄養学の上級講師を務めるマーガレット・マレー氏が解説しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Facebookで他人のコンテンツを盗んだ上で「昔の投稿を編集してアップロード」することで権利を奪う詐欺が横行している",
+    "url": "https://gigazine.net/news/20260728-facebook-copyright/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 28 Jul 2026 21:10:00 +0900",
+    "fetched_at": "2026-07-28T21:25:07.252389+00:00",
+    "summary": "MetaのサービスであるFacebookとInstagramは共に「Rights Manager」というツールを導入しており、権利者が参照ファイルをアップロードするとシステムが著作権侵害コンテンツを検出し、そのコンテンツを削除したり収益化したりできます。このRights ManagerとFacebookの「投稿編集」を悪用し、自分が権利者であるかのように振る…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "データベース「PostgreSQL」がどのように実際には内部で動いているかがシムシティっぽい3Dでわかる「PGSimCity」",
+    "url": "https://gigazine.net/news/20260728-pgsimcity-postgresql/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 28 Jul 2026 20:00:00 +0900",
+    "fetched_at": "2026-07-28T21:25:07.253823+00:00",
+    "summary": "PostgreSQLは世界中で広く使われているデータベース管理システムですが、SQLを実行したときに内部でどのプロセスが動き、データがどのようにメモリやディスクへ読み書きされるのかを直感的に把握するのは簡単ではありません。そんなPostgreSQLの内部構造を、シムシティのような3D都市として可視化してくれるウェブアプリが「PGSimCity」です。 続きを…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "60周年を迎える大怪獣ガメラの貴重なプロップや資料をワンダーフェスティバル 2026[夏]で鑑賞してきたレポート",
+    "url": "https://gigazine.net/news/20260728-gamera-60th-wf2026s/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 28 Jul 2026 19:30:00 +0900",
+    "fetched_at": "2026-07-28T21:25:07.254724+00:00",
+    "summary": "1965年に大映が公開した怪獣映画『大怪獣ガメラ』で知られるガメラは、2025年に60周年を迎えました。これを記念したガメラ生誕60周年プロジェクトのブースがワンダーフェスティバル 2026[夏]の会場に設けられ、さらにアニメや特撮の資料をアーカイブするアニメ特撮アーカイブ機構(ATAC)でもガメラの貴重な資料やプロップが展示されていました。 続きを読む..…",
     "importance": "medium",
     "tags": [
       "it"
@@ -3075,6 +3127,19 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Google Cloud、AIが自律的にコードの脆弱性検出からサンドボックス内でのリスク検証、修正までを自動実行。「CodeMender」プレビュー公開",
+    "url": "https://www.publickey1.jp/blog/26/google_cloudaicodemender.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-07-28T15:54:06Z",
+    "fetched_at": "2026-07-28T21:25:07.178969+00:00",
+    "summary": "Google Cloudは、コードの脆弱性の検出、リスクの検証と報告、修正までを自律的に実行するAIエージェント「CodeMender」のプレビュー公開を発表しました。 複雑な脆弱性まで発見し、サンドボックス内でリスク検証 CodeMend...…",
     "importance": "medium",
     "tags": [
       "it"
