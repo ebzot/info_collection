@@ -1,5 +1,44 @@
 [
   {
+    "title": "GPT-5.6やClaude Opusの性能を「MCPサーバーを構築できるか？」という観点で測定したベンチマークテスト「mcpbench」",
+    "url": "https://gigazine.net/news/20260729-mcpbench/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 29 Jul 2026 23:00:00 +0900",
+    "fetched_at": "2026-07-29T21:18:59.396963+00:00",
+    "summary": "各種AIモデルの性能を「仕様に沿ってMCPクライアントやMCPサーバーを構築できるか？」という観点で測定するベンチマークテスト「mcpbench」が登場しました。作者はCloudflareのシニアシステムエンジニアでMCP関連の開発に携わっているMatt Carey氏です。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「元に戻せない」と考えられていた老化由来のタンパク質損傷を酵素で修復",
+    "url": "https://gigazine.net/news/20260729-reversal-of-protein/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 29 Jul 2026 22:00:00 +0900",
+    "fetched_at": "2026-07-29T21:18:59.397730+00:00",
+    "summary": "加齢に伴って人体のタンパク質に蓄積する物質を分解し、元の状態に戻す人工酵素「CMLase」を開発したと、Revel Pharmaceuticalsなどの研究チームが報告しました。高齢者から採取した水晶体や皮膚、動脈の組織を使った実験では、老化に伴う化学的な損傷を大幅に減らすことに成功したとのことです。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「パートナーがスマホに夢中だ」と感じている女性は性生活にストレスを覚えやすいとの研究結果",
+    "url": "https://gigazine.net/news/20260729-partner-smartphone-distractions-sexual-distress/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 29 Jul 2026 21:00:00 +0900",
+    "fetched_at": "2026-07-29T21:18:59.398698+00:00",
+    "summary": "「恋人や結婚相手がスマートフォンばかりいじっていて、話しかけてもまともに相手をしてくれない」という不満を聞いたことがある人も多いはず。新たな研究では、パートナーがスマートフォンに依存していると感じている女性は、家庭での満足度や性生活に関するストレスが大きいとの結果が示されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "「ため息」は注意力にどのような影響を与えるのか？",
     "url": "https://gigazine.net/news/20260729-sigh-attention/",
     "source": "GIGAZINE",
@@ -787,6 +826,19 @@
     "published_at": "Tue, 02 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-06-01T22:59:30.032745+00:00",
     "summary": "アメリカ・ニューオーリンズの民家の庭で見つかったラテン語碑文入りの大理石板が、約1900年前にローマ帝国海軍の水兵「セクストゥス・コンゲニウス・ウェルス」を記念して作られた墓碑だったと判明しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "ゴキブリには社会的ネットワークから生まれる一種の「集団的記憶」が存在する",
+    "url": "https://gigazine.net/news/20260730-cockroach-collective-memory/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 30 Jul 2026 06:00:00 +0900",
+    "fetched_at": "2026-07-29T21:18:59.395773+00:00",
+    "summary": "動物の集団では、個体が情報を覚えていなくても過去の選択が個体同士の相互作用によって維持される場合があります。ベルギー・ブリュッセル自由大学のマリアノ・カルボ・マルティン氏らの研究チームは、明るさの異なる2つの隠れ場所を用いてワモンゴキブリの個体と集団が環境の変化にどう反応するのかを調べました。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
@@ -3127,6 +3179,19 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "KubernetesはAIを動かすプラットフォームに。横浜でKubeCon＋CloudNativeCon Japan 2026が開幕",
+    "url": "https://www.publickey1.jp/blog/26/kubernetesaikubeconcloudnativecon_japan_2026.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-07-29T15:02:00Z",
+    "fetched_at": "2026-07-29T21:18:58.601955+00:00",
+    "summary": "クラウドネイティブ関連技術におけるIT業界最大のイベント「KubeCon+CloudNativeCon Japan 2026」が昨日（2026年7月29日）、パシフィコ横浜で開幕しました。日本でKubeCon＋CloudNativeConが...…",
     "importance": "medium",
     "tags": [
       "it"
