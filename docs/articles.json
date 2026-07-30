@@ -832,6 +832,45 @@
     ]
   },
   {
+    "title": "オープンソースのRadeonドライバーをWindowsに移植する試みが進行中",
+    "url": "https://gigazine.net/news/20260730-radv-windows/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 30 Jul 2026 22:00:00 +0900",
+    "fetched_at": "2026-07-30T21:24:33.517870+00:00",
+    "summary": "オープンソースで開発されているLinux用RadeonドライバーをWindowsに移植する作業が進行しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "7000年前の狩猟採集民が食糧源として山の湖に魚を放流して木製のわなで捕獲していたことが判明",
+    "url": "https://gigazine.net/news/20260730-hunter-gatherers-introduced-fish-mountain-lake/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 30 Jul 2026 21:00:00 +0900",
+    "fetched_at": "2026-07-30T21:24:33.518568+00:00",
+    "summary": "魚は古くから人間にとって重要な食糧源となっており、世界中のさまざまな狩猟採集民によって捕獲されていました。新たに、7000年前のノルウェーの狩猟採集民が山の上の孤立した湖に魚を運び込み、わなで捕獲していたことが明らかになりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Keychronがゲーミングマウス向け初のオープンソースファームウェア「ZGM」を発表、正式公開は2027年に",
+    "url": "https://gigazine.net/news/20260730-keychron-zgm-gaming-mouse/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 30 Jul 2026 20:00:00 +0900",
+    "fetched_at": "2026-07-30T21:24:33.519296+00:00",
+    "summary": "キーボードやマウスなどを手がけるKeychronが、ゲーミングマウス向けのオープンソースファームウェア「ZGM」を発表しました。ZGMはリアルタイムOSのZephyr RTOSを基盤とし、低遅延な入力処理やハードウェアに応じた柔軟なカスタマイズを可能にすることを目指しています。正式公開は2027年第1四半期が予定されています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "ゴキブリには社会的ネットワークから生まれる一種の「集団的記憶」が存在する",
     "url": "https://gigazine.net/news/20260730-cockroach-collective-memory/",
     "source": "GIGAZINE",
@@ -2626,6 +2665,19 @@
     ]
   },
   {
+    "title": "脳は「真のマルチタスク」を実現するために再配線できるとの研究結果",
+    "url": "https://gigazine.net/news/20260731-brain-rewire-true-multitasking/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 31 Jul 2026 06:00:00 +0900",
+    "fetched_at": "2026-07-30T21:24:33.515963+00:00",
+    "summary": "人間の脳は意識的な判断を必要とする2つの課題に同時並行で取り組む時、複数のタスクを同時処理する「マルチタスク」ではなく、タスク間を素早く切り替えて処理していると考えられてきました。アメリカ・ジョージタウン大学のマキシミリアン・リーゼンフーバー氏や、リーハイ大学のパトリック・コックス氏らの研究チームは、1つの課題を長期間練習した時に脳内の処理経路と同時作業の能…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "中国の開発者が公式価格の約10％でAnthropicのAIモデルを利用できるAPIプロキシ「中转站」が支えるグレー経済圏の実態とは？",
     "url": "https://gigazine.net/news/20260626-china-anthropic-api/",
     "source": "GIGAZINE",
@@ -3179,6 +3231,19 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "JetBrains、AIが少ないトークンでコンテキストを取得しやすく、よりよいコード生成を可能にする「JetBrains Context」発表",
+    "url": "https://www.publickey1.jp/blog/26/jetbrainsaijetbrains_context.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-07-30T17:48:59Z",
+    "fetched_at": "2026-07-30T21:24:33.438974+00:00",
+    "summary": "JetBrainsは、コードリポジトリの上にインテリジェンスなレイヤを構築し、AIエージェントに対して適切なコードのコンテキストを提供することで、AIエージェントによるよりよいコード生成を可能にする新サービス「JetBrains Conte...…",
     "importance": "medium",
     "tags": [
       "it"
