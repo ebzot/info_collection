@@ -2665,6 +2665,71 @@
     ]
   },
   {
+    "title": "メトロポリタン美術館に所蔵される歴史的遺物がどこでいつ作られたかを推測して地図をクリックするゲーム「Anthropeum」",
+    "url": "https://gigazine.net/news/20260731-anthropeum/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 31 Jul 2026 23:00:00 +0900",
+    "fetched_at": "2026-07-31T21:23:49.460191+00:00",
+    "summary": "メトロポリタン美術館に所蔵される歴史的な遺物がいつどこで作られたものかを推測するゲーム「Anthropeum」が公開されています。出題される遺物は全部で50万点以上で、日替わりで10問が用意されており、画面上に表示される遺物の見た目を基に制作年代と国・地域を推理する必要があります。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "コンパイラ「GCC」の開発チームがAI生成コードの受け入れポリシーを公開、15行以上のAI生成コードは受け入れ拒否",
+    "url": "https://gigazine.net/news/20260731-gcc-ai-policy/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 31 Jul 2026 22:00:00 +0900",
+    "fetched_at": "2026-07-31T21:23:49.464807+00:00",
+    "summary": "AIによるコード生成が一般的になりつつありますが、オープンソースプロジェクトでは「AI生成のプルリクエストが大量に送りつけられてメンテナーが疲弊する」という事態も発生しています。新たにオープンソースのコンパイラー「GNU Compiler Collection(GCC)」の開発チームがAI生成コードの受け入れポリシーを公開しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "TSMCが「準EMIB」と社内で呼ぶ高度なAI半導体パッケージング技術を開発中、IntelのEmbedded Multi-die Interconnect Bridge技術に類似か",
+    "url": "https://gigazine.net/news/20260731-tsmc-quasi-emib/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 31 Jul 2026 21:00:00 +0900",
+    "fetched_at": "2026-07-31T21:23:49.465932+00:00",
+    "summary": "世界最大の半導体受託製造企業であるTSMCが、IntelのEMIBが受注量を増やしていることを受け、EMIBの一部を模倣した「準EMIB」と呼ばれる高度な半導体パッケージング技術を開発していることが報じられています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "ウクライナのゼレンスキー大統領が「ロシア国内のドローン攻撃にStarlinkを利用させてほしい」とトランプ大統領に要求",
+    "url": "https://gigazine.net/news/20260731-zelensky-trump-starlink-drone-strikes-russia/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 31 Jul 2026 20:00:00 +0900",
+    "fetched_at": "2026-07-31T21:23:49.467185+00:00",
+    "summary": "2022年2月に始まったロシアによるウクライナ侵攻は記事作成時点でも続いており、2026年7月下旬に行われたウクライナ各地への爆撃では、少なくとも15人が死亡する事態となっています。そんな中、ウクライナのウォロディミル・ゼレンスキー大統領は7月28日にアメリカのドナルド・トランプ大統領と会談した際に、「衛星インターネットのStarlinkをロシア国内のドロー…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Amazon傘下のロボタクシー「Zoox」が専用車両で初めて商用サービス許可を取得",
+    "url": "https://gigazine.net/news/20260731-amazon-zoox-us-paid-robotaxis/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 31 Jul 2026 19:30:00 +0900",
+    "fetched_at": "2026-07-31T21:23:49.468074+00:00",
+    "summary": "複数の都市で無料テストを実施しているAmazon傘下のロボタクシー企業「Zoox」が、米国運輸省国家道路交通安全局(NHTSA)から商用運行の許可を得たことを発表しました。専用車両でサービスを展開している企業が許可を得るのは初の事例で、2年間で最大2500台の展開が可能です。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "脳は「真のマルチタスク」を実現するために再配線できるとの研究結果",
     "url": "https://gigazine.net/news/20260731-brain-rewire-true-multitasking/",
     "source": "GIGAZINE",
