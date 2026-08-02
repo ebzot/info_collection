@@ -1638,6 +1638,32 @@
     ]
   },
   {
+    "title": "Python・HTMLなどをブラウザ上で直接実行でき教室向けに作られたブラウザベースのコーディングプラットフォーム「Trinket」、閉鎖予定だったがオープンソースで無料化されて継続",
+    "url": "https://gigazine.net/news/20260802-trinket/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 02 Aug 2026 19:00:00 +0900",
+    "fetched_at": "2026-08-02T21:18:15.059673+00:00",
+    "summary": "Trinketは教室でプログラミングを学ぶ人たちを対象としてオンラインコードエディタを提供するサービスであり、ブラウザ上でPython・Java・HTMLなどのソースコードを直接実行できるのが特徴です。長らくTrinket.ioとして運営されてきましたが突然のサービス終了が告知され、オープンソース化を経て無料のコミュニティ版として再出発することになりました。",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "無料で毎日の予定やルーチンを視覚的なブロック配置で把握しNextCloud・WebDAV・Obsidianなどで同期＆AI連携・歩数記録・専用Androidアプリ・StreamDeckの双方向完全連携も可能な「dayGLANCE」、アカウント登録不要でセルフホストも可能",
+    "url": "https://gigazine.net/news/20260802-dayglance/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 02 Aug 2026 18:00:00 +0900",
+    "fetched_at": "2026-08-02T21:18:15.060484+00:00",
+    "summary": "1日の予定をToDoリストとして管理する際にただリストを並べるのではなく、時間配分を視覚的なブロックとして配置すると分かりやすくなります。直感的なデザインでNextcloud・WebDAV・Obsidianで同期できる「dayGLANCE」が公開されています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "SNS依存症を巡る訴訟が公判前に和解した一件で支払われる和解金総額は40億円以上に",
     "url": "https://gigazine.net/news/20260530-kentucky-sns-lawsuit/",
     "source": "GIGAZINE",
@@ -2704,6 +2730,19 @@
     ]
   },
   {
+    "title": "世界で最も高価なスパイス「サフラン」が数千年たっても安くならない理由",
+    "url": "https://gigazine.net/news/20260803-saffron-stays-expensive/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 03 Aug 2026 06:00:00 +0900",
+    "fetched_at": "2026-08-02T21:18:15.058291+00:00",
+    "summary": "パエリアやブイヤベースを鮮やかに彩ったり独特の風味を加えたりするのに使われるサフランは、「赤い金」とも呼ばれる世界で最も高価なスパイスです。突然変異で生まれた「種子を作れない花」を人間が数千年にわたって増やしてきたというサフランクロッカスの特異な生態と、高価格が続く理由について、教育系YouTubeチャンネルのTED-Edがアニメーションで解説しています。 …",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "「GTA 6」開発元の従業員が労働組合を結成",
     "url": "https://gigazine.net/news/20260601-rockstar-games-workers-union/",
     "source": "GIGAZINE",
@@ -3361,6 +3400,32 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "アトラシアン、AI時代の仕事用ブラウザ「Diaブラウザ」のWindows版リリースへ。ウェイトリストへの登録開始",
+    "url": "https://www.publickey1.jp/blog/26/aidiawindows.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-08-02T15:56:09Z",
+    "fetched_at": "2026-08-02T21:18:14.797321+00:00",
+    "summary": "アトラシアンは、現在Mac版がリリースされているDiaブラウザのWindows版を今年の秋にリリースすることを明らかにしました。 Dia for Windows is coming (this fall!) pic.twitter.com/...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "日本におけるクラウドネイティブコミュニティの開発者数が約100万人に、CNCFが調査結果を発表",
+    "url": "https://www.publickey1.jp/blog/26/100cncf.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-08-02T15:28:02Z",
+    "fetched_at": "2026-08-02T21:18:14.800314+00:00",
+    "summary": "Kubernetesをはじめとするクラウドネイティブなテクノロジーを推進するCloud Native Computing Foundation（以下、CNCF）とIT分野専門の調査会社であるSlashDataは、日本におけるクラウドネイティ...…",
     "importance": "medium",
     "tags": [
       "it"
