@@ -806,6 +806,19 @@
     ]
   },
   {
+    "title": "「完全に公平な選挙」は数学的に不可能、地域代表・得票比例・議席数の3条件を同時に満たせないことが判明",
+    "url": "https://gigazine.net/news/20260804-election-system/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 04 Aug 2026 06:00:00 +0900",
+    "fetched_at": "2026-08-03T21:24:36.087917+00:00",
+    "summary": "「地元で最多得票となった候補者が当選する」「全国の得票率に応じて各政党へ議席が配分される」「議会の定員も変えない」という公平に見える3条件をあらゆる選挙結果で常に保証する選挙制度は数学的に作れないことが証明されました。ケンブリッジ大学とコペンハーゲン大学の研究チームによると、補正議席数に対して政党数が十分に多くなった場合は「地域代表」「得票に比例した議席配分…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "AIによる人員削減のせいで市場が壊滅して民主主義体制が揺らぐ「死んだ経済理論」とは？",
     "url": "https://gigazine.net/news/20260602-ai-dead-economy-theory/",
     "source": "GIGAZINE",
@@ -2730,6 +2743,32 @@
     ]
   },
   {
+    "title": "ワールドカップの違法配信を取り締まる「オペレーション・オフサイド」は成功を収めたがドメイン押収の限界を浮き彫りにしたと映画協会が指摘",
+    "url": "https://gigazine.net/news/20260803-operation-offsides-domain/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 03 Aug 2026 22:25:00 +0900",
+    "fetched_at": "2026-08-03T21:24:36.089576+00:00",
+    "summary": "FIFAワールドカップ2026の期間中、アメリカ司法省と協力機関は試合の違法なストリーミングを取り締まる「オペレーション・オフサイド」を実施しました。結果として1000以上のドメインを対象とした取り締まりは一定の成果を挙げたものの、この取り組みを支援したアメリカ映画協会(MPA)は「ドメインの押収だけでは海賊版配信の根絶には至らず、違法サイトへのアクセスをイ…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "農村地域や農場で育った子どもがアレルギーやぜん息になりにくい「農場効果」を引き起こす細菌が判明",
+    "url": "https://gigazine.net/news/20260803-farm-effect-asthma-allergies-protection-bacteria/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 03 Aug 2026 22:00:00 +0900",
+    "fetched_at": "2026-08-03T21:24:36.091019+00:00",
+    "summary": "数十年前から、農村地域や農場の近くで育った子どもはアレルギーやぜん息、花粉症などにかかりにくいことが知られていました。新たな研究で、「farm effect(農場効果)」として知られるこの現象を引き起こす細菌が特定されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "世界で最も高価なスパイス「サフラン」が数千年たっても安くならない理由",
     "url": "https://gigazine.net/news/20260803-saffron-stays-expensive/",
     "source": "GIGAZINE",
@@ -3400,6 +3439,32 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Rust製のフルスタックWebアプリフレームワーク「Topcoat」登場。非同期ランタイム「Tokio」上でサーバサイドレンダリング、ルーティング、コンポーネントライブラリなど",
+    "url": "https://www.publickey1.jp/blog/26/rustwebtopcoattokio.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-08-03T15:42:58Z",
+    "fetched_at": "2026-08-03T21:24:35.986457+00:00",
+    "summary": "Rust言語の代表的な非同期ランタイムライブラリ「Tokio」の開発チームが、フルスタックのWebアプリケーションフレームワーク「Topcoat」のリリースを発表しました。 下記はTokioの作者でTopcoatの作者でもあるCarl Le...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "クラウドインフラのシェア、AWSが28％と変わらず、Google Cloudは1ポイント上昇して15％に。市場全体が年42％と過去最高の成長率に。2026年第2四半期、Synergy Research",
+    "url": "https://www.publickey1.jp/blog/26/aws28google_cloud1154220262synergy_research.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-08-03T15:39:50Z",
+    "fetched_at": "2026-08-03T21:24:35.989903+00:00",
+    "summary": "調査会社のSynergy Research Groupは、グローバルにおける2026年第2四半期のクラウドインフラの市場状況について調査結果を発表しました。 クラウドインフラとは、IaaS、PaaS、ホステッドプライベートクラウドを合わせた...…",
     "importance": "medium",
     "tags": [
       "it"
