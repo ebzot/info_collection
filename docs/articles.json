@@ -351,6 +351,19 @@
     ]
   },
   {
+    "title": "運動は週1回にまとめても週3回とほぼ同じように体脂肪を減らせるとの研究結果",
+    "url": "https://gigazine.net/news/20260805-once-weekly-exercise-fat-loss/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 05 Aug 2026 06:00:00 +0900",
+    "fetched_at": "2026-08-04T21:26:41.422178+00:00",
+    "summary": "仕事や家事で週に何度も運動する時間を確保できない人にとって、1日でまとめて運動しても週に何度も運動するのと同じ効果が得られるのかは気になるところです。香港大学のパルコ・シウ氏らの研究チームが、週75分の早歩きによる高強度インターバルトレーニング(HIIT)を週1回にまとめる場合と週3回に分ける場合で、体脂肪の減少量に違いがあるのかを調べた結果を報告しています…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "Intelの自社工場製プロセッサー「Core Ultra シリーズ 3(Panther Lake)」と「Core シリーズ 3(Wildcat Lake)」が供給不足に陥っているとの報道",
     "url": "https://gigazine.net/news/20260603-intel-18a-supply/",
     "source": "GIGAZINE",
@@ -800,6 +813,32 @@
     "published_at": "Tue, 07 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-06T21:31:36.456995+00:00",
     "summary": "「yt-dlp」はYouTubeなどの動画配信サイトからコンテンツをダウンロードできるコマンドラインツールです。Microsoft公式パッケージ管理ツールの「WinGet」を使うとコマンド一発でインストールできるので、インストール手順を改めてまとめておきます。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「権限の低いエージェントをハックして上位権限でコードを実行する」というGoogle ADKのハッキング手法が発見される",
+    "url": "https://gigazine.net/news/20260804-agent-development-kit-attack/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 04 Aug 2026 23:00:00 +0900",
+    "fetched_at": "2026-08-04T21:26:41.424115+00:00",
+    "summary": "Googleはエンタープライズ規模の開発をサポートするエージェント開発フレームワーク「Agent Development Kit(ADK)」を公開しています。このADKに「権限の低いエージェントをハックして上位権限でコードを実行する」という攻撃を実行可能な脆弱(ぜいじゃく)性が存在することが、セキュリティ企業のPillarによって発見されました。 続きを読む…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "60年前に「死んだサンゴ礁」と判断された海域で豊かなサンゴ生態系が発見される",
+    "url": "https://gigazine.net/news/20260804-benin-coral-reefs/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 04 Aug 2026 22:50:00 +0900",
+    "fetched_at": "2026-08-04T21:26:41.425356+00:00",
+    "summary": "1960年代初頭に行われた調査で西アフリカ・ベナン沖のサンゴ礁と思われる構造物は「死滅している」と結論付けられていましたが、最新技術による再調査で、多様なサンゴや魚類が生息する豊かな生態系が確認されました。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
@@ -3439,6 +3478,32 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "1Password、ダッシュボードから組織のAI支出状況を表示する新機能。ClaudeやCursor、ChatGPTなど複数AIにI対応",
+    "url": "https://www.publickey1.jp/blog/26/1passwordaiclaudecursorchatgptaii.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-08-04T15:38:32Z",
+    "fetched_at": "2026-08-04T21:26:41.195034+00:00",
+    "summary": "1Passwordは、単一のダッシュボード画面からAnthropicのCalude、OpenAIのChatGPT、AnysphereのCursorなど複数のAIサービスに対する支出状況をリアルタイムに表示、管理できる新機能を発表しました。 ...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "アプリが遅い原因をAIがトレースログから分析してくれる「Windows Performance Analyzer MCP」（WPA MCP）、マイクロソフトがプレビュー公開",
+    "url": "https://www.publickey1.jp/blog/26/aiwindows_performance_analyzer_mcpwpa_mcp.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-08-04T15:36:16Z",
+    "fetched_at": "2026-08-04T21:26:41.200240+00:00",
+    "summary": "マイクロソフトは、Windowsアプリケーションが遅くなる原因の調査分析をAIに依頼できるツール「Windows Performance Analyzer MCP」（WPA MCP）のアーリープレビューを発表しました。 GitHub Cop...…",
     "importance": "medium",
     "tags": [
       "it"
