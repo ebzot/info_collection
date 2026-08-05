@@ -351,6 +351,32 @@
     ]
   },
   {
+    "title": "iPhoneで動作しBonsai 27Bと同等性能で13倍高速なAI「Maple-Preview」が登場、ローカルAIがまた1歩前進",
+    "url": "https://gigazine.net/news/20260805-maple-preview/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 05 Aug 2026 23:00:00 +0900",
+    "fetched_at": "2026-08-05T22:07:28.927276+00:00",
+    "summary": "AI研究企業のDeepGroveが軽量かつ高性能なAIモデル「Maple-Preview」を発表しました。Maple-PreviewはiPhoneでも動作するほど小型のモデルで、同じくiPhoneで動作するBonsai 27Bと比べて13倍高速な処理が可能です。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "アフリカのサイバー犯罪の50％以上にAIが悪用されており欧米諸国にも被害が及んでいるとインターポールが発表",
+    "url": "https://gigazine.net/news/20260805-ai-fuels-half-cybercrime-africa-interpol/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 05 Aug 2026 22:00:00 +0900",
+    "fetched_at": "2026-08-05T22:07:28.928164+00:00",
+    "summary": "生成AIツールはさまざまな仕事や学業に役立ちますが、犯罪者にとっても有用なツールとなっています。国際刑事機構(インターポール)が、アフリカ全土で報告されているサイバー犯罪の55％以上にAIが使われており、その脅威は大陸を越えて広がっているとの報告書を発表しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "運動は週1回にまとめても週3回とほぼ同じように体脂肪を減らせるとの研究結果",
     "url": "https://gigazine.net/news/20260805-once-weekly-exercise-fat-loss/",
     "source": "GIGAZINE",
@@ -1281,6 +1307,32 @@
     "published_at": "Thu, 09 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-08T21:25:14.643124+00:00",
     "summary": "ウェブサイトのログインやフォーム入力時には画像の中から特定の物体を選ぶもの、「私はロボットではありません」というチェックボックスをクリックするもの、パズルのピースを正しい位置に合わせるものなどさまざまな認証テストが使われています。こうした認証テストは「CAPTCHA」と呼ばれ人間とボットを見分けるために使われてきましたが、AIの進歩によって有効性が疑問視され…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "芝生を効率よく刈れる人とそうでない人の違いはどこにあるのか？",
+    "url": "https://gigazine.net/news/20260806-mow-a-lawn-better/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 06 Aug 2026 07:00:00 +0900",
+    "fetched_at": "2026-08-05T22:07:28.924424+00:00",
+    "summary": "データを使ったインタラクティブな記事を公開するウェブメディア「The Pudding」が芝刈りを模した経路選択ゲームを開発し、3万人以上の参加者がどのように効率的なルートを見つけるのかを分析しました。参加者の移動経路や停止時間を記録した結果、最適解にたどり着いた人とそうでない人の行動に差があることがわかりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "男性ホルモンのテストステロン値は高すぎても低すぎてもうつ病のリスクが高いとの研究結果",
+    "url": "https://gigazine.net/news/20260806-high-low-testosterone-depression/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 06 Aug 2026 06:00:00 +0900",
+    "fetched_at": "2026-08-05T22:07:28.925989+00:00",
+    "summary": "男性ホルモンであるテストステロンは、値が低いとうつ病の発症リスクが高いと考えられてきました。しかし、イギリスの大規模な健康データベース「UKバイオバンク」に登録された男性13万3733人を対象とした研究では、テストステロン値が同年代の平均より低い男性だけでなく、平均より高い男性もうつ病の発症リスクが高いことが示されました。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
@@ -3478,6 +3530,19 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "npm代替を目指すセキュリティファーストなパッケージマネージャ「vlt」バージョン1.0に到達。npmのミラーレジストリ、プライベートレジストリも提供開始",
+    "url": "https://www.publickey1.jp/blog/26/npmvlt10npm.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-08-05T18:03:20Z",
+    "fetched_at": "2026-08-05T22:07:28.780331+00:00",
+    "summary": "npmに代わる新しいJavaScriptのパッケージシステム「vlt」（vōlt：ボールト）を開発しているvlt technologyは、npm互換のパッケージマネージャ「vlt」がバージョン1.0に到達したことを発表しました。 あわせてn...…",
     "importance": "medium",
     "tags": [
       "it"
