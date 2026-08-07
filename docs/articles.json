@@ -2301,6 +2301,19 @@
     ]
   },
   {
+    "title": "Nintendo Switch 2のプレイ動画をリニアPCMサラウンドで録画する方法、Blackmagic Designのキャプチャーボード「UltraStudio Express Recorder 3G」を使ってみた",
+    "url": "https://gigazine.net/news/20260808-blackmagic-design-ultrastudio-express-recorder-3g/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 08 Aug 2026 00:00:00 +0900",
+    "fetched_at": "2026-08-07T21:32:43.971537+00:00",
+    "summary": "Nintendo SwitchやNintendo Switch 2はLPCM 5.1に対応しており、一部タイトルは再生環境があれば前方3ch・後方2ch・サブウーファー1chの5.1chサラウンド音声でのプレイが可能になります。この5.1chサラウンド音声のままで動画を録画する方法はないかと探してみたところ、Blackmagic Designの業務用キャプチ…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "GoogleがSpaceXの計算能力にアクセスするため月額1500億円弱を支払う契約を締結",
     "url": "https://gigazine.net/news/20260606-google-will-pay-spacex-920-million-usd-per-month/",
     "source": "GIGAZINE",
@@ -3374,6 +3387,58 @@
     "published_at": "Fri, 10 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-09T21:30:38.532172+00:00",
     "summary": "FBIとGoogleが、スマートテレビなど200万台超の消費者向けデバイスを組み込んでいたとされるレジデンシャルプロキシネットワーク「NetNut」を摘発・妨害しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「Grokipedia」は2026年4月24日に12件の修正提案を処理したあと一切の更新が停止している",
+    "url": "https://gigazine.net/news/20260807-grokipedia/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 07 Aug 2026 23:56:00 +0900",
+    "fetched_at": "2026-08-07T21:32:44.002143+00:00",
+    "summary": "「Wikipediaを大幅に上回ることになる」として、イーロン・マスク氏とxAIが満を持して開発・公開したオンライン百科事典「Grokipedia」で、修正提案の処理作業が停止状態にあり、提案された内容が「審査中」のままになっていると指摘されています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "面白い要素を全部乗せ、ローグライク×デッキ構築×パーティ制RPGの「Chrono Ark」を遊んでみた",
+    "url": "https://gigazine.net/news/20260807-chrono-ark/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 07 Aug 2026 23:35:00 +0900",
+    "fetched_at": "2026-08-07T21:32:44.004166+00:00",
+    "summary": "「Chrono Ark」は、ローグライクとデッキ構築、そしてパーティ制RPGという3つの要素を組み合わせたシングルプレイ向けRPGです。「面白い要素を3つあわせたゲームが面白くないわけがない！」ということで、実際にプレイして確かめてみることにしました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "初音ミクが計算してくれる電卓アプリ「電卓 - Desktop Mate Widgets」を使ってみた、数字を読み上げて計算に悩む姿も見せてくれる",
+    "url": "https://gigazine.net/news/20260807-desktop-mate-widgets-calc/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 07 Aug 2026 22:00:00 +0900",
+    "fetched_at": "2026-08-07T21:32:44.005598+00:00",
+    "summary": "PCにキャラクターを呼び出せるアプリ「Desktop Mate 」の姉妹アプリとして、キャラクターが計算してくれる電卓アプリ「電卓 - Desktop Mate Widgets」が登場しました。PCでもスマートフォンでも使えるとのことなので、実際に使ってみました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "太陽表面を撮影した高解像度画像が捉えた「渦巻き模様」が太陽の謎を解く鍵になる可能性",
+    "url": "https://gigazine.net/news/20260807-unprecedented-images-sun-explain-mysteries/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 07 Aug 2026 21:00:00 +0900",
+    "fetched_at": "2026-08-07T21:32:44.012352+00:00",
+    "summary": "アメリカ国立太陽天文台やドイツのマックス・プランク太陽系研究所などの研究チームが、ハワイにあるダニエル・K・イノウエ太陽望遠鏡を用いてこれまでにない高解像度で太陽表面を撮影しました。これによって確認された「渦巻き模様」が、太陽の長年の謎を解く鍵になると期待されています。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
