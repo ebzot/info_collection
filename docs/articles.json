@@ -1703,6 +1703,45 @@
     ]
   },
   {
+    "title": "18歳以下入場禁止なワンダーフェスティバル 2026[夏]の成人向けエリアのアイテムいろいろ",
+    "url": "https://gigazine.net/news/20260809-over19-wf2026s/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 09 Aug 2026 23:30:00 +0900",
+    "fetched_at": "2026-08-09T21:25:02.618146+00:00",
+    "summary": "「世界最大級の造形・フィギュアの祭典」であるワンダーフェスティバルには多種多様な造形物が集結していますが、参加者数増加などの理由によって、「成人向け」のアイテムについては18歳以下入場禁止エリアに分けられています。2026年7月26日に開催されたワンダーフェスティバル 2026[夏]ではエリア内がどんな様子だったか、ちらっと見てきてそのままになっていたので写…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "宗教的な集まりに参加することに直接的なメンタルヘルス改善効果はないとの研究結果",
+    "url": "https://gigazine.net/news/20260809-going-religious-services-mental-health/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 09 Aug 2026 23:00:00 +0900",
+    "fetched_at": "2026-08-09T21:25:02.619458+00:00",
+    "summary": "数十年にわたるさまざまな研究で、宗教的な行事や集会への参加と良好なメンタルヘルスとの間に強い相関関係があることが示唆されてきました。ところが、長期的なデータを分析した新たな研究では、宗教儀式への参加には直接的なメンタルヘルス改善効果はないことが明らかとなっています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "がん関連ウイルスを大幅に減少させるチューインガムが開発される",
+    "url": "https://gigazine.net/news/20260809-cancer-fighting-chewing-gum/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 09 Aug 2026 21:00:00 +0900",
+    "fetched_at": "2026-08-09T21:25:02.620969+00:00",
+    "summary": "ペンシルベニア大学の研究者らが、がん予防効果のあるチューインガムを開発しました。チューインガムをかむだけで、首から顔の領域にできる「頭頸部(とうけいぶ)がん」に関連する微生物を標的としてウイルス1種と細菌2種を大幅に減少させたことが報告されています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "妊娠中の母親が野菜を食べていると生まれてきた子どもは野菜好きになる可能性",
     "url": "https://gigazine.net/news/20260607-young-children-vegetable-smells-womb/",
     "source": "GIGAZINE",
@@ -2873,6 +2912,19 @@
     ]
   },
   {
+    "title": "生まれた順番と病気のリスクに関連はあるのか？",
+    "url": "https://gigazine.net/news/20260810-birth-order-disease-risk/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 10 Aug 2026 06:00:00 +0900",
+    "fetched_at": "2026-08-09T21:25:02.616608+00:00",
+    "summary": "同じ親から生まれ同じ家庭で育つ兄弟でも、体質や健康状態が同じとは限りません。シカゴ大学のベンジャミン・クレイマー氏らの研究チームが、アメリカの商用医療保険データに含まれる2人兄弟1000万人超を対象に、生まれた順番と病気の診断傾向にどのような関係があるのかを調査しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "史上最大の株式市場デビューとなることが期待されているOpenAI・Anthropic・SpaceXを市場は受け止めきれるか？",
     "url": "https://gigazine.net/news/20260608-stockmarket-swallow-anthropic-spacex-openai/",
     "source": "GIGAZINE",
@@ -3712,6 +3764,19 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「Agent Plugins 1.0.0」発表、異なるAIエージェント間でもスキルやMCPサーバ設定が共通化へ。マイクロソフト、OpenAI、AWS、Googleらがサポート",
+    "url": "https://www.publickey1.jp/blog/26/agent_plugins_100aimcpopenaiawsgoogle.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-08-09T15:19:33Z",
+    "fetched_at": "2026-08-09T21:25:01.673901+00:00",
+    "summary": "AWS、マイクロソフト、OpenAI、Anysphere、Vercelの各社は、AIエージェントのスキルやMCPサーバの設定を、AIエージェンが異なっていても共有できる業界標準の仕様「Agent Plugins 1.0.0」を発表しました。...…",
     "importance": "medium",
     "tags": [
       "it"
