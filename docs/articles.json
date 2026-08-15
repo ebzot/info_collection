@@ -2340,6 +2340,71 @@
     ]
   },
   {
+    "title": "無料でMySQL・PostgreSQL・SQL Server・MongoDB・SQLiteなどのデータベースを操作できる「DbGate」、ブラウザ経由だけでなくWindows・Linux・Macアプリもあり",
+    "url": "https://gigazine.net/news/20260815-dbgate/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 15 Aug 2026 18:00:00 +0900",
+    "fetched_at": "2026-08-15T21:14:58.309081+00:00",
+    "summary": "MySQLやPostgreSQL、MongoDBなど複数種類のデータベースを扱う際、個別に専用ツールを用意するのは面倒です。そこで、SQLとNoSQLを共通画面から操作でき、Windows・Linux・Macやブラウザから利用可能なデータベースマネージャー「DbGate」が公開されています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "キオクシア製SSD「EXCERIA G3」の4TBモデルを使ってみたよレビュー、PCIe 5.0対応で読込10GB/s・書込9.6GB/sの高速SSD",
+    "url": "https://gigazine.net/news/20260815-kioxia-exceria-g3-4tb/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 15 Aug 2026 17:22:00 +0900",
+    "fetched_at": "2026-08-15T21:14:58.445646+00:00",
+    "summary": "キオクシアの個人向けSSD「EXCERIA G3 SSDシリーズ」の4TB版が2026年6月16日に登場しました。PCIe 5.0に対応しており、仕様上のシーケンシャル読込速度は10GB/s、シーケンシャル書込速度は9.6GB/sです。実物を試す機会を得られたので、実際にPCに組み込んで性能を検証してみました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "コンピューターの敵だった「熱雑音」を逆に利用して省電力を狙う「熱力学コンピューティング」とは？",
+    "url": "https://gigazine.net/news/20260815-thermodynamic-computing/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 15 Aug 2026 17:00:00 +0900",
+    "fetched_at": "2026-08-15T21:14:58.448033+00:00",
+    "summary": "熱によって原子や電子が不規則に動くことで、回路の電圧や電流には小さな揺らぎが生じます。こうしたランダムな揺らぎは「熱雑音」と呼ばれ、通常のコンピューターでは計算を乱す原因となるため抑え込まれていますが、その熱雑音を逆に計算へ利用する「熱力学コンピューティング」の研究が進んでいます。AIや科学計算に必要な処理を、従来のコンピューターより少ない消費電力と発熱で実…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "アメリカにおけるがん手術の待ち時間はますます長くなっている",
+    "url": "https://gigazine.net/news/20260815-us-wait-times-cancer-surgeries-longer/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 15 Aug 2026 15:00:00 +0900",
+    "fetched_at": "2026-08-15T21:14:58.449196+00:00",
+    "summary": "アメリカにおけるがん患者の手術までの待機時間が、2012年から2023年にかけて段階的に長くなってきていることが明らかになりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "E-Inkディスプレイ・3マイクアレイ・32bitフロート録音に対応した「Insta360 Mic Pro」外観レビュー",
+    "url": "https://gigazine.net/news/20260815-insta360-mic-pro-appearance/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 15 Aug 2026 12:30:00 +0900",
+    "fetched_at": "2026-08-15T21:14:58.450167+00:00",
+    "summary": "アクションカメラなどで知られるInsta360から、送信機の前面にカスタマイズ可能なE-Inkディスプレイを搭載したワイヤレスマイク「Insta360 Mic Pro」が2026年5月19日に登場しました。Mic Proは3基のマイクを内蔵して指向性を切り替えられるほか、AIノイズキャンセリングやオートゲインなども搭載しています。そんなMic Proを実際に…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "KDPで「予約注文禁止状態」になってから解除されるまでの経緯をまとめてみた",
     "url": "https://gigazine.net/news/20260613-kdp-pre-orders/",
     "source": "GIGAZINE",
