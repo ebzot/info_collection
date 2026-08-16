@@ -1820,6 +1820,19 @@
     ]
   },
   {
+    "title": "女性創業者のスタートアップが株式上場や大企業による買収を達成しにくいのはなぜか？",
+    "url": "https://gigazine.net/news/20260816-women-founders-start-ups-exit-less/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 16 Aug 2026 20:00:00 +0900",
+    "fetched_at": "2026-08-16T21:14:02.077292+00:00",
+    "summary": "急進的なアイデアを強みに短期間での成長を狙うスタートアップ起業は、株を所有する出資者が資金を回収するための方法として、「株式市場への上場」や「大企業による買収」を狙います。これらは「出口戦略(イグジット)」と呼ばれますが、新たな研究では女性創業者がいるスタートアップはイグジットを達成する可能性が低いことや、女性創業者のデメリットをなくす方法が明らかになりまし…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "メモ書き機能付きAmazon純正電子書籍リーダー「Kindle Scribe」に初のカラー表示可能な「Kindle Scribe Colorsoft」を含む3モデルが新登場したので使ってみた",
     "url": "https://gigazine.net/news/20260614-kindle-scribe-2026/",
     "source": "GIGAZINE",
@@ -3029,6 +3042,19 @@
     ]
   },
   {
+    "title": "自家製ロケットを打ち上げて雷を誘導することはできるのか？",
+    "url": "https://gigazine.net/news/20260817-trigger-lightning-homemade-rocket/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 17 Aug 2026 06:00:00 +0900",
+    "fetched_at": "2026-08-16T21:14:02.075400+00:00",
+    "summary": "自然の雷がどこに落ちるのかを事前に正確に予測するのは難しく、至近距離で観測する研究も危険かつ困難です。科学・工学系YouTubeチャンネルのElectron Impressionsが、細い導線を引き上げる自家製ロケットや大気の電場を測る装置を開発し、打ち上げ地点付近で雷を誘発する実験を行った結果を公開しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "ソニーのハイエンドスマホ「Xperia 1 VIII」の発熱やバッテリーの持ちが気になったのでチェックしてみたよレビュー",
     "url": "https://gigazine.net/news/20260615-sony-xperia-1-viii-battery/",
     "source": "GIGAZINE",
@@ -4128,6 +4154,45 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "タブもテーマも拡張機能もないAI専用の超軽量ヘッドレスブラウザ「Kitesurf」、Cloudflareが発表",
+    "url": "https://www.publickey1.jp/blog/26/aikitesurfcloudflare.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-08-16T15:10:13Z",
+    "fetched_at": "2026-08-16T21:14:01.941639+00:00",
+    "summary": "CloudflareはAIエージェントによる操作専用のヘッドレスなWebブラウザ「Kitesurf」を発表しました。 現在ベータ版として公開されています。 Kitesurfは主にRust言語で記述されWebAssemblyにコンパイルされた...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Zed開発チームが「Delta」発表。人間とAIの全対話とコード変更履歴をコンテキストとして保存共有するコラボレーションツール",
+    "url": "https://www.publickey1.jp/blog/26/zeddeltaai.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-08-16T15:05:36Z",
+    "fetched_at": "2026-08-16T21:14:01.948825+00:00",
+    "summary": "オープンソースとして開発されている高速なコードエディタ「Zed」の開発チームは、人間の開発チームとAIエージェントの議論や対話内容とコードの変更履歴をすべて共有し、コンテキストとして保存できる「Delta」を発表しました。 Today we...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "無料で使える「Delphi 13 Community Edtion」提供開始。Windows x86/Arm、Mac、iOS、Androidのネイティブアプリなど開発可能",
+    "url": "https://www.publickey1.jp/blog/26/delphi_13_community_edtionwindows_x86armmaciosandroid.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-08-16T15:01:16Z",
+    "fetched_at": "2026-08-16T21:14:01.949865+00:00",
+    "summary": "米エンバカデロ・テクノロジーズは、無料で使える統合開発環境「Delphi 13 Community Edtion」の提供開始を発表しました。 Delphi 13 Community Edition is now available!The ...…",
     "importance": "medium",
     "tags": [
       "it"
