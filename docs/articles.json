@@ -143,6 +143,19 @@
     ]
   },
   {
+    "title": "光合成プロセスを応用して「ドライアイ」を治療",
+    "url": "https://gigazine.net/news/20260819-dry-eye-disease-tip-plants/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 19 Aug 2026 06:00:00 +0900",
+    "fetched_at": "2026-08-18T21:17:19.820654+00:00",
+    "summary": "目の表面に広がる涙が不足することで、不快感や見えにくさが生じるドライアイ(乾性角結膜炎)を治療するために、光合成を用いる方法が考案されています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "無料でウェブページの変化を自動検知できる「changedetection.io」をDockerでセットアップして実際に監視してみた",
     "url": "https://gigazine.net/news/20260617-changedetection-io-setup/",
     "source": "GIGAZINE",
@@ -683,6 +696,19 @@
     "published_at": "Tue, 21 Jul 2026 21:00:00 +0900",
     "fetched_at": "2026-07-21T21:27:13.411606+00:00",
     "summary": "AIを用いたコーディング手法「バイブコーディング」によりアプリの開発が高速化しており、2026年5月までの6カ月間にリリースされたスマートフォンゲームが前年同期比のほぼ倍まで増加していたり、2026年第1四半期の世界のアプリリリース総数が前年比60％増加していたりと、アプリ開発ブームをAIがけん引しているとみられます。その一方でダウンロード数の増加は2％程度…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Appleの「カメラ搭載AirPods」がリリース間近らしいことがmacOSリリース候補版内のファイルから判明",
+    "url": "https://gigazine.net/news/20260818-camera-equipped-airpods/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 18 Aug 2026 22:40:00 +0900",
+    "fetched_at": "2026-08-18T21:17:19.889916+00:00",
+    "summary": "Appleが配信したmacOS Tahoe 26.7のリリース候補版に含まれたファイルから、多数の未発表製品の存在が明らかになりました。ファイルの情報から、Appleは「カメラ搭載のAirPods」を開発していて、まもなくリリース予定だとみられています。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
@@ -4180,6 +4206,45 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "コードからDockerfile不要でOCIコンテナをビルド。「Cloud Native Buildpacks」が十分成熟したとしてCNCFの卒業プロジェクトに",
+    "url": "https://www.publickey1.jp/blog/26/dockerfileocicloud_native_buildpackscncf.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-08-18T16:03:06Z",
+    "fetched_at": "2026-08-18T21:17:18.989291+00:00",
+    "summary": "Cloud Native Computing Foundation（CNCF）は、アプリケーションのソースコードから直接OCIコンテナメージを構築するツールである「Cloud Native Buildpacks」が十分成熟したとして、卒業プ...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Google、AIモデルをコンパイルして暗号データを復号せずに扱えるように変換する「HEIR」発表。完全準同型暗号を利用し、AIでのセキュリティやプライバシー保護など実現へ",
+    "url": "https://www.publickey1.jp/blog/26/googleaiheirai.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-08-18T15:55:25Z",
+    "fetched_at": "2026-08-18T21:17:19.179924+00:00",
+    "summary": "Googleは、完全準同型暗号を利用したAIモデル用のオープンソースコンパイラ「HEIR」を発表しました。 AIモデルをコンパイルする「HEIR」 HEIRはAIモデル用のコンパイラとツールチェーンであり、これを用いて学習済みAIモデルのP...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AIエージェント時代のGitホスティングサービス「Origin」、Cursorが発表。Cursorとの統合、コマンドラインでの操作、GitHubとの同期など提供",
+    "url": "https://www.publickey1.jp/blog/26/aigitorigincursorcursorgithub.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-08-18T15:43:29Z",
+    "fetched_at": "2026-08-18T21:17:19.181290+00:00",
+    "summary": "AIコードエディタのCursorなどを提供するAnysphereは、Gitに対応したコードホスティングサービス「Origin」を発表しました。 Origin, our code hosting platform, is now live.I...…",
     "importance": "medium",
     "tags": [
       "it"
