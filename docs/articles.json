@@ -143,6 +143,32 @@
     ]
   },
   {
+    "title": "広告ブロッカー「uBlock Origin」がFacebook広告のブロックを断念",
+    "url": "https://gigazine.net/news/20260819-ublock-origin-facebook-ads/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 19 Aug 2026 23:45:00 +0900",
+    "fetched_at": "2026-08-19T21:19:22.084907+00:00",
+    "summary": "広告ブロッカー「uBlock Origin」で、Facebook向けフィルターの継続更新が打ち切られました。Facebookの広告を非表示にするために「uBlock Origin」を使っている人は今後Facebook側の変更に伴って再び広告が表示される可能性があります。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Claudeエージェント同士が「縄張り争い」で互いを妨害したり価格について共謀したりする事例がAnthropicの実験で発生",
+    "url": "https://gigazine.net/news/20260819-anthropic-claude-multiagent-turf-war/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 19 Aug 2026 23:30:00 +0900",
+    "fetched_at": "2026-08-19T21:19:22.087244+00:00",
+    "summary": "AIエージェントとは与えられた目標に沿ってツールを使い、複数の手順からなる作業を自律的に進めるAIです。Anthropicは2026年8月13日、それぞれ異なる目標を与えられた複数のAIエージェントが明確な上下関係なしに同じコードベースを編集したり同じ市場で商品を販売したりする状況を再現し、協調や対立のパターンを調べた研究結果を公開しました。 続きを読む..…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "光合成プロセスを応用して「ドライアイ」を治療",
     "url": "https://gigazine.net/news/20260819-dry-eye-disease-tip-plants/",
     "source": "GIGAZINE",
@@ -1203,6 +1229,19 @@
     "published_at": "Thu, 23 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-22T21:24:41.435329+00:00",
     "summary": "Samsung Electronics・SK hynix・Micron Technologyの3社が従来型DRAMの供給を協調して制限し、価格を人為的につり上げたとする反トラスト訴訟がアメリカで始まりました。原告側は「AI需要の急増だけではこれだけの価格上昇を説明できない」と主張しており、その鍵となる3社のこれまでの動向をPCハードウェア系メディアのGame…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "EVで乱暴な運転をするとバッテリーの消耗が約2.5倍になる可能性",
+    "url": "https://gigazine.net/news/20260820-ev-aggressive-driving-battery-aging/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 20 Aug 2026 06:00:00 +0900",
+    "fetched_at": "2026-08-19T21:19:22.071798+00:00",
+    "summary": "電気自動車(EV)のリチウムイオンバッテリーは充放電を繰り返すうちに蓄えられる電力量が減り、航続距離が短くなるほか、中古車としての価値にも影響します。中国の上海電機学院の研究チームが15台のEVから得た実走行データを分析したところ、最も乱暴な運転ではエコ運転と比べて1000回の充放電後に予測されるバッテリー容量の低下率が約2.5倍に達する可能性が示されました…",
     "importance": "medium",
     "tags": [
       "it"
@@ -4206,6 +4245,32 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Docker社、コンテナ向けの高性能な新ハイパーバイザ「Docker VMM」パブリックベータ公開",
+    "url": "https://www.publickey1.jp/blog/26/dockerdocker_vmm.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-08-19T17:43:24Z",
+    "fetched_at": "2026-08-19T21:19:21.771212+00:00",
+    "summary": "Docker社は独自開発したコンテナ向けの高性能な新ハイパーバイザ「Docker VMM」をパブリックベータとして公開しました。WindowsとmacOSに対応した最新の「Docker Desktop v4.86」で利用可能です。 Toda...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Pythonライクな新言語「Mojo」がオープンソースで公開、コンパイラやツールチェーンなど。Windows版の開発も表明",
+    "url": "https://www.publickey1.jp/blog/26/pythonmojowindows.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-08-19T15:40:43Z",
+    "fetched_at": "2026-08-19T21:19:21.900610+00:00",
+    "summary": "Pythonライクな新言語「Mojo」の開発元であるModular社は、Mojoをオープンソースとして公開したことを、同社主催のイベント「ModCon 2026」で発表しました。 具体的にはMojoのコンパイラとツールチェーンがGitHub...…",
     "importance": "medium",
     "tags": [
       "it"
