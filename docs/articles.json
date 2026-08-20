@@ -1235,6 +1235,45 @@
     ]
   },
   {
+    "title": "プログラマーはどの言語からどの言語へ移住しているのか？JetBrainsが8837人分の回答を分析",
+    "url": "https://gigazine.net/news/20260820-jetbrains-programming-language-migration/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 20 Aug 2026 23:00:00 +0900",
+    "fetched_at": "2026-08-20T21:21:10.790404+00:00",
+    "summary": "プログラミング言語の「Kotlin」などを開発するJetBrainsが、8837人の開発者にプログラミング言語の使用実態を質問しました。その結果、開発者が主に使用する言語や、過去1年でどの言語に乗り換えたのかが明らかになりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AIエージェントを「マウスの動き」で見抜く検知手法が研究されている",
+    "url": "https://gigazine.net/news/20260820-akamai-identify-agent/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 20 Aug 2026 22:00:00 +0900",
+    "fetched_at": "2026-08-20T21:21:10.791890+00:00",
+    "summary": "ウェブサイト上で人間の代わりに操作するAIエージェントを「マウスの動き」から見分ける手法をCDNやサイバーセキュリティサービスを提供するAkamaiが研究しています。人間とAIエージェントではマウス操作の回数や間隔に大きな違いがあり、Akamaiは少ない操作データでもAIエージェント特有の振る舞いを判別する仕組みを試作しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "音声録音＆AI分析で知識をため込んでタスク管理も可能な装着型デバイス「SwitchBot AIマインドクリップ」を使ってみたよレビュー",
+    "url": "https://gigazine.net/news/20260820-switchbot-ai-mindclip/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 20 Aug 2026 09:00:00 +0900",
+    "fetched_at": "2026-08-20T21:21:10.788843+00:00",
+    "summary": "日常生活では「買いものリスト」や「仕事のタスク」などのメモとして記録しておきたい事柄が大量に発生しますが、スマートフォンアプリなどを使って手動で記録するのは手間がかかります。2026年8月19日に登場した「SwitchBot AIマインドクリップ」は音声を録音してAIで情報整理できるデバイスで、会話内容や音声メモを録音しておくだけでAIが自動的に内容をまとめ…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "EVで乱暴な運転をするとバッテリーの消耗が約2.5倍になる可能性",
     "url": "https://gigazine.net/news/20260820-ev-aggressive-driving-battery-aging/",
     "source": "GIGAZINE",
@@ -3640,6 +3679,19 @@
     ]
   },
   {
+    "title": "裁判の提出書類に「原告有利の出力を生成するようAIに指示するテキスト」が隠されていたことが発覚",
+    "url": "https://gigazine.net/news/20260821-hides-prompt-injection-legal-filing-ai/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 21 Aug 2026 06:00:00 +0900",
+    "fetched_at": "2026-08-20T21:21:10.786817+00:00",
+    "summary": "生成AIはさまざまな現場で活用されており、法律の現場でも関係者がAIを使って提出書類を要約したり、裁判書類の作成をAIにサポートさせたりしています。そんな中、弁護人に依頼せず自ら本人訴訟を起こしたアメリカの男性が、裁判所への提出書類に「自分に有利な出力を生成するようにAIへ指示するテキスト」を隠していたことが発覚しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "その人の「名前」がAIモデルの中でどれほど強く重み付けされているのかがわかる「IN THE WEIGHTS」",
     "url": "https://gigazine.net/news/20260619-intheweights-llm-weights-name/",
     "source": "GIGAZINE",
@@ -4245,6 +4297,19 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Fluter 3.47正式リリース。UIライブラリが分離され独立してアップデート可能、デフォルトでWebAssemblyを生成する方向に、など新機能",
+    "url": "https://www.publickey1.jp/blog/26/fluter_347uiwebassembly.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-08-20T15:02:15Z",
+    "fetched_at": "2026-08-20T21:21:10.253653+00:00",
+    "summary": "Googleは、Dart言語によるアプリケーションフレームワークの最新版「Flutter 3.47」正式リリースを発表しました。 We’ve pieced together something special... Flutter 3.47...…",
     "importance": "medium",
     "tags": [
       "it"
