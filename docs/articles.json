@@ -3679,6 +3679,71 @@
     ]
   },
   {
+    "title": "使い込むほど成長するAIエージェント「Hermes Agent」で実際に行った作業をスキル化して再利用してみた",
+    "url": "https://gigazine.net/news/20260821-hermes-agent-skill/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 21 Aug 2026 23:00:00 +0900",
+    "fetched_at": "2026-08-21T21:17:36.419995+00:00",
+    "summary": "前回、AIエージェント「Hermes Agent」をインストールしてGIGAZINEの記事を調査させてみたところ、ブラウザ操作に失敗したり、選んだものとは別の記事を開いてしまったりと試行錯誤しつつも最終的には目的の記事を見つけて内容をまとめることに成功しました。Hermes Agentにはこうして実際に行った作業の手順やトラブルの解決方法を「スキル」として保…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AIの回答をコピペしないでくれと頼む運動「Don’t paste the AI, please.(AIが書いたものをコピペしないでください)」",
+    "url": "https://gigazine.net/news/20260821-dont-paste-the-ai-please/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 21 Aug 2026 21:00:00 +0900",
+    "fetched_at": "2026-08-21T21:17:36.441494+00:00",
+    "summary": "ChatGPTなどのAIは、仕組み上、自分が出力した文章の正誤ないしは真偽を確認できません。できているように見えても実際は違うので、最終的には人間がその正確性を確認する必要があります。ところが、この仕組みを知らずにAIが生成した文章をそのままコピペする人間が存在し、そのような文章を受け取った人間にはまずその文章が正しいのかどうかを確認しなければならないという…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "インターネット年齢確認の強化により悪質なアダルトサイトが増加したとPornhubが調査結果を公表、「無料ポルノ」の検索結果上位10件のうち7件が規制に準拠していないサイトだった",
+    "url": "https://gigazine.net/news/20260821-internet-age-checks-boosted-rogue-adult-sites/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 21 Aug 2026 20:00:00 +0900",
+    "fetched_at": "2026-08-21T21:17:36.443171+00:00",
+    "summary": "イギリスにはインターネット上のコンテンツから未成年者を守るための「オンライン安全法」に基づく、年齢確認義務が存在します。この年齢確認義務の登場により、より悪質なアダルトサイトが増加していると、大手ポルノサイトのPornhubが報告しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "大量のmicroSDカードを3年間耐久テストしてわかった優秀なメーカーと期待外れのメーカーは？",
+    "url": "https://gigazine.net/news/20260821-microsd-card-test-3-years/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 21 Aug 2026 19:00:00 +0900",
+    "fetched_at": "2026-08-21T21:17:36.444684+00:00",
+    "summary": "microSDカードはゲーム機やカメラなどの重要なデータを保存するために使われているため、どれほどの耐久性があるのかは購入を決める大きなポイントです。テクノロジー愛好家のマット・コール氏が、3年にわたって続けているmicroSDカードの耐久性テストの結果を報告しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "2026年8月21日のヘッドラインニュース",
+    "url": "https://gigazine.net/news/20260821-headline/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 21 Aug 2026 18:53:00 +0900",
+    "fetched_at": "2026-08-21T21:17:36.445667+00:00",
+    "summary": "サンライズ50周年記念作品として制作される『装甲騎兵ボトムズ』シリーズ完全新作『装甲騎兵ボトムズ 灰色の魔女』の本予告が公開されました。本作は劇場全2部作となり、第1作は2026年11月20日(金)より全国公開。監督を押井守、原作・監修を髙橋良輔、制作をサンライズ、制作協力をProduction I.Gが担当します。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "裁判の提出書類に「原告有利の出力を生成するようAIに指示するテキスト」が隠されていたことが発覚",
     "url": "https://gigazine.net/news/20260821-hides-prompt-injection-legal-filing-ai/",
     "source": "GIGAZINE",
