@@ -3133,6 +3133,58 @@
     ]
   },
   {
+    "title": "AI分野では「オープンモデルがクローズドモデルに追いつく時間」が飛躍的に縮まっているとの指摘",
+    "url": "https://gigazine.net/news/20260824-open-ai-models-catching-up/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 24 Aug 2026 23:00:00 +0900",
+    "fetched_at": "2026-08-24T21:22:28.903534+00:00",
+    "summary": "さまざまな企業がリリースしているAIモデルは、モデル自体は非公開でサービスのみが提供される「クローズドモデル」と、モデル自体が公開されている「オープンモデル」に分かれています。オープンモデルは最先端クローズドモデルより性能が低いのが一般的とされてきましたが、オープンモデルがクローズドモデルの性能に追いつく時間はAI分野のステージごとに飛躍的に縮まっていると、…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "謎のAI「Ox Alpha」が出現し無料テスト中、コンテキストウィンドウは100万トークンで1日数兆トークンを処理できる匿名ラボがAPIを提供",
+    "url": "https://gigazine.net/news/20260824-ox-alpha/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 24 Aug 2026 22:00:00 +0900",
+    "fetched_at": "2026-08-24T21:22:28.906396+00:00",
+    "summary": "OpenRouterやOpenCodeが謎の匿名AI「Ox Alpha」の無料テストを実施しています。Ox Alphaの開発組織や詳細な仕様は不明で、複数のユーザーが性能検証結果を報告しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "半導体関連の予備校が韓国で大盛況、SamsungとSK Hynixの記録的な業績と魅力的な従業員ボーナスが後押し",
+    "url": "https://gigazine.net/news/20260824-chipmaking-cram-schools/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 24 Aug 2026 21:00:00 +0900",
+    "fetched_at": "2026-08-24T21:22:28.907922+00:00",
+    "summary": "世界最大級の半導体メーカーであるSamsungやSK Hynixが本拠を置く韓国で、半導体業界への就職を目指す若者向けの「半導体予備校」が大盛況となっています。そんな半導体予備校の内部について、イギリスの経済紙であるフィナンシャル・タイムズが報じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "折りたたみ式iPhoneのウワサ「耐久性あり」「ポケットに収まりやすい」「iPadのような便利なアプリレイアウト」「望遠レンズとFace IDなし」",
+    "url": "https://gigazine.net/news/20260824-foldable-iphone-detail/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 24 Aug 2026 20:00:00 +0900",
+    "fetched_at": "2026-08-24T21:22:28.908946+00:00",
+    "summary": "Apple初の折りたたみ式iPhoneが登場することが以前からウワサされていて、これまでに多数の「リーク情報」ないしは予想が出ています。Apple製品に詳しく発売前に多数の情報を提供することで知られるBloombergのマーク・ガーマン記者が、2026年8月最新版の情報をまとめています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "経済的に苦しい人は「国としては景気が良い」と考えているとより強い無力感を覚えるとの研究結果",
     "url": "https://gigazine.net/news/20260824-good-economy-financial-strain-powerlessness/",
     "source": "GIGAZINE",
@@ -4466,6 +4518,19 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "シングルバイナリなOLAP DBの次期版「DuckDB 2.0」プレビュー。クライアント／サーバ機能が安定版に、スキーマレスのVARIANT型、トリガー、非同期I/Oなど新機能",
+    "url": "https://www.publickey1.jp/blog/26/olap_dbduckdb_20variantio.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-08-24T15:29:33Z",
+    "fetched_at": "2026-08-24T21:22:28.730765+00:00",
+    "summary": "オープンソースとして開発されているOLAPデータベース「DuckDB」の開発を主導しているDuckDB Foundationは、今年の秋にリリース予定の「DuckDB 2.0」にどのような新機能が搭載予定なのかを紹介したブログ「A Prev...…",
     "importance": "medium",
     "tags": [
       "it"
