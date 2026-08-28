@@ -3822,6 +3822,58 @@
     ]
   },
   {
+    "title": "歌って滑れるアヒル型ロボット「Microduck」をHugging Face傘下のスタートアップ・Pollen Roboticsが発表",
+    "url": "https://gigazine.net/news/20260828-pollen-robotics-microduck/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 28 Aug 2026 13:40:00 +0900",
+    "fetched_at": "2026-08-28T05:03:14.913996+00:00",
+    "summary": "AI開発プラットフォーム・Hugging Face傘下のロボットスタートアップであるPollen Roboticsが、二足歩行したりくちばしでものを拾い上げたりできるアヒル型ロボット「Microduck」を発表しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "学生がAIを使うと論理が明確で専門家に近い回答になることがOpenAIの実験で判明",
+    "url": "https://gigazine.net/news/20260828-student-gain-from-ai/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 28 Aug 2026 12:48:00 +0900",
+    "fetched_at": "2026-08-28T05:03:14.915449+00:00",
+    "summary": "学生に生成AIを使わせるべきなのか、一律で禁止すべきなのかという議論は世界中で絶えず行われています。OpenAIが大学と共同で行った新たな実験では、AIを使う場合でも一定のメリットがあることが明らかになりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AnthropicがAIに顕微鏡やロボットアームを操作させる共通規格「Model Hardware Standard」を発表",
+    "url": "https://gigazine.net/news/20260828-anthropic-model-hardware-standard/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 28 Aug 2026 12:30:00 +0900",
+    "fetched_at": "2026-08-28T05:03:14.916365+00:00",
+    "summary": "AIが顕微鏡やロボットアームなどの物理機器を操作するための共通規格「Model Hardware Standard(MHS)」の研究プレビューをAnthropicが発表しました。MHSを使うことで、メーカーや種類が異なる機器をAIが共通の方法で扱いやすくなるとされています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "トランプ政権が半導体を対象にした新関税の導入を検討、影響が大きいとしてテック業界は反発",
+    "url": "https://gigazine.net/news/20260828-trump-new-tariff/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 28 Aug 2026 12:20:00 +0900",
+    "fetched_at": "2026-08-28T05:03:14.917228+00:00",
+    "summary": "トランプ政権による半導体に対する新たな包括的関税の計画を、ニュースサイト・POLITICOが関係者情報として報じました。テック業界は「アメリカを破滅させる可能性がある」と警告しているとのことです。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "中国の開発者が公式価格の約10％でAnthropicのAIモデルを利用できるAPIプロキシ「中转站」が支えるグレー経済圏の実態とは？",
     "url": "https://gigazine.net/news/20260626-china-anthropic-api/",
     "source": "GIGAZINE",
@@ -4622,6 +4674,19 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "DuckDBの開発元であるDuckLabsがAWS子会社になると発表。DuckDBはオープンソースのMITライセンスを維持",
+    "url": "https://www.publickey1.jp/blog/26/duckdbducklabsawsduckdbmit.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-08-27T15:55:49Z",
+    "fetched_at": "2026-08-28T05:03:14.734608+00:00",
+    "summary": "DuckDBの開発元であるDuckLabsは、来月（2026年9月）初旬にAWSの子会社となる予定であることを発表しました（DuckLabsの発表。AWSの発表） Today, @ducklabs_com is joining @awscl...…",
     "importance": "medium",
     "tags": [
       "it"
