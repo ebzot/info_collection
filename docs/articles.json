@@ -2275,6 +2275,58 @@
     ]
   },
   {
+    "title": "間もなくの発表が予想されるApple Watch Ultra 4のウワサまとめ",
+    "url": "https://gigazine.net/news/20260829-apple-watch-ultra-4-rumor/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 29 Aug 2026 10:00:00 +0900",
+    "fetched_at": "2026-08-29T03:00:04.654363+00:00",
+    "summary": "Appleが2026年に発表すると目されている「Apple Watch Ultra 4」がどんなモデルになるのか、リーク情報やウワサをまとめてみました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「写ルンです」で白黒のモノクロ写真を誰でも簡単に撮れる「写ルンです Black and White」で撮影＆現像してみたよレビュー",
+    "url": "https://gigazine.net/news/20260829-fujifilm-utsurundesu-black-and-white/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 29 Aug 2026 09:00:00 +0900",
+    "fetched_at": "2026-08-29T03:00:04.656131+00:00",
+    "summary": "2026年で発売40周年を迎える富士フイルムのレンズ付きフィルム「写ルンです」シリーズから20年ぶりの新製品として、黒白フィルムによるモノクロ写真を誰でも簡単に撮影できる「写ルンです Black and White」が2026年9月に登場します。実物を一足早く触れる機会を得られたので、実際に「写ルンです Black and White」で色んなものを撮影して…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "150万年前からセックスをしていない昆虫に有性生殖の仕組みが残っていることが判明",
+    "url": "https://gigazine.net/news/20260829-million-years-without-sexual-reproduction-stick-insects/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 29 Aug 2026 08:00:00 +0900",
+    "fetched_at": "2026-08-29T03:00:04.657340+00:00",
+    "summary": "無性生殖を行うよう進化したナナフシを調べた研究で、このナナフシに有性生殖で使われる仕組みが残っていることが分かりました。最大150万年間使われなかった仕組みがなぜ残っているのか、疑問が生まれています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "中国製AIモデル「GLM-5.3」が約束通りオープンモデルとして無償公開される、Claude Fable 5やGPT-5.6 Solに匹敵する高性能モデル",
+    "url": "https://gigazine.net/news/20260829-glm-5-3-open/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 29 Aug 2026 00:10:00 +0900",
+    "fetched_at": "2026-08-29T03:00:04.658240+00:00",
+    "summary": "中国のAI企業であるZ.aiがAIモデル「GLM-5.3」を日本時間の2026年8月29日0時にオープンモデルとして公開しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "無料で創作に生かせる3Dポーズ作成ツール「SetPose」",
     "url": "https://gigazine.net/news/20260627-setpose-3d/",
     "source": "GIGAZINE",
@@ -3816,6 +3868,19 @@
     "published_at": "Fri, 31 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-30T21:24:33.515963+00:00",
     "summary": "人間の脳は意識的な判断を必要とする2つの課題に同時並行で取り組む時、複数のタスクを同時処理する「マルチタスク」ではなく、タスク間を素早く切り替えて処理していると考えられてきました。アメリカ・ジョージタウン大学のマキシミリアン・リーゼンフーバー氏や、リーハイ大学のパトリック・コックス氏らの研究チームは、1つの課題を長期間練習した時に脳内の処理経路と同時作業の能…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AIに同じミスを繰り返させない「ハーネスエンジニアリング」とは？",
+    "url": "https://gigazine.net/news/20260828-harness-engineering/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 28 Aug 2026 23:10:00 +0900",
+    "fetched_at": "2026-08-29T03:00:04.659430+00:00",
+    "summary": "AIにプログラムを書かせる「AIコーディングエージェント」により多くの作業を任せるには、AIが生成したコードをどこまで信頼できるかが問題になります。AI支援開発の専門家であるビルギッタ・ベッケラー氏が、AIをうまく働かせる周辺環境を整える「ハーネスエンジニアリング」という考え方を解説しています。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
