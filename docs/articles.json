@@ -546,6 +546,32 @@
     ]
   },
   {
+    "title": "無料で5分間ほぼ世界中のどこにでも電話できる「Playa Phone」",
+    "url": "https://gigazine.net/news/20260902-playaphone/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 02 Sep 2026 07:00:00 +0900",
+    "fetched_at": "2026-09-01T22:55:42.279194+00:00",
+    "summary": "アメリカ・ネバダ州の荒野で毎年8月末から9月にかけて、何もない平原に街を作り上げて数万人が共同生活しわずか1週間には街を丸ごと撤去するという巨大イベント「バーニングマン」が開催されます。そんなバーニングマンの期間中、世界中のほぼどこへでも5分間無料で電話をかけることができる電話ボックス「Playa Phone」が設置されています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Omarchyで任意のユーザープロセスがルート権限に昇格可能の脆弱性、4.0.1へのアップデートで回避可能",
+    "url": "https://gigazine.net/news/20260902-omarchy-root-creds/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 02 Sep 2026 06:00:00 +0900",
+    "fetched_at": "2026-09-01T22:55:42.280516+00:00",
+    "summary": "LinuxディストリビューションのOmarchyのデフォルトDocker設定に、パスワード漏洩やsudo認証なしにroot権限を奪取される可能性のあるセキュリティ上の脆弱性が発見されました。脆弱性を悪用するとユーザーセッション内のほぼ全てのプロセスがroot権限を取得できるため、ホストファイルシステムの任意の部分にアクセスしてroot権限でコードを実行するこ…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "AIバイブコーディングでゲームのリリースが急増か、わずか6カ月で18万1000本のスマホゲームがリリースされiOSでは前年同期比118％増・Androidでは73％増",
     "url": "https://gigazine.net/news/20260701-mobile-game-boom/",
     "source": "GIGAZINE",
@@ -1125,6 +1151,19 @@
     "published_at": "Tue, 02 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-06-01T22:59:30.032745+00:00",
     "summary": "アメリカ・ニューオーリンズの民家の庭で見つかったラテン語碑文入りの大理石板が、約1900年前にローマ帝国海軍の水兵「セクストゥス・コンゲニウス・ウェルス」を記念して作られた墓碑だったと判明しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "使い込むほど成長するAIエージェント「Hermes Agent」でタスクを自動実行させてみた、PCを放置していても時間になれば勝手に実行",
+    "url": "https://gigazine.net/news/20260901-hermes-agent-cron-automation/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 01 Sep 2026 22:00:00 +0900",
+    "fetched_at": "2026-09-01T22:55:42.281477+00:00",
+    "summary": "前回、AIエージェント「Hermes Agent」で「GIGAZINEから記事を探して内容をまとめる」という作業の手順や、途中で発生したトラブルの解決方法を「スキル」として保存してみたところ、新しいセッションでも作成したスキルが自動的に読み込まれ、同じ作業をスムーズに実行できるようになりました。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
@@ -4895,6 +4934,32 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AIエージェントがRedshiftを操作してDWH構築や集計分析など可能に、Amazon RedshiftがAgent Toolkit for AWSと統合",
+    "url": "https://www.publickey1.jp/blog/26/airedshiftdwhamazon_redshiftagent_toolkit_for_aws.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-01T15:07:04Z",
+    "fetched_at": "2026-09-01T22:55:42.105629+00:00",
+    "summary": "Amazon Web Services（AWS）は、同社がフルマネージドで提供するデータウェアハウスサービス「Amazon Redshift」が、Agent Toolkit for AWSと統合されたことを明らかにしました。 Agent T...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "VS Code上で開発のセカンドオピニオンを別のAIエージェントから得られる「Rubber Duck」機能が実験的実装",
+    "url": "https://www.publickey1.jp/blog/26/vs_codeairubber_duck.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-01T15:01:52Z",
+    "fetched_at": "2026-09-01T22:55:42.110818+00:00",
+    "summary": "オープンソースで開発されているコードエディタ「Visual Studio Code」（以下、VS Code）の最新版となる「VS Code 1.135」で、開発に関するセカンドオピニオンをメインのAIエージェントとは別のAIエージェントに依...…",
     "importance": "medium",
     "tags": [
       "it"
