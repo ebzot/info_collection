@@ -1859,6 +1859,19 @@
     ]
   },
   {
+    "title": "無料でいろいろなLinuxディストリビューションをブラウザ上でインストールせずに試せる「DistroSea」",
+    "url": "https://gigazine.net/news/20260903-distrosea/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 03 Sep 2026 07:00:00 +0900",
+    "fetched_at": "2026-09-02T22:56:14.307869+00:00",
+    "summary": "Linuxには様々なディストリビューションが存在しており、何を使用するかによって使用感は大きく異なります。メジャーなディストリビューションであれば多くの情報に触れることができますが、そうでなければ実際に動作している様子を確認してみる必要があります。「DistroSea」はいろいろなLinuxディストリビューションを実際に起動して試すことのできるサービスであり…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "GLM-5.2の開発元による中国製AIエージェントアプリ「ZCode」、AnthropicやOpenAIのAIモデルも活用可能",
     "url": "https://gigazine.net/news/20260702-zcode-ai-agent/",
     "source": "GIGAZINE",
@@ -4934,6 +4947,58 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AWSをゲームで学べる「AWS Cloud Quest」に新バージョン「AWS Cloud Quest 2.0」登場！ AIによるバーチャル顧客と対話し、要件を聞き出して正しくソリューションに落とし込め",
+    "url": "https://www.publickey1.jp/blog/26/awsaws_cloud_questaws_cloud_quest_20_ai.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-02T15:55:28Z",
+    "fetched_at": "2026-09-02T22:56:13.752950+00:00",
+    "summary": "Amazon Web Services（AWS）は、3DオープンワールドでAWSを学べるオンラインゲーム「AWS Cloud Quest」の新バージョン「AWS Cloud Quest 2.0」の提供を開始しました。 AWS Cloud Q...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AWSとAzureが最大100Gbpsでの相互接続を開始。これでAWSはAzure、Google Cloud、Oracle Cloudとのマルチクラウドをサポート",
+    "url": "https://www.publickey1.jp/blog/26/awsazure100gbpsawsazuregoogle_cloudoracle_cloud.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-02T15:53:23Z",
+    "fetched_at": "2026-09-02T22:56:13.755768+00:00",
+    "summary": "Amzon Web Services（AWS）とマイクロソフトは、両社が協力してAWSとMicrosoft Azureを最大100Gbpsの高速な閉域網で相互接続することを発表しました（AWSの発表、マイクロソフトの発表）。 両社ともにプレ...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "ボットの振る舞いを動的に学習して防御を改善し続ける、「Adaptive Intelligence」ボット検出エンジン、Cloudflareが発表",
+    "url": "https://www.publickey1.jp/blog/26/adaptive_intelligencecloudflare.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-02T15:48:38Z",
+    "fetched_at": "2026-09-02T22:56:13.756826+00:00",
+    "summary": "Cloudflareは、ボットの侵入手段を同社のネットワーク全体から動的に学習し、防御を継続的に改善し続ける「Adaptive Intelligence」という仕組みを採用した新しいボット検出エンジンを発表しました。 Cloudflare&...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "ClaudeにSalesforceを統合した「Claudeforce」、AnthropicとSalesforceが発表。Claudeから営業データ分析や顧客対応を実現",
+    "url": "https://www.publickey1.jp/blog/26/claudesalesforceclaudeforceanthropicsalesforceclaude.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-02T02:43:59Z",
+    "fetched_at": "2026-09-02T22:56:13.757514+00:00",
+    "summary": "SalesforceとAnthropicが「Claudeforce」を発表しました。 第一弾となる「Salesforce in Claude」では、Claudeの画面からプロンプトを入力するだけで、Salesforceのデータやワークフロー...…",
     "importance": "medium",
     "tags": [
       "it"
