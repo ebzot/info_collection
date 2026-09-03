@@ -4875,6 +4875,32 @@
     ]
   },
   {
+    "title": "AIの検索を強化する「RAG」をシンプルに始めて高度化する6つの方法",
+    "url": "https://gigazine.net/news/20260904-rag-is-simple/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 04 Sep 2026 07:00:00 +0900",
+    "fetched_at": "2026-09-03T22:55:33.478238+00:00",
+    "summary": "ChatGPTのような大規模言語モデル(LLM)に外部の文書を検索させ、見つけた情報を基に回答を作らせる仕組みが「検索拡張生成(RAG)」です。Hugging FaceやDatabricksでの勤務経験を持つAIエンジニアのラファエル・ピエール氏が、RAGを単純な全文検索から始めて段階的に高度化する6つの方法を紹介しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "ダイヤル式黒電話をスマホと同じようにどこでも通話可能にする試み",
+    "url": "https://gigazine.net/news/20260904-rotarycell/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 04 Sep 2026 06:00:00 +0900",
+    "fetched_at": "2026-09-03T22:55:33.649195+00:00",
+    "summary": "ダイヤル式黒電話は昭和期には一般的な家庭なら普通に存在したものの今や見かけることも稀であり、往時を知るものにノスタルジーを感じさせるアイテムです。RotaryCellプロジェクトはそんな過去の遺物ともいえる黒電話を、改造なしでバッテリー駆動の携帯電話として使用できるようにする試みです。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "エベレストの有名遺体「グリーンブーツ」の身元がDNA鑑定により判明、回収ミッションも実施へ",
     "url": "https://gigazine.net/news/20260703-everest-green-boots/",
     "source": "GIGAZINE",
@@ -4947,6 +4973,45 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Java誕生から現代に至る歴史をゴスリン氏ら関係者が語る公式ドキュメンタリー「The Java Story」、YouTubeで公開中",
+    "url": "https://www.publickey1.jp/blog/26/javathe_java_storyyoutube.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-03T15:27:07Z",
+    "fetched_at": "2026-09-03T22:55:33.175792+00:00",
+    "summary": "Java言語が誕生してから30年以上の年月が経過しています。 Javaはもともと家庭用デバイスのための言語として作られたものの、結局は採用されずに失敗プロジェクトとして始まったことは多くの方がご存知でしょう。 そこから新たな展開としてWeb...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Webブラウザ上でターミナルのシミュレータを実行、GitやCLI、Vimなどを無料で学べる「WebTerm Learn」が公開",
+    "url": "https://www.publickey1.jp/blog/26/webgitclivimwebterm_learn.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-03T15:23:23Z",
+    "fetched_at": "2026-09-03T22:55:33.206348+00:00",
+    "summary": "Webブラウザ上でまるで本物のように振る舞うターミナルのシミュレータを実行し、そこでGitやLinuxのコマンドライン、Vimなどの操作を無料で学べる学習プラットフォーム「WebTerm Learn」を、株式会社initが公開しました。 W...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AWS、新たな太平洋海底ケーブル「Sta'O'Nuk」発表。420Tbps、2029年に稼働へ。集中リスク排除のため新たな陸揚げ拠点を採用",
+    "url": "https://www.publickey1.jp/blog/26/awsstaonuk420tbps2029.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-03T01:59:39Z",
+    "fetched_at": "2026-09-03T22:55:33.330814+00:00",
+    "summary": "Amazon Web Services（AWS）は、日本と米国を結ぶ新たな海底ケーブル「Sta'O'Nuk」を発表しました。2029年に稼働開始予定です。 海底ケーブルは20ペアの光ファイバーで構成され、420Tbpsの帯域を提供します。 ...…",
     "importance": "medium",
     "tags": [
       "it"
