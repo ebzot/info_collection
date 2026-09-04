@@ -3224,6 +3224,19 @@
     ]
   },
   {
+    "title": "使い込むほど成長するAIエージェント「Hermes Agent」の実行結果をメールで受け取ってみた",
+    "url": "https://gigazine.net/news/20260905-hermes-agent-mail/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 05 Sep 2026 00:25:00 +0900",
+    "fetched_at": "2026-09-04T22:42:45.150973+00:00",
+    "summary": "今回はHermes Agentにメールアカウントを設定し、メールを通じてHermes Agentとやりとりできるのかを確認していきます。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "アリババが従業員のClaude Code使用を禁止、セキュリティリスクの懸念のため",
     "url": "https://gigazine.net/news/20260704-alibaba-bans-claude-code/",
     "source": "GIGAZINE",
@@ -4869,6 +4882,58 @@
     "published_at": "Fri, 05 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-06-04T22:17:38.669007+00:00",
     "summary": "ペットのインコやオウムが枝やおもちゃに体をこすりつける自慰行為を見た飼い主は、ストレスや病気のサインではないかと心配するかもしれません。しかし2026年5月31日に発表された論文において、こうした自慰行為は問題行動ではなく自然な性的行動の一部である可能性が示されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "超音速で弾を撃ち出せるトレビュシェット(投石機)をDIYした記録",
+    "url": "https://gigazine.net/news/20260904-supersonic-trebuchet/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 04 Sep 2026 21:30:00 +0900",
+    "fetched_at": "2026-09-04T22:42:45.153992+00:00",
+    "summary": "YouTuberのトム・スタントン氏がトレビュシェット(投石機)を自力で制作し、超音速で球を打ち出すことに成功した記録を公開しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「人工のビーバーダム」を建設したおかげでギンザケの稚魚の生存率が8％から60％に改善",
+    "url": "https://gigazine.net/news/20260904-artificial-beaver-dams-salmon-populations/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 04 Sep 2026 21:00:00 +0900",
+    "fetched_at": "2026-09-04T22:42:45.154994+00:00",
+    "summary": "ビーバーは湿原に生息するげっ歯類であり、野生動物でありながらダムを造ることで知られています。そんなビーバーのダムを人工的に建設することで、川で生まれたギンザケの稚魚の生存率が大幅に向上したと報告されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "テスラがハンドルもペダルもない専用車両「Cybercab」をロボタクシーサービスに投入",
+    "url": "https://gigazine.net/news/20260904-tesla-cybercab/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 04 Sep 2026 20:30:00 +0900",
+    "fetched_at": "2026-09-04T22:42:45.156044+00:00",
+    "summary": "テスラのロボタクシー向け専用車両「Cybercab」がテキサス州オースティンでサービスインしたことがわかりました。イーロン・マスク氏は2025年6月のサービスインを予告していましたが、1年遅れたことになります。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "無料の音声編集ソフト「Audacity」のバージョン4.0.0がリリース",
+    "url": "https://gigazine.net/news/20260904-audacity-4/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 04 Sep 2026 20:00:00 +0900",
+    "fetched_at": "2026-09-04T22:42:45.156956+00:00",
+    "summary": "無料かつLinux・macOS・Windowsなどの複数のOSで使えるオープンソースの音声編集ソフトウェア「Audacity」のメジャーアップデートとなる「バージョン4.0.0(Audacity 4)」がリリースされました。Audacity 4では、アプリケーションインターフェースがQtで再構築され、新しいクリップ編集モデルをはじめとする多くの利便性向上機能…",
     "importance": "medium",
     "tags": [
       "it"
