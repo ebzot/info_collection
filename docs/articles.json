@@ -2249,6 +2249,19 @@
     ]
   },
   {
+    "title": "男女の性欲格差を縮めるには女性の性欲を高めようとするのではなく「快楽格差」を縮めるべきだとの指摘",
+    "url": "https://gigazine.net/news/20260906-women-libido-pleasure-gap/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 06 Sep 2026 23:00:00 +0900",
+    "fetched_at": "2026-09-06T22:37:53.906475+00:00",
+    "summary": "女性は男性より性欲が低いと考えられがちですが、性欲の男女差には若い頃の性体験が関係している可能性があると専門家が指摘しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "銀行の窓口係を減らしたのはATMではなくiPhoneだったという指摘",
     "url": "https://gigazine.net/news/20260705-atm-iphone-bank-tellers/",
     "source": "GIGAZINE",
@@ -3991,6 +4004,32 @@
     ]
   },
   {
+    "title": "コスト削減のためにAIエージェントの出力を短くすると逆にコストがかさむ事例をGitHubが公開、うまくコスト効率を向上するにはどうすればいいのか",
+    "url": "https://gigazine.net/news/20260907-ai-coding-cost-efficient/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 07 Sep 2026 07:00:00 +0900",
+    "fetched_at": "2026-09-06T22:37:53.903088+00:00",
+    "summary": "AIコーディングエージェントを使用する場合に出力の品質と並んで重要視すべきなのは効率であり、作業を迅速かつ効率的に適切なコンテキストで完了することが効率の向上につながります。つまり、個々のインタラクションのトークン数を減らすことよりも、適切な量のコンテキストを活用してタスクを進めることを目標にすべきです。GitHubが、「ツールの呼び出しではなく結果に焦点を…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "毒にも薬にもなる樹液を持つ「ボトルツリー」とは？",
+    "url": "https://gigazine.net/news/20260907-bottle-tree-poison-medicine/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 07 Sep 2026 06:00:00 +0900",
+    "fetched_at": "2026-09-06T22:37:53.905401+00:00",
+    "summary": "インド洋に浮かぶイエメン領のソコトラ島には、地面に巨大なボトルを置いたような幹を持ち、乾燥した岩場で鮮やかなピンク色の花を咲かせる植物があります。「ボトルツリー」と呼ばれるこの植物について、サイエンス系メディアのScienceAlertが解説しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "Steam公式ゲーミングPC「Steam Machine」用の電子ペーパー式情報表示ディスプレイがオープンソース化されて誰でも作成可能に",
     "url": "https://gigazine.net/news/20260706-steam-machine-inkterface/",
     "source": "GIGAZINE",
@@ -5103,6 +5142,32 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "VS Code誕生から現在までの物語「The Story of VS Code」YouTubeで公開。作者のエリック・ガンマ氏はなぜIBMからMSへ移籍してVS Codeを作ることになったか",
+    "url": "https://www.publickey1.jp/blog/26/vs_codethe_story_of_vs_codeyoutubeibmmsvs_code.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-06T15:07:10Z",
+    "fetched_at": "2026-09-06T22:37:52.723656+00:00",
+    "summary": "Visual Studio Code（以下、VS Code）はいまやITエンジニアのあいだで最も人気のあるコードエディタの地位を確立しています。 VS Codeはオープンソースであり、そしてWindows、Mac、Linuxのマルチプラット...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "JavaScriptをC言語にコンパイルする「porffor」がアルファ版に到達。ネイティブやWASMを生成可能",
+    "url": "https://www.publickey1.jp/blog/26/javascriptcporfforwasm.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-06T15:04:34Z",
+    "fetched_at": "2026-09-06T22:37:52.727239+00:00",
+    "summary": "JavaScriptを事前コンパイルしてC言語に変換するコンパイラ「porffor」（発音はpoor-for）がアルファ版に到達したことが発表されました（公式サイト、GitHubリポジトリ）。 作者のOliver Medhurst氏が明らか...…",
     "importance": "medium",
     "tags": [
       "it"
