@@ -1040,6 +1040,32 @@
     ]
   },
   {
+    "title": "デジタルインフラ提供元のA/I Collectiveをアメリカ政府がテロリストに指定、どんな影響が出たのか？",
+    "url": "https://gigazine.net/news/20260908-autistici-inventati-case/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 08 Sep 2026 07:00:00 +0900",
+    "fetched_at": "2026-09-07T23:14:44.402391+00:00",
+    "summary": "アメリカ財務省外国資産管理局(OFAC)はイタリアのテクノロジー企業である Autistici/Inventati(A/I Collective)を「特別指定グローバルテロリスト(SDGT)」に指定しました。テロ行為の実行犯だけでなくテロ行為を可能にする技術インフラに対してもテロ対策制裁の対象としたことはA/I Collectiveの猛反発を招くとともに、物…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AIによる創薬は実際どこまで進んでいるのか？",
+    "url": "https://gigazine.net/news/20260908-ai-drug-discovery-reality/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 08 Sep 2026 06:00:00 +0900",
+    "fetched_at": "2026-09-07T23:14:44.404112+00:00",
+    "summary": "AIは膨大な数の化合物から薬になりそうな候補を探し、創薬にかかる時間や費用を大幅に減らす技術として期待されています。しかし、AIを使った研究成果は相次いでいるものの実際に患者へ届く薬の開発につながっているのかは判然としません。AI創薬に詳しい研究者らがこれまでのAI創薬の進展を検討しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "わずか5MBのAIモデルをウェブサイトに組み込んでユーザーにローカル操作させられる「ternlight」が登場、ウェブサイトにAIを活用した検索機能などを追加可能",
     "url": "https://gigazine.net/news/20260707-ternlight-webassembly-embeddings/",
     "source": "GIGAZINE",
@@ -4004,6 +4030,19 @@
     ]
   },
   {
+    "title": "過去最高の89％がアメリカ政府の腐敗が広範囲に及んでいると回答",
+    "url": "https://gigazine.net/news/20260907-us-government-corruption/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 07 Sep 2026 23:00:00 +0900",
+    "fetched_at": "2026-09-07T23:14:44.405974+00:00",
+    "summary": "調査会社のギャラップが実施した調査で、アメリカ人の政府に対する印象が過去20年間で最も悪くなっていることが分かりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "コスト削減のためにAIエージェントの出力を短くすると逆にコストがかさむ事例をGitHubが公開、うまくコスト効率を向上するにはどうすればいいのか",
     "url": "https://gigazine.net/news/20260907-ai-coding-cost-efficient/",
     "source": "GIGAZINE",
@@ -5142,6 +5181,32 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "巨大オンラインゲーム「EVE Online」。ゲームを支える240万行のPython 2.7のコードをPython 3へ移行すると発表",
+    "url": "https://www.publickey1.jp/blog/26/eve_online240python_27python_3.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-08T14:28:02Z",
+    "fetched_at": "2026-09-07T23:14:44.246275+00:00",
+    "summary": "宇宙を舞台にした世界最大級の大規模オンラインゲーム「EVE Online」が、ゲームを支える240万行のPythonコードをPython 3に移行すると発表しました。 We have officially started our codeb...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "HTMX 4.0正式リリース。内部実装がXHRからfetchに移行しStreaming HTMLが可能に、属性はデフォルトで子要素に継承されないように変更など",
+    "url": "https://www.publickey1.jp/blog/26/htmx_40xhrfetchstreaming_html.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-07T15:39:27Z",
+    "fetched_at": "2026-09-07T23:14:44.254582+00:00",
+    "summary": "HTMLに属性を追加するだけで、Webページにサーバと連動した動的なアプリケーションの機能を追加できるJavaScriptライブラリ「HTMX」の最新バージョンとなる「HTMX 4.0」正式版のリリースが発表されました。 very happ...…",
     "importance": "medium",
     "tags": [
       "it"
