@@ -429,6 +429,45 @@
     ]
   },
   {
+    "title": "テスラ車の一時停止標識無視により発生した交通事故で対向車のドライバーが死亡、自動運転システムは動作",
+    "url": "https://gigazine.net/news/20260909-tesla-stop-sign/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 09 Sep 2026 08:00:00 +0900",
+    "fetched_at": "2026-09-08T23:06:25.273181+00:00",
+    "summary": "アメリカのニュージャージー州で、テスラの「Full Self-Driving(FSD)」搭載車・モデル3が一時停止標識を無視して交差点に進入したことで、左折しようとしていた車に衝突し、相手のドライバーを死亡させる事故が2025年7月に発生しました。テスラのデータを調査した結果、事故の際に運転支援システムが作動していたことが確認されています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "アーキテクチャ図を念頭に置いて設計された斬新な自動レイアウトアルゴリズム「TALA」がオープンソース化",
+    "url": "https://gigazine.net/news/20260909-tala-is-open-source/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 09 Sep 2026 07:00:00 +0900",
+    "fetched_at": "2026-09-08T23:06:25.275681+00:00",
+    "summary": "開発者向けのダイアグラム作成プラットフォームを開発するTerrastructは、アーキテクチャ図の作成プロセスを改善する新しい自動レイアウトアルゴリズム「TALA(Terrastruct's AutoLayout Algorithm)」をオープンソースとして公開しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "カフェイン入り飲料をたくさん飲む人は睡眠時間が短い一方で眠りは深いとの研究結果",
+    "url": "https://gigazine.net/news/20260909-caffeine-shorter-deeper-sleep/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 09 Sep 2026 06:00:00 +0900",
+    "fetched_at": "2026-09-08T23:06:25.276823+00:00",
+    "summary": "コーヒーやお茶、エナジードリンクなどに含まれるカフェインは眠気を抑える目的で広く摂取されています。カフェインを日常的に多く摂取することが睡眠にどのような影響を及ぼすのかを調べるため、チューリッヒ大学などの研究チームが大規模な健康データと睡眠データを分析しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "オーストラリアの「未成年SNS禁止」は年齢確認が機能していない",
     "url": "https://gigazine.net/news/20260708-australia-sns-ban-fails/",
     "source": "GIGAZINE",
@@ -1034,6 +1073,19 @@
     "published_at": "Tue, 09 Jun 2026 04:46:00 +0900",
     "fetched_at": "2026-06-08T22:22:18.193686+00:00",
     "summary": "Appleが日本時間の2026年6月9日にWWDC26の基調講演を実施し、SiriとApple Intelligenceを統合した「Siri AI」を発表しました。このSiri AIについて、EU圏内では延期圏内ではiOS 27とiPadOS 27におけるSiri AIの提供を延期することが発表されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「ゼルダの伝説40周年 Direct 2026.9.8」まとめ、Nintendo Switch 2版ゼルダの伝説 時のオカリナの発売日や実写映画の公開日なども明らかに",
+    "url": "https://gigazine.net/news/20260908-legend-of-zelda-40th-anniversary-direct/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 08 Sep 2026 23:00:00 +0900",
+    "fetched_at": "2026-09-08T23:06:25.277890+00:00",
+    "summary": "2026年にシリーズ40周年を迎えたゼルダの伝説シリーズに関する最新情報をまとめた「ゼルダの伝説40周年 Direct 2026.9.8」が配信されました。2026年6月に発表されたNintendo Switch 2版ゼルダの伝説 時のオカリナのゲーム映像や発売日、実写映画「ゼルダの伝説」の公開日なども発表されています。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
@@ -5181,6 +5233,19 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Amazon Linuxが4年ぶりにメジャーバージョンアップ、「Amazon Linux 2027」パブリックプレビュー。SELinuxがデフォルトで強制モードに",
+    "url": "https://www.publickey1.jp/blog/26/amazon_linux4amazon_linux_2027selinux.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-08T15:54:55Z",
+    "fetched_at": "2026-09-08T23:06:25.171491+00:00",
+    "summary": "Amazon Web Services（AWS）は、AWSに最適化されたLinux OSの4年ぶりとなるメジャーバージョンアップ「Amazon Linux 2027」をパブリックプレビューとしてリリースしました。 現時点の正式版はAmazo...…",
     "importance": "medium",
     "tags": [
       "it"
