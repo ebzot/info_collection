@@ -1781,6 +1781,45 @@
     ]
   },
   {
+    "title": "チャットAIのClaudeに「カートに追加するボタンを青色にして」とウェブデザインの変更を依頼すると堂々巡りで全く完成しない様子を再現した「Opusfived」",
+    "url": "https://gigazine.net/news/20260910-opusfived/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 10 Sep 2026 21:00:00 +0900",
+    "fetched_at": "2026-09-10T22:53:08.897487+00:00",
+    "summary": "Anthropicが2026年7月に発表した「Claude Opus 5」は、同社が2026年6月にリリースしたClaude Fable 5と同等の性能を半分の価格で実現したというAIモデルです。そんなClaude Opus 5を使ってオンラインショッピングサイトなどで配置されている「カートに追加」ボタンを青色にしようとした際の苛立たしいAIとのやり取りを、…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "独立系Wikiが「Google監獄」に放り込まれ開設から1年近く検索結果に表示されない現象が多数発生中",
+    "url": "https://gigazine.net/news/20260910-wiki-index-problem/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 10 Sep 2026 20:00:00 +0900",
+    "fetched_at": "2026-09-10T22:53:08.898566+00:00",
+    "summary": "ファン同士で情報を編集するサイトを構築しているグループが、既存のサイトから情報を移転する作業を行う中でGoogleの検索結果に全く表示されなくなってしまったことを報告しました。このような情報サイト「Wiki」をGoogleが狙い撃ちしている可能性が指摘されています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "OpenAIのAIエージェントによるハッキング事件で他にも最低10件のサイトが侵害されていたことが判明",
+    "url": "https://gigazine.net/news/20260910-openai-agent-hacking-incident-another-sites/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 10 Sep 2026 19:30:00 +0900",
+    "fetched_at": "2026-09-10T22:53:08.899233+00:00",
+    "summary": "OpenAIのAIエージェントがAIプラットフォーム・Hugging Faceに不正アクセスを行ったことで明らかになったハッキング事件で、問題のAIエージェントはすでに公表されているものの他にも最低で10件のウェブサイトを侵害していたことがわかりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "料理や加工食品に広く使われる「大豆油」が肥満につながる仕組みの一端が判明",
     "url": "https://gigazine.net/news/20260910-soybean-oil-obesity-metabolism/",
     "source": "GIGAZINE",
@@ -4862,6 +4901,19 @@
     ]
   },
   {
+    "title": "「卵の殻」をまねて宇宙ゴミから宇宙船を守るシールドが考案される",
+    "url": "https://gigazine.net/news/20260911-eggshell-spacecraft-shield/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 11 Sep 2026 06:00:00 +0900",
+    "fetched_at": "2026-09-10T22:53:08.896152+00:00",
+    "summary": "宇宙船や人工衛星は、軌道上を高速で飛び交うスペースデブリ(宇宙ゴミ)との衝突に備える必要があります。中国・大連理工大学の研究チームが、卵の殻に着想を得た新たな宇宙船シールドを考案しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "無料で使えるCloudflare Accessで安全にローカルのAIを外部から使えるように設定してみた",
     "url": "https://gigazine.net/news/20260710-cloudflare-tunnel-access/",
     "source": "GIGAZINE",
@@ -5272,6 +5324,19 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": ".NET 11リリース候補版が登場。.NETランタイムが非同期ネイティブ対応、プロセッサ数の上限がなくなる、AOTコンパイラによるネイティブバイナリの高速化など",
+    "url": "https://www.publickey1.jp/blog/26/net_11netaot.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-10T15:42:50Z",
+    "fetched_at": "2026-09-10T22:53:07.701077+00:00",
+    "summary": "マイクロソフトは同社の包括的なアプリケーションフレームワークの次期版となる「.NET 11」の最初のリリース候補版となる「.NET 11 Release Candidate 1」を発表しました。 〰️ SAVE THE DATE 〰️.NE...…",
     "importance": "medium",
     "tags": [
       "it"
