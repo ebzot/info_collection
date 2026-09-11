@@ -4901,6 +4901,71 @@
     ]
   },
   {
+    "title": "無停電電源装置(UPS)を選ぶ際の「正弦波」「出力波形」で知っておくと役立つことまとめ",
+    "url": "https://gigazine.net/news/20260911-ups-output-waveform/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 11 Sep 2026 23:00:00 +0900",
+    "fetched_at": "2026-09-11T22:55:43.635738+00:00",
+    "summary": "無停電電源装置(UPS)には安価なものから特定の機器に適したものなどさまざまな種類があります。UPSを選ぶ際に見るべき「出力波形」について、海外テック系メディアのLTT Labsが解説しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Appleの新CEOジョン・ターナスとグレッグ・ジョスウィアックがiPhone Duoの開発秘話や魅力に欠けるAndroid折りたたみスマホについて語る",
+    "url": "https://gigazine.net/news/20260911-apple-ceo-john-ternus-iphone-duo/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 11 Sep 2026 22:00:00 +0900",
+    "fetched_at": "2026-09-11T22:55:43.683845+00:00",
+    "summary": "Apple初の折りたたみスマートフォンである「iPhone Duo」の開発秘話を、2026年9月1日に新CEOに就任したばかりのジョン・ターナス氏とグレッグ・ジョスウィアック氏が語りました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Macをフリーズさせるウェブページ「The Deathray」",
+    "url": "https://gigazine.net/news/20260911-the-deathray/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 11 Sep 2026 21:44:00 +0900",
+    "fetched_at": "2026-09-11T22:55:43.685634+00:00",
+    "summary": "ウェブページを開くだけでMacの画面操作ができなくなる「The Deathray」を、開発者のオーベロン・ロペス氏が公開しました。ブラウザからGPUを利用する機能を使ったもので、ロペス氏によるとChrome、Firefox、Safariで再現したとのことです。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "音楽生成AI「YuE2」が無料公開される、有料のSuno 5に近い性能で楽譜から楽曲生成可能＆日本語ボーカルも対応",
+    "url": "https://gigazine.net/news/20260911-yue2-music-generation-ai/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 11 Sep 2026 21:00:00 +0900",
+    "fetched_at": "2026-09-11T22:55:43.688043+00:00",
+    "summary": "AI研究コミュニティのMultimodal Art Projectionが音楽生成AI「YuE2」を2026年9月10日に公開しました。開発チームは「Suno 5に匹敵するオープンな音楽生成モデル」とアピールしています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "簡単に画面録画し不要部分カット＆AI音声ノイズ除去＆ファイルサイズ削減まで全部1本で完結する「VideoProc Converter AI」を使ってみた",
+    "url": "https://gigazine.net/news/20260911-videoproc-converter-ai/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 11 Sep 2026 09:00:00 +0900",
+    "fetched_at": "2026-09-11T22:55:43.681303+00:00",
+    "summary": "PC画面を録画して解説ムービーなどを作る場合、録画そのものは簡単でも、実際に人に見せられるムービーに仕上げようとすると「冒頭や末尾の不要部分を切る」「マイクに入ったノイズを消す」「ファイルサイズを小さくする」といった作業が必要になります。「VideoProc Converter AI」はPC画面の録画だけでなく編集やAIによる音声ノイズ除去、圧縮、変換なども…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "「卵の殻」をまねて宇宙ゴミから宇宙船を守るシールドが考案される",
     "url": "https://gigazine.net/news/20260911-eggshell-spacecraft-shield/",
     "source": "GIGAZINE",
