@@ -3185,6 +3185,71 @@
     ]
   },
   {
+    "title": "「体の炎症に注意を向けること」が免疫反応を調節するのに役立つ可能性",
+    "url": "https://gigazine.net/news/20260912-paying-attention-body-immune-response/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 12 Sep 2026 23:00:00 +0900",
+    "fetched_at": "2026-09-12T22:45:17.500100+00:00",
+    "summary": "体に痛みや不快感があったらすぐに「どこが悪いんだろう？」と考え込む人もいれば、体のどこかに違和感があってもあえて無視し続けて、気にならなくなるまで我慢するという人もいます。新たな研究では、「体の炎症に注意を向けること」が免疫反応の調節を助ける可能性があることが示されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "映画『楽園追放 心のレゾナンス』劇場限定予告編がYouTubeでも公開され前作主人公アンジェラの登場が明らかに",
+    "url": "https://gigazine.net/news/20260912-expelled-from-paradise-resonance-theater-trailer/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 12 Sep 2026 19:00:00 +0900",
+    "fetched_at": "2026-09-12T22:45:17.562738+00:00",
+    "summary": "2026年11月13日(金)から全国ロードショー予定となっている映画『楽園追放 心のレゾナンス』の、上映予定館でのみ公開されている劇場限定予告編がYouTubeで公開されました。この予告編で、ここまで姿を見せていなかった前作主人公アンジェラ・バルザックの登場が明らかになっています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "ヴァイキングに対抗してイングランドの歴史を形作った女王「エセルフリーダ」",
+    "url": "https://gigazine.net/news/20260912-viking-nun/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 12 Sep 2026 19:00:00 +0900",
+    "fetched_at": "2026-09-12T22:45:17.566975+00:00",
+    "summary": "9世紀後半のイングランドではヴァイキングが王国の襲撃を繰り返し、全土を征服していました。そんなヴァイキングが格好の標的としていた修道院を守るために戦った女王について、ダークな歴史トピックを扱う教育系YouTubeチャンネルのNightshiftが解説しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "無料のオープンソースAIエージェント「goose」、デスクトップアプリ・CLI・APIなどコード・ワークフロー・その他あらゆる用途に対応",
+    "url": "https://gigazine.net/news/20260912-goose/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 12 Sep 2026 18:00:00 +0900",
+    "fetched_at": "2026-09-12T22:45:17.571686+00:00",
+    "summary": "AIエージェントを使い始めると、用途や料金に応じてOpenAI・Claude・Google Gemini・ローカルLLMなどを使い分けたいケースがあります。そこで複数のAIプロバイダーを自由に切り替えながら、デスクトップアプリ・CLI・APIなどからMCPによるツール連携や自動化まで1つの環境で利用できるオープンソースのAIエージェント「goose」が公開さ…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "SpotifyのエンジニアがClaude Codeのトークン消費を約90％削減した方法とは?",
+    "url": "https://gigazine.net/news/20260912-spotify-cut-claude-code-token-usage/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 12 Sep 2026 17:00:00 +0900",
+    "fetched_at": "2026-09-12T22:45:17.575671+00:00",
+    "summary": "音楽ストリーミングサービスのSpotifyが、Claude Codeで大量のトークンを消費する単純作業を別のAIモデルに任せることでトークン消費を大幅に削減する手法を公開しました。Spotifyのディミトリ・マズマノフ氏は、この手法を検証した結果、大量のファイル読み込みを委譲するテストでClaude側のトークン消費を平均約90％削減できたと報告しています。 …",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "暑い季節にぐっすり眠るための8つの方法",
     "url": "https://gigazine.net/news/20260711-how-to-sleep-in-hot-weather/",
     "source": "GIGAZINE",
