@@ -4082,6 +4082,32 @@
     ]
   },
   {
+    "title": "Shopifyがスマホアプリ開発でReact NativeからSwiftとKotlinに回帰、コーディングAIの性能向上が理由",
+    "url": "https://gigazine.net/news/20260914-shopify-back-to-native-mobile-ai/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 14 Sep 2026 07:00:00 +0900",
+    "fetched_at": "2026-09-13T22:46:23.600136+00:00",
+    "summary": "eコマースプラットフォームのShopifyは過去数年間にわたり、スマートフォンアプリの開発にモバイルアプリケーションフレームワークのReact Nativeを使用してきました。ところがShopifyが2026年9月10日に公開したブログでは、React Nativeに注力するとしていた方針を撤回し、かつて使用していたSwiftとKotlinに回帰することを表…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "幼児が「頭の中だけで言葉を使う」ようになる時期の目安が日本の研究で判明",
+    "url": "https://gigazine.net/news/20260914-children-inner-speech-development/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 14 Sep 2026 06:00:00 +0900",
+    "fetched_at": "2026-09-13T22:46:23.602095+00:00",
+    "summary": "声に出さずに頭の中で言葉を使って考え事をしたり自分に語りかけたりすることを「内言」と言います。筑波大学の研究員である大谷康太氏や助教の桑水隆多氏、京都大学大学院の教授である森口佑介氏らの研究チームが、幼児期にこうした内言がどのように発達するのかを「頭の中で数字を数える課題」を使って調べました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "中学校でのスマホ禁止ルールは生徒の生活の質や健康状態を大幅に改善することはないとの研究結果",
     "url": "https://gigazine.net/news/20260713-school-smartphone-bans-mental-health/",
     "source": "GIGAZINE",
@@ -5454,6 +5480,45 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "マイクロソフトがRust言語をC++/C#/TSに並ぶ社内のTier 1言語にしたことを明らかに。Windowsネイティブな社内の開発環境と統合",
+    "url": "https://www.publickey1.jp/blog/26/rustcctstier_1.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-13T15:27:57Z",
+    "fetched_at": "2026-09-13T22:46:23.412355+00:00",
+    "summary": "マイクロソフト社内において、Rust言語がC++/C#/TypeScriptに並ぶTier 1言語になったことが明らかになりました。 マイクロソフトの開発部門でRustツールチームのプリンシパルエンジニア Victor Ciura氏がRus...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AIのせいでエンジニアの75％を解雇したCSSフレームワークのTailwind、Shopifyによる買収を発表。今後も安定的な開発を維持すると",
+    "url": "https://www.publickey1.jp/blog/26/ai75csstailwindshopify.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-13T15:20:00Z",
+    "fetched_at": "2026-09-13T22:46:23.443357+00:00",
+    "summary": "CSSフレームワーク「Tailwind CSS」の開発元であるTailwind Labsは、ECサイト構築サービスを提供しているShopifyによって買収されると発表しました。 下記はTailwindの作者であるAdam Wathan氏によ...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "TailscaleのVPNにAIエージェントを組み込める「Aperture」正式リリース。AIによるTailscaleやノードの操作も可能に",
+    "url": "https://www.publickey1.jp/blog/26/tailscalevpnaiapertureaitailscale.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-13T15:08:50Z",
+    "fetched_at": "2026-09-13T22:46:23.445040+00:00",
+    "summary": "メッシュ型のVPNサービスを提供するTailscaleは、AIゲートウェイサービス「Aperture」の正式リリースを発表しました。 Aperture is officially GA.Give AI agents the models, ...…",
     "importance": "medium",
     "tags": [
       "it"
