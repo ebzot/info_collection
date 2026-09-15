@@ -260,6 +260,45 @@
     ]
   },
   {
+    "title": "頭の中で人や物を思い浮かべられない「アファンタジア」の研究が想像力に関する理論に影響を与えている",
+    "url": "https://gigazine.net/news/20260916-aphantasia-mental-imagery-brain-network/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 16 Sep 2026 08:00:00 +0900",
+    "fetched_at": "2026-09-15T23:21:33.360704+00:00",
+    "summary": "アファンタジアとは心の中で人や物といったイメージを視覚化できない状態のことであり、人口の約2～5％はアファンタジアであるといわれています。そんなアファンタジアに関する研究により、人間の想像力に関する理論がさらに進んでいるとのことです。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Homebrew 7.0.0リリース、パフォーマンス向上・セキュリティ強化の一方でmacOS 10.15のサポート終了・Intel MacがTier 3に移行",
+    "url": "https://gigazine.net/news/20260916-homebrew-v700/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 16 Sep 2026 07:00:00 +0900",
+    "fetched_at": "2026-09-15T23:21:33.362203+00:00",
+    "summary": "2026年9月13日にパッケージマネージャーのHomebrewがメジャーアップデート「7.0.0」をリリースしました。今回のバージョンアップは数々の重要な変更点を含んでおり、開発者のための環境がより高速かつ安全になる一方でmacOSのサポートポリシーに大きな変更が見られます。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Googleは自社製高性能AIで怪しい広告をブロックできるはずなのに一体なぜ配信し続けているのか？",
+    "url": "https://gigazine.net/news/20260916-google-dodgy-ads-gemini/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 16 Sep 2026 06:00:00 +0900",
+    "fetched_at": "2026-09-15T23:21:33.363788+00:00",
+    "summary": "ウェブサイトを閲覧していると「スマートフォンの容量不足」や「ウイルス感染」を知らせる画面に偽装した詐欺広告が高頻度で表示されます。また、詐欺広告の中には「次へ」とか「ダウンロード」といったウェブサイトのUIの一部に偽装したものも存在しており、非常に悪質です。ソフトウェア開発者のクリス・グリーニング氏は、YouTubeで見かけた警告風の広告をGoogleへ報告…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "ロジクールの無線マウスやキーボードに付属する「Logi Bolt」ドングルは単なるUSBドングルではない",
     "url": "https://gigazine.net/news/20260715-logitech-logi-bolt-spec/",
     "source": "GIGAZINE",
@@ -5519,6 +5558,32 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「Java 27」正式リリース。全環境でG1 GCがデフォルトに、TLS 1.3用に耐量子暗号のハイブリッドキー交換など新機能",
+    "url": "https://www.publickey1.jp/blog/26/java_27g1_gctls_13.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-15T15:52:17Z",
+    "fetched_at": "2026-09-15T23:21:32.648763+00:00",
+    "summary": "オラクルはJavaの最新バージョン「Java 27」正式版をリリースしました。 Java 27 is now available! #Java27 #JDK27 #OpenJDK Download now: https://t.co/0Zw...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "オラクル、Javaのセキュリティパッチを毎月提供開始、AIが脆弱性の発見を加速しているとして",
+    "url": "https://www.publickey1.jp/blog/26/javaai.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-15T15:49:38Z",
+    "fetched_at": "2026-09-15T23:21:32.652750+00:00",
+    "summary": "オラクルは、これまで3カ月ごとに提供してきたJavaのアップデートパッチのサイクルを速め、1カ月ごとにセキュリティパッチを提供することを発表。先月（2026年8月）から実際にセキュリティパッチの提供が開始されていることを明らかにしました。 ...…",
     "importance": "medium",
     "tags": [
       "it"
