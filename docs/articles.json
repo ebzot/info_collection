@@ -1677,6 +1677,45 @@
     ]
   },
   {
+    "title": "NVIDIAはAIの中央銀行と化している",
+    "url": "https://gigazine.net/news/20260917-nvidia-central-bank-ai/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 17 Sep 2026 08:00:00 +0900",
+    "fetched_at": "2026-09-16T23:28:22.390762+00:00",
+    "summary": "AIを支える半導体の多くを供給するのは、アメリカの半導体企業であるNVIDIAです。AIの普及に伴いNVIDIAの時価総額は上昇し続けており、2025年10月には世界で初めて5兆ドル(約780兆円)に到達しています。そんなNVIDIAが「AIの中央銀行と化している」と経済メディアのThe Economistが報じました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "体が大きすぎて自分で卵を温められない恐竜はどうやって卵を温めていたのか？",
+    "url": "https://gigazine.net/news/20260917-dinosaurs-strategy-kept-eggs-warm/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 17 Sep 2026 07:00:00 +0900",
+    "fetched_at": "2026-09-16T23:28:22.392066+00:00",
+    "summary": "古代の地球に生息していた恐竜は爬虫(はちゅう)類や鳥類などと同様に卵生であり、「ふ化する前の卵を抱く恐竜の化石」も見つかっています。新たに、筑波大学の古生物学者である田中康平准教授らの研究チームが、「大きすぎて自分で卵を温められない恐竜」が卵を温める方法に関する研究結果を報告しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Claude Fable 5.1が370年前の未解読暗号「Cyphral Distich」を1日足らずで解読",
+    "url": "https://gigazine.net/news/20260917-fable-solves-cyphral-distich/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 17 Sep 2026 06:00:00 +0900",
+    "fetched_at": "2026-09-16T23:28:22.392731+00:00",
+    "summary": "AIモデル「Claude Fable 5.1」が370年以上未解読とされてきた謎の暗号「Cyphral Distich」をわずか1日足らずで解読したというニュースが飛び込んできました。1899年に「Notes and Queries」誌で未解決問題として提示されて以来、「Cyphral Distich」は多くの暗号研究者たちの挑戦を退けてきた難問でした。AI…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "Google Playとサードパーティー製アプリストアが接続可能に、GoogleがEpic Gamesとの訴訟で判決への異議申し立て取り下げを表明",
     "url": "https://gigazine.net/news/20260716-android-third-party-app-stores/",
     "source": "GIGAZINE",
@@ -5558,6 +5597,32 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Devinが仮想環境でmacOSの提供開始。Macの実機不要でDevinがコード生成、テスト、デバッグ、実行、AppStore配信前のベータ公開まで実行",
+    "url": "https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-16T16:00:51Z",
+    "fetched_at": "2026-09-16T23:28:21.620472+00:00",
+    "summary": "コーディングAIエージェントを提供するDevinが、Devinがホストする仮想環境内でのmacOSの提供を開始しました。 Devinはこれまで仮想環境内でUbuntu LinuxおよびWindowsを提供しており、ここにmacOSが加わりま...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Android、パスキーをパスワードマネージャ間で転送可能に。Googleパスワードマネージャ、1Password、Bitwarden、Dashlaneなどが対応",
+    "url": "https://www.publickey1.jp/blog/26/androidgoogle1passwordbitwardendashlane.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-16T15:51:54Z",
+    "fetched_at": "2026-09-16T23:28:21.624534+00:00",
+    "summary": "Googleは、Android上で利用可能なパスワードマネージャの間で、パスキーの転送を可能にしたと発表しました。 これにより、例えばGoogleパスワードマネージャに登録したパスキーを1PasswordやBitwardenなどの他のパスワ...…",
     "importance": "medium",
     "tags": [
       "it"
