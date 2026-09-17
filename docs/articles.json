@@ -1677,6 +1677,19 @@
     ]
   },
   {
+    "title": "AIコーディングエージェントにとってハーネスはどれほど重要なのか？",
+    "url": "https://gigazine.net/news/20260917-harnesstax-ai-coding-agents/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 17 Sep 2026 23:00:00 +0900",
+    "fetched_at": "2026-09-17T23:18:59.679963+00:00",
+    "summary": "AIコーディングエージェントは同じAIモデルを使っていても、モデルを動かすハーネスによって費用や性能が変わる可能性があります。カリフォルニア大学バークレー校とAIランキングサイト「Arena」の共同研究チームは、7つのモデルと3つのハーネスを組み合わせた21通りを2種類のベンチマークで比較しました。その結果、タスクの成功率は大きく変わらない一方、費用には最大…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "NVIDIAはAIの中央銀行と化している",
     "url": "https://gigazine.net/news/20260917-nvidia-central-bank-ai/",
     "source": "GIGAZINE",
@@ -4901,6 +4914,45 @@
     ]
   },
   {
+    "title": "「Factorio」の乱数生成器を解析して「レジェンド品質のアイテム」が出る未来を予測する試み",
+    "url": "https://gigazine.net/news/20260918-reversing-factorio-rng/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 18 Sep 2026 08:00:00 +0900",
+    "fetched_at": "2026-09-17T23:18:59.579215+00:00",
+    "summary": "工場建設ゲーム「Factorio」の拡張コンテンツ「Factorio: Space Age」には、製造したアイテムの性能がランダムで上昇する「品質」という仕組みがあります。コンピューター科学を専攻する大学院生のGegell氏はFactorioが使う疑似乱数生成器をリバースエンジニアリングし、ゲーム内の回路だけで乱数の内部状態を割り出して将来どのタイミングで高…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "自閉症の人には「他の自閉症の人の気持ちが分かる」という強みがあるかもしれない",
+    "url": "https://gigazine.net/news/20260918-autism-emotion-reading/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 18 Sep 2026 07:00:00 +0900",
+    "fetched_at": "2026-09-17T23:18:59.672716+00:00",
+    "summary": "自閉症の人は他人の気持ちを理解するのが苦手だと考えられがちですが、従来の研究では主に自閉症ではない人の感情を読み取る力が調べられてきました。イスラエルのヘブライ大学やイギリスのケンブリッジ大学などの研究チームは、自閉症の人の感情も読み取る対象に加え、自閉症の人と自閉症ではない人とで読み取りの正確さを比較しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "CUDA対応のWindowsアプリをAMD製GPU上で実行できる「CUDA for AMD on Windows」",
+    "url": "https://gigazine.net/news/20260918-cuda-for-amd-windows/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 18 Sep 2026 06:00:00 +0900",
+    "fetched_at": "2026-09-17T23:18:59.676899+00:00",
+    "summary": "「CUDA for AMD on Windows」は名前の通り、AMD製GPU上でCUDA対応のWindowsアプリケーションを実行することを目的としたプロジェクトです。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "AI音楽生成サービス「Suno」がYouTubeやDeezerから数百万曲をスクレイピングしていたことが流出したソースコードから判明",
     "url": "https://gigazine.net/news/20260717-suno-scraping-from-youtube-deezer/",
     "source": "GIGAZINE",
@@ -5597,6 +5649,19 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "PlanetScale、PostgreSQLのシャーディングを自動化して1億1800万QPSを達成。新DBサービス「Neki」をプレビュー公開",
+    "url": "https://www.publickey1.jp/blog/26/planetscalepostgresql11800qpsdbneki.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-17T15:59:39Z",
+    "fetched_at": "2026-09-17T23:18:58.765201+00:00",
+    "summary": "データベースサービスを提供しているPlanetScaleは、PostgreSQLのシャーディングを自動化してスケーラブルなデータベースサービスを提供する「Neki」をプレビュー公開しました。 118,538,803 queries per ...…",
     "importance": "medium",
     "tags": [
       "it"
