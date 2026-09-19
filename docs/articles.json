@@ -3094,6 +3094,71 @@
     ]
   },
   {
+    "title": "VRAM容量32GBで30万円未満なIntelグラボ「Intel Arc Pro B70 Creator 32GB」でローカルLLM「Qwen3.8 27B」や動画生成AI「MiniMax H3」を実行して生成速度を確かめてみた",
+    "url": "https://gigazine.net/news/20260919-arc-pro-b70-llm-review/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 19 Sep 2026 20:00:00 +0900",
+    "fetched_at": "2026-09-19T22:36:43.853830+00:00",
+    "summary": "大規模言語モデル(LLM)や画像・動画生成AIを高速実行するにはモデル全体を高速なVRAMに収める必要があります。しかし、AI需要に伴うグラフィックボードの価格高騰によって、VRAM容量32GBのNVIDIA GeForce RTX 5090は100万円を超えるようになってしまいました。一方で、Intel製GPU「Intel Arc Pro B70」を搭載し…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "料理漫画の金字塔が『新 美味しんぼ』として新たなTVアニメ化決定",
+    "url": "https://gigazine.net/news/20260919-new-oishinbo-anime-teaser/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 19 Sep 2026 19:52:00 +0900",
+    "fetched_at": "2026-09-19T22:36:43.855659+00:00",
+    "summary": "新聞記者の山岡士郎と栗田ゆう子が社業として「究極のメニュー」作りに挑み、ライバル紙で「至高のメニュー」を監修する海原雄山と対決を繰り広げたり、料理に関連する人々の問題と関わっていく料理漫画『美味しんぼ』が、『新 美味しんぼ』としてTVアニメ化されることになりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Meta独自のスマートグラス「Meta Glasses」フォトレビュー、本体のデザインからケース・付属品までチェック",
+    "url": "https://gigazine.net/news/20260919-meta-adventurer/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 19 Sep 2026 19:00:00 +0900",
+    "fetched_at": "2026-09-19T22:36:43.857191+00:00",
+    "summary": "FaccebookやInstagramを運営するMetaは、スマートグラスやVRヘッドセットの開発も行っています。新たにMetaが大手メガネメーカー・エシロールルックスオティカと共同開発したAI搭載スマートグラス「Meta Glasses」が、日本でも2026年8月26日(水)に登場しました。その実物をMetaから借りることができたので、まずはじっくりその見…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "無料でAIエージェントの追跡・評価・プロンプト管理・本番環境の監視ができる「Opik」、セルフホスト可能",
+    "url": "https://gigazine.net/news/20260919-opik/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 19 Sep 2026 18:00:00 +0900",
+    "fetched_at": "2026-09-19T22:36:43.858597+00:00",
+    "summary": "AIアプリの開発ではLLMが生成した回答を確認するだけでなく、どの処理を経由して回答に到達したのかを追跡し、改善後の結果を比較する作業も必要になります。これらの検証に必要なトレーシング・評価・プロンプト管理・本番監視を1つの画面にまとめたオープンソースの「Opik」が公開されています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "テキストAIの透かし・ウォーターマークは技術的に困難な上に簡単に削除できる",
+    "url": "https://gigazine.net/news/20260919-text-ai-watermarks/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 19 Sep 2026 16:00:00 +0900",
+    "fetched_at": "2026-09-19T22:36:43.860157+00:00",
+    "summary": "2026年8月より欧州連合(EU)でAI法が施行され、EU域内ではAIによって生成されたコンテンツであることを検出可能にする義務が課されるようになり、EU域内で事業を行う大規模言語モデル(LLM)プロバイダーに対してAI生成物であることを示す「ウォーターマーク」の適用が事実上義務付けられるようになりました。しかしながら、テキストに対するAIウォーターマーク技…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "知能が高い人ほどエコな車に乗るという研究結果",
     "url": "https://gigazine.net/news/20260718-intelligence-voting-charitable-giving-prosocial/",
     "source": "GIGAZINE",
