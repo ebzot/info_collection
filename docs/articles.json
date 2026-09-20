@@ -2366,6 +2366,71 @@
     ]
   },
   {
+    "title": "「宇宙の膨張は加速していない」という可能性が超新星の観測データの再分析で示される",
+    "url": "https://gigazine.net/news/20260920-supernova-cosmic-acceleration-questioned/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 20 Sep 2026 23:10:00 +0900",
+    "fetched_at": "2026-09-20T22:52:29.208603+00:00",
+    "summary": "通説では「宇宙は膨張を続けており、その勢いは増している」と考えられてきましたが、インドのタタ基礎研究所とイギリスのオックスフォード大学の研究チームが1700件以上の超新星の観測データを収録したカタログを使い、宇宙の「加速膨張」を裏付ける証拠が得られるかを検証した結果、「膨張は加速していない」可能性があることが明らかになりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Disney+がプレミアムを含む全プランで広告表示へ",
+    "url": "https://gigazine.net/news/20260920-disney-plus-ads-on-every-plan/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 20 Sep 2026 20:10:00 +0900",
+    "fetched_at": "2026-09-20T22:52:29.214453+00:00",
+    "summary": "動画配信プラットフォームのDisney+(ディズニープラス)が利用規約を改定し、すべてのプランの加入者に「映画や番組の前後に広告が含まれる可能性がある」ことへの同意を求めるようになりました。利用規約に同意しないとサービスを利用できないため、「広告なし」で見られるプランが消滅することになります。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "netcatと同様だがTailscaleのデータプレーン上で動作する「Tailcat」",
+    "url": "https://gigazine.net/news/20260920-tailcat/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 20 Sep 2026 19:00:00 +0900",
+    "fetched_at": "2026-09-20T22:52:29.217125+00:00",
+    "summary": "ネットワーク越しに文字列やファイルなどのデータを送ったり、指定したポートへ直接接続したりできる「netcat」を利用する場合、IPアドレスの確認やルーターのポート開放・NAT越えなどネットワーク側の準備が必要になります。そこで、netcatのようなシンプルな操作感を保ちながら、Tailscaleが持つWireGuardによる暗号化とNAT越えの仕組みを使い、…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "VisaとMastercardは何をしているのか、カード会社とは何が違うのか？",
+    "url": "https://gigazine.net/news/20260920-card-networks-intro/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 20 Sep 2026 18:00:00 +0900",
+    "fetched_at": "2026-09-20T22:52:29.218099+00:00",
+    "summary": "クレジットカードの決済サービスとして知られるVisaやMastercardは具体的に何をしているのか？「カード会社」とは何が違うのか？というカード決済の基本的な疑問について、技術系個人ブログのtautology.townが解説しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "屋外イベントで使う持ち運び用冷蔵庫としてPhilipsの車載用サーマルボックスを買ってみた、マイナス22度まで冷やせるので冷凍ラムネもOK",
+    "url": "https://gigazine.net/news/20260920-philips-thermal-box/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 20 Sep 2026 16:00:00 +0900",
+    "fetched_at": "2026-09-20T22:52:29.218947+00:00",
+    "summary": "実はGIGAZINEは地域の祭りなどにも参加しており、物販ブースを設けることもあります。「夏の暑い日にキンキンに冷えた飲み物を扱えたらいいな」と考えて家電やガジェットを物色していたところ、軽量かつ大容量なPhilipsの「Car thermal box 車載用サーマルボックス LUMTB730X1/20」を発見。本来は自動車のシガーソケットから電力を供給する…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "筋力トレーニングをする人は長生きするとの研究結果",
     "url": "https://gigazine.net/news/20260719-resistance-training-live-longer/",
     "source": "GIGAZINE",
