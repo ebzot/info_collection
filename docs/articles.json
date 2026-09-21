@@ -858,6 +858,19 @@
     ]
   },
   {
+    "title": "AIに頼って登山計画を立てた登山者たちが救助される",
+    "url": "https://gigazine.net/news/20260922-ai-climber-rescued/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 22 Sep 2026 08:00:00 +0900",
+    "fetched_at": "2026-09-21T23:46:08.720261+00:00",
+    "summary": "カリフォルニア州の大学生3人が、カリフォルニア州北部に位置する標高4321.8mのシャスタ山を登山中に救助されました。この大学生はAIで登頂計画を立てていて、ルートから外れてしまったとのことです。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "無料で使えるCloudflare Accessの「サービス認証」を設定して外出先のアプリから自宅のローカルAIにアクセスしてみた",
     "url": "https://gigazine.net/news/20260721-cloudflare-service-token/",
     "source": "GIGAZINE",
@@ -4193,6 +4206,58 @@
     "published_at": "Mon, 22 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-06-21T21:29:34.401492+00:00",
     "summary": "電子書籍リーダーなどでよく使われている「電子ペーパー」をPC用モニターにも採用し、PC画面を紙のように快適にする「Modos Flow」がクラウドファンディングを実施しており、記事作成時点で目標額の274％となる約48万ドル(約7700万円)を達成するほど注目を集めています。Modos Flowの詳細についてクラウドファンディングサイトのCrowd Supp…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "オーストラリア政府が公共の場でのスマートグラス規制を検討",
+    "url": "https://gigazine.net/news/20260921-australia-government-considers-ban-smart-glass/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 21 Sep 2026 23:30:00 +0900",
+    "fetched_at": "2026-09-21T23:46:08.722940+00:00",
+    "summary": "世界で初めて「16歳未満のSNS禁止法」を施行したオーストラリアのアルバニージー政権が、今度は公共の場でのスマートグラス規制を検討しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「スマホを見る時間を減らす目標」を立てることが毎日のスクリーンタイムを削減するのに役立つかもしれない",
+    "url": "https://gigazine.net/news/20260921-simple-trick-cut-down-screen-time/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 21 Sep 2026 20:00:00 +0900",
+    "fetched_at": "2026-09-21T23:46:08.723679+00:00",
+    "summary": "多くの人は「スマートフォンを見過ぎている」と感じているものの、どうしてもSNSや動画サイトを見るのが辞められずに時間を浪費しています。新たな研究では、毎日のスマートフォン使用時間を減らす簡単な方法があることがわかりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "iPhoneに搭載されたApple製AIとチャットする方法、無料アプリで「Apple Foundation Models」のローカル処理能力を試せる",
+    "url": "https://gigazine.net/news/20260921-locally-ai-apple-foundation-models/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 21 Sep 2026 19:12:00 +0900",
+    "fetched_at": "2026-09-21T23:46:08.724400+00:00",
+    "summary": "2026年9月に登場したiOS 27やmacOS 27にはApple製AIモデル「Apple Foundation Models」のアップデート版が含まれており、各種アプリでAI機能をオフライン実行できるようになっています。このApple Foundation Modelsとチャットできる機能がAI実行アプリ「Locally AI」に追加されたので、テキスト…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "プロセスが終了しても入出力は行われるのか？プロセスが終了するとio_uringはどうなるのか？",
+    "url": "https://gigazine.net/news/20260921-what-happens-to-io-uring-when-process-dies/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 21 Sep 2026 19:00:00 +0900",
+    "fetched_at": "2026-09-21T23:46:08.725364+00:00",
+    "summary": "一般的なイメージではOSのI/O操作はプロセスが終了すると停止するものと受け止められているのではないでしょうか。しかしながら、LinuxカーネルにおけるI/O操作のライフサイクルは必ずしもプロセスのライフサイクルと一致しないことがあります。特にLinuxカーネル5.1で導入されたio_uringを使用した場合、プロセスが終了した後でもI/O操作がカーネル内で…",
     "importance": "medium",
     "tags": [
       "it"
