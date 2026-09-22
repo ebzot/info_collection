@@ -130,6 +130,19 @@
     ]
   },
   {
+    "title": "幼少期からのPCなどの画面を見る時間が長いほど青年期の認知処理能力が向上するという研究結果",
+    "url": "https://gigazine.net/news/20260923-screentime-cognition/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 23 Sep 2026 08:00:00 +0900",
+    "fetched_at": "2026-09-22T23:25:03.251105+00:00",
+    "summary": "パソコンやスマートフォンばかり見ていると頭が悪くなってしまうのでは、という話は一般論としてよく言われることです。6歳から9歳までの子どもが成長する様子を8年間追跡した研究では、デジタル機器の画面を見ている時間(スクリーンタイム)が長い子どもほど、むしろ10代の頃に認知機能が高くなるという、通説に反する証拠が示されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "USB早見表、規格ごとの速度・配線・給電能力がひと目でわかる",
     "url": "https://gigazine.net/news/20260722-usb-cheat-sheet/",
     "source": "GIGAZINE",
@@ -852,6 +865,58 @@
     "published_at": "Tue, 23 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-06-22T21:43:10.012647+00:00",
     "summary": "オンライン上には一時的な快楽の発生だけを目的としたような短絡的な情報や感情を逆なでするような情報があふれています。このように、人間からドーパミンによる快感だけを強引に引き出そうとするような行為を指す新たなワード「ドーパミン・フラッキング」を提案したブログがSNS上で話題を呼んでいます。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "携帯可能で低消費電力のアナログガイガーカウンターを自作した記録",
+    "url": "https://gigazine.net/news/20260922-analog-geiger-counter/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 22 Sep 2026 22:00:00 +0900",
+    "fetched_at": "2026-09-22T23:25:03.254219+00:00",
+    "summary": "放射線を検出する「ガイガーカウンター」を、シンプルで電力効率も良く持ち運び可能なアナログ式で自作した電子技術者が、その仕組みを解説しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "OpenAIが10億人以上・40ペタバイト超えのユーザーデータを扱う自社製ストレージシステム「Habitat」について解説",
+    "url": "https://gigazine.net/news/20260922-openai-storage-habitat/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 22 Sep 2026 21:22:00 +0900",
+    "fetched_at": "2026-09-22T23:25:03.255946+00:00",
+    "summary": "OpenAIはChatGPTやCodexといったサービスを展開しており、ユーザー数は2026年7月末時点で10億人に達しています。OpenAIは10億人を超えるユーザーのデータを自社製オンラインストレージシステム「Habitat」で管理しているとのこと。このHabitatの詳細がOpenAIの公式ブログで解説されています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "マキタの18Vバッテリーにも対応済み、リチウムイオンバッテリーの診断と修理をブラウザから無料で実行できる「Open Battery Information」",
+    "url": "https://gigazine.net/news/20260922-open-battery-information/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 22 Sep 2026 20:00:00 +0900",
+    "fetched_at": "2026-09-22T23:25:03.257131+00:00",
+    "summary": "Open Battery Information(OBI)はバッテリー管理システム(BMS)によってロックされたリチウムイオンバッテリーの診断と修理を支援するために設計されたオープンソースプロジェクトです。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "2026年秋開始の新作アニメ一覧",
+    "url": "https://gigazine.net/news/20260922-anime-2026autumn/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 22 Sep 2026 19:30:00 +0900",
+    "fetched_at": "2026-09-22T23:25:03.257981+00:00",
+    "summary": "放送・配信中のアニメが終わり、入れ替わりに新たな作品が始まる時期がやってきました。2026年秋(2026年9月～2026年11月ごろ)に始まるアニメの数は85作品で、特に多めとなっています。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
