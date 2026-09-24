@@ -1586,6 +1586,32 @@
     ]
   },
   {
+    "title": "AmazonがMetaのAIエージェント「Muse」の買い物代行をブロック",
+    "url": "https://gigazine.net/news/20260924-amazon-block-muse/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 24 Sep 2026 21:00:00 +0900",
+    "fetched_at": "2026-09-24T23:42:51.109990+00:00",
+    "summary": "AmazonがMetaのパーソナルAIエージェント「Muse」によるAmazon.comでの買い物代行をブロックしたことが明らかになりました。AmazonはMuseが許可を得ないままAmazonへアクセスしているとして利用規約違反であることを訴えるとともに、プライバシーやセキュリティ上のリスクを指摘しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Steam Frame分解レポート、中はどんな感じになっているのか？",
+    "url": "https://gigazine.net/news/20260924-steam-frame-teardown/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 24 Sep 2026 20:10:00 +0900",
+    "fetched_at": "2026-09-24T23:42:51.110682+00:00",
+    "summary": "Steamの運営で知られるValveは2026年9月15日に新ハードとなるVRヘッドセット「Steam Frame」をリリースしました。電子機器の修理情報などを発信するiFixit(アイフィックスイット)がさっそくSteam Frameをバラバラに分解して中身を公開しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "「9.11」追悼企画アート掲載サイトがドキュメンタリー映画の影響で復活",
     "url": "https://gigazine.net/news/20260924-911-memorial-secret-mall-apartment/",
     "source": "GIGAZINE",
@@ -5018,6 +5044,32 @@
     ]
   },
   {
+    "title": "「iPhone 18 Pro」を分解してみた動画が公開中、カメラの可変絞りはどんな感じになっているのか？",
+    "url": "https://gigazine.net/news/20260925-ifixit-inside-iphone-18-pro-max/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 25 Sep 2026 07:00:00 +0900",
+    "fetched_at": "2026-09-24T23:42:51.106652+00:00",
+    "summary": "スマートフォンをはじめとする電子機器の分解マニュアルを公開しているiFixitが、2026年9月に発売されたiPhone 18 Proを分解した動画を公開しました。iPhone 18 Pro／Pro MaxでApple史上初めて搭載されたカメラの可変絞りがどのようになっているのかや、バッテリー交換のやりやすさなどがわかる動画となっています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "アメリカ軍によるイランの小学校へのミサイル攻撃はデータベースの情報更新を怠りAIを過信したことが一因だったとの報道",
+    "url": "https://gigazine.net/news/20260925-iran-school-maven-ai-kill-chain/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 25 Sep 2026 06:00:00 +0900",
+    "fetched_at": "2026-09-24T23:42:51.109287+00:00",
+    "summary": "2026年2月にイラン南部の小学校へアメリカ軍のミサイルが着弾し、少なくとも123人の子どもを含む150人以上が死亡しました。経済紙・Bloombergの取材に応じた匿名の当局関係者によると、学校の敷地がイラン革命防衛隊の施設としてデータベースに登録されたままであったことが、小学校にミサイル攻撃が行われた一因だそうです。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "重力反転を駆使してトラップだらけのステージを攻略する高難度アクションゲーム「LOVE ETERNAL」プレイレビュー",
     "url": "https://gigazine.net/news/20260724-love-eternal/",
     "source": "GIGAZINE",
@@ -6013,6 +6065,19 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Go言語で書かれた高速なIDE「Rune」、オープンソースで公開。ターミナルとコマンドプロンプト中心の開発環境、複数リモートノードをローカルのように操作可能",
+    "url": "https://www.publickey1.jp/blog/26/goiderune.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-24T15:45:08Z",
+    "fetched_at": "2026-09-24T23:42:50.874676+00:00",
+    "summary": "開発ツールベンダのUnstablebuildは、Go言語製のIDE「Rune」をオープンソースで公開したことを発表しました。 Runeの画面 RuneはGo言語によるネイティブアプリケーションとして提供される高速なIDEです。GPUによる描...…",
     "importance": "medium",
     "tags": [
       "it"
