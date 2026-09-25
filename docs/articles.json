@@ -3068,6 +3068,19 @@
     ]
   },
   {
+    "title": "中国・北京がドローンを全面規制、飛行だけでなく所持・保管・持ち込みも禁止へ",
+    "url": "https://gigazine.net/news/20260926-beijing-ban-drone/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 26 Sep 2026 08:00:00 +0900",
+    "fetched_at": "2026-09-25T23:45:01.026541+00:00",
+    "summary": "中国の首都北京で、無人航空機(UAV)およびその部品の所持を禁止する「北京市無人航空機管理条例」の改正案が可決されました。この措置に伴い政府による補助金制度が始まっています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "ロボタクシー関連法案を巡り関係悪化中のWaymoがUberとの提携解消を検討",
     "url": "https://gigazine.net/news/20260725-waymo-uber-tie-up-to-end/",
     "source": "GIGAZINE",
@@ -5038,6 +5051,58 @@
     "published_at": "Fri, 26 Jun 2026 06:00:00 +0900",
     "fetched_at": "2026-06-25T21:32:56.799410+00:00",
     "summary": "作業中に周囲の音や動きが気になってしまう時、人間は不要な刺激を無視して重要な情報へ注意を向けようとするものです。ジョンズ・ホプキンス大学のニナド・B・コタリ氏らの研究チームが、こうした「集中力」を支える脳幹のニューロン群をマウス実験で特定したと報告しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "超高度な文明は「外」に向かって拡大するのではなく「内」に向かって小さな世界を意のままに操るのかもしれない",
+    "url": "https://gigazine.net/news/20260925-godlike-civilization/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 25 Sep 2026 22:00:00 +0900",
+    "fetched_at": "2026-09-25T23:45:01.029540+00:00",
+    "summary": "「超高度な文明」がどのようなものか想像した時、別の恒星まで宇宙旅行をしたり他の惑星へ入植したりするような、外に拡大していくタイプの文明を想像する人は多いはず。ところが教育系YouTubeチャンネルのKurzgesagtは、「超高度な文明は外に拡大していくのではなく内の世界を自由自在に操作するのかもしれない」として、内に向かうタイプの文明発展について解説してい…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Meta Glassesを装着してMeta社員に絡む動画がFacebookとInstagramで削除される",
+    "url": "https://gigazine.net/news/20260925-meta-glasses-video-ban/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 25 Sep 2026 21:00:00 +0900",
+    "fetched_at": "2026-09-25T23:45:01.030568+00:00",
+    "summary": "カメラが付いたスマートグラス「Meta Glasses」は、周囲の風景を撮影して記録することができることから、プライバシーの懸念があるとして一部で問題視されています。この機能を問題視するクリエイターのロエル・マールデリンク氏がMeta GlassesでMetaの従業員を撮影する動画を公開しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "名作ADVに登場した「金属製ジョッキをわずか35秒で溶かす液体」は実在するのか？",
+    "url": "https://gigazine.net/news/20260925-science-of-monkey-island/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 25 Sep 2026 20:00:00 +0900",
+    "fetched_at": "2026-09-25T23:45:01.031715+00:00",
+    "summary": "1990年に発売された2Dアドベンチャーゲーム『モンキー・アイランド』に登場する架空の飲み物「グロッグ」は、金属製のジョッキをわずか数十秒で溶かしてしまうという設定があります。オランダ・フローニンゲン大学の科学者であるパトリツィオ・ラッファ氏が現実の化学に基づいて、このグロッグが実在できるのかどうかを検証しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AIに「StarCraft」をリアルタイムで戦わせる「Brood War Bench」が登場、全モデルが初心者レベルながらCodex Astraは18戦全勝",
+    "url": "https://gigazine.net/news/20260925-starcraft-brood-war-bench/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 25 Sep 2026 19:50:00 +0900",
+    "fetched_at": "2026-09-25T23:45:01.032597+00:00",
+    "summary": "AIエージェントにリアルタイムストラテジーゲーム「StarCraft: Brood War」を操作させて対戦能力を比較するベンチマーク「Brood War Bench」をソフトウェアエンジニアのベン・スワードロウ氏が公開しました。OpenAI系やAnthropicのClaude、xAIのGrokなどを含む19種類の構成が総当たりで対戦した結果、最上位のCod…",
     "importance": "medium",
     "tags": [
       "it"
