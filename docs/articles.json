@@ -2444,6 +2444,19 @@
     ]
   },
   {
+    "title": "AI搭載の監視カメラを混乱させる「デジタル迷彩シャツ」",
+    "url": "https://gigazine.net/news/20260927-digital-camouflage-shirt/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 27 Sep 2026 08:00:00 +0900",
+    "fetched_at": "2026-09-26T23:19:29.731672+00:00",
+    "summary": "AI搭載のカメラで監視されることを嫌った人物が、着ている人をAIが人と認識できなくなる特製の迷彩柄シャツを作り上げました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "30年以上前の「使徒、襲来」から人気が衰えない「エヴァンゲリオン」シリーズの作品をワンフェス2026[夏]会場でピックアップ",
     "url": "https://gigazine.net/news/20260726-evangelion-wf2026s/",
     "source": "GIGAZINE",
@@ -3062,6 +3075,58 @@
     "published_at": "Sat, 27 Jun 2026 00:00:00 +0900",
     "fetched_at": "2026-06-26T21:29:47.178866+00:00",
     "summary": "GIGAZINEの記事を電子化した書籍を対象に「2026年5月に出版した中で最もたくさん読まれた記事は何なのか？」がわかるランキングを作ってみました。Google検索の影響が大きい普段のアクセス解析記事と違い、Amazonならではのランキングとなっています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "1日の歩数は変わらなくても「歩くペース」を上げれば死亡リスクが下がる可能性",
+    "url": "https://gigazine.net/news/20260926-stepping-pace-lower-risk-death/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 26 Sep 2026 21:00:00 +0900",
+    "fetched_at": "2026-09-26T23:19:29.736475+00:00",
+    "summary": "健康のためには「1日1万歩」は歩いた方がいいとよく言われますが、近年の研究では1万歩よりも少ない歩数でも、さまざまな健康効果が得られることが示唆されています。新たな研究では、たとえ1日の歩数が少なくても「歩くペース」を上げることで、死亡リスクが低くなる可能性があると報告されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Apple純正のオープンイヤー型ワイヤレスイヤホン「AirPods 5」使用レビュー、使い心地や強化されたアクティブノイズキャンセリング機能はどれほどのものか？",
+    "url": "https://gigazine.net/news/20260926-airpods-5-wireless-charging-case-review/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 26 Sep 2026 20:00:00 +0900",
+    "fetched_at": "2026-09-26T23:19:29.738805+00:00",
+    "summary": "Appleはアクティブノイズキャンセリング機能搭載オープンイヤー型ワイヤレスイヤホン「AirPods 5」を2026年9月18日に発売しました。軸スワイプによる音量調整機能搭載・バッテリー強化・ワイヤレス充電対応の充電ケースを備えた上位モデルを実際に注文したので、実際に装着して音楽を聞いたり手元で操作してみたり試してみました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "darktableをフォークして余分な機能を排除しデザイン面の使い勝手を洗練させた「Ansel」",
+    "url": "https://gigazine.net/news/20260926-ansel/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 26 Sep 2026 16:00:00 +0900",
+    "fetched_at": "2026-09-26T23:19:29.741508+00:00",
+    "summary": "RAW画像を編集するソフトには写真の明るさや色の調整・ノイズ除去・レンズの補正などさまざまな機能が搭載されていますが、機能が増えるほど目的の設定項目を探す手間も増えてしまいます。そこで無料でオープンソースのRAW現像ソフト「Ansel」は、「darktable」をベースに機能の整理や操作画面の再設計により、写真編集の作業をわかりやすくすることを目指したソフト…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「iPhone 18 Pro」の絞り羽根搭載カメラの性能を検証するべくいろいろ撮影してみたよレビュー、これまで不可能だった光芒撮影が可能に",
+    "url": "https://gigazine.net/news/20260926-iphone-18-pro-camera-example/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 26 Sep 2026 13:48:00 +0900",
+    "fetched_at": "2026-09-26T23:19:29.745044+00:00",
+    "summary": "2026年9月18日に登場した「iPhone 18 Pro」は背面に3個のカメラを搭載しており、メインカメラにはiPhoneシリーズとして初めて物理的な絞り羽根が搭載されました。そんなiPhone 18 Proのカメラ性能を検証するべく、実際にいろいろ撮影してみました。なお、記事内の作例写真は記事用に長辺を800ピクセルにリサイズしており、各作例写真をクリッ…",
     "importance": "medium",
     "tags": [
       "it"
