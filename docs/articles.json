@@ -2444,6 +2444,19 @@
     ]
   },
   {
+    "title": "MicrosoftとQualcommが展開してきた「Copilot+ PC」ブランドが実質的に消滅",
+    "url": "https://gigazine.net/news/20260927-microsoft-copilot-plus-brand-is-dead/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 27 Sep 2026 23:55:00 +0900",
+    "fetched_at": "2026-09-27T23:32:22.998015+00:00",
+    "summary": "MicrosoftとQualcommが、特定のシステム要件を満たしたPCを対象として2024年から展開してきた「Copilot+ PC」ブランドが、公式な発表はあいものの実質的に消滅したことが明らかになりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "AI搭載の監視カメラを混乱させる「デジタル迷彩シャツ」",
     "url": "https://gigazine.net/news/20260927-digital-camouflage-shirt/",
     "source": "GIGAZINE",
@@ -4258,6 +4271,32 @@
     "published_at": "Mon, 29 Jun 2026 00:15:00 +0900",
     "fetched_at": "2026-06-28T21:23:55.919912+00:00",
     "summary": "シェアード・ユニバース作品として展開されたドラマ『アンナチュラル』『MIU404』や映画『ラストマイル』をはじめ、数々のドラマや映画を手がけてきた脚本家・野木亜紀子が原案・脚本を担当する初のTVアニメ『LONA』が2027年春に放送されることが決定し、ティザーPVが公開されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "CTスキャンを読み取りガンを含む約150種類の腹部疾患を特定できる医療用画像言語モデル「RADAR」をAlibaba傘下のDamo Academyがオープンソース化し公開",
+    "url": "https://gigazine.net/news/20260928-damo-radar/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 28 Sep 2026 07:00:00 +0900",
+    "fetched_at": "2026-09-27T23:32:22.995135+00:00",
+    "summary": "放射線診断ワークフローにおいて診断時に悪性腫瘍の見落としが発生すると重大な問題に繋がります。「RADAR」はCTスキャンの画像を元に約150種類の腹部疾患を特定できる医療用画像言語モデルであり、Alibaba傘下のDamo Academyがオープンソース化しGitHubで公開されています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "成人後にADHDと診断された女性の中には「過集中」をスーパーパワーと捉える人もいる",
+    "url": "https://gigazine.net/news/20260928-late-adhd-women-hyperfocus/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 28 Sep 2026 06:00:00 +0900",
+    "fetched_at": "2026-09-27T23:32:22.997030+00:00",
+    "summary": "「興味のあることには長時間集中できるのに、日常の用事にはなかなか手がつかない」といった集中力の偏りについて本人がどう受け止めるかは、診断を機に変わることがあります。イギリス・ウルバーハンプトン大学のトレーシー・ケリー氏らが、大人になってから注意欠如多動症(ADHD)と診断された女性12人に話を聞いた結果を報告しています。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
@@ -6195,6 +6234,32 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「Docker Cloud Sandboxes」発表、AIエージェント向けサンドボックスをローカルとクラウド間で自由に移動可能に",
+    "url": "https://www.publickey1.jp/blog/26/docker_cloud_snadboxesai.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-27T16:02:18Z",
+    "fetched_at": "2026-09-27T23:32:22.786635+00:00",
+    "summary": "Docker社はAIエージェント向けのサンドボックス環境をクラウド上で提供する「Docker Cloud Sandboxes」を発表しました。 同社はすでにローカルで動作するサンドボックス環境の「Docker Sandboxes」を今年（2...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "マイクロソフト、企業内アプリの実行基盤「Copilot Managed Runtime」プレビュー公開。Microsoft 365と同じテナント内でコード実行、管理者による集中管理も",
+    "url": "https://www.publickey1.jp/blog/26/copilot_managed_runtimemicrosoft_365.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-27T15:59:50Z",
+    "fetched_at": "2026-09-27T23:32:22.789628+00:00",
+    "summary": "マイクロソフトは、AIコーディングエージェントのMicrosoft Copilotなどで開発した社内アプリケーションを実行するためのセキュアな基盤「Copilot Managed Runtime」をパブリックプレビューとして公開しました。 ...…",
     "importance": "medium",
     "tags": [
       "it"
