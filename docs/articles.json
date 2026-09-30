@@ -1,5 +1,44 @@
 [
   {
+    "title": "「世界最古の平和条約」の一部が刻まれた粘土板がトルコで出土、紀元前から難民の処遇が考慮されていた",
+    "url": "https://gigazine.net/news/20260930-worlds-oldest-peace-treaty-found/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 30 Sep 2026 08:00:00 +0900",
+    "fetched_at": "2026-09-30T00:01:26.041906+00:00",
+    "summary": "トルコ文化観光省が2026年9月21日、世界最古の平和条約として知られる「エジプト・ヒッタイト平和条約(カデシュ条約)」の一部が刻まれた粘土板が、トルコ中北部にあるハットゥシャ遺跡から出土したと発表しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "アメリカ政府による大規模監視を暴いた機密資料「スノーデン文書」はどうなったのか？",
+    "url": "https://gigazine.net/news/20260930-snowden-archive-what-happened/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 30 Sep 2026 07:00:00 +0900",
+    "fetched_at": "2026-09-30T00:01:26.043094+00:00",
+    "summary": "2013年、アメリカ中央情報局(CIA)の元職員で、国家安全保障局(NSA)の契約職員だったエドワード・スノーデン氏が記者に託した機密文書(スノーデン文書)によって、政府による大規模な通信監視の実態が明らかになりました。告発から13年を経た2026年9月、デジタル監視に対抗するための調査やツール開発を行う団体「Libroot」が、報道機関に渡った膨大な文書の…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「証明」によりAIの誤りを阻止しGPU上で動作する高速プログラミング言語「Bend」、C言語並みの処理速度・CUDAによる並列処理・Leanによる形式的証明・Python風の構文",
+    "url": "https://gigazine.net/news/20260930-bend-lang/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 30 Sep 2026 06:00:00 +0900",
+    "fetched_at": "2026-09-30T00:01:26.044211+00:00",
+    "summary": "「Bend」はAIが犯すかもしれない誤りを「証明」によってブロックすることを目指す新たなプログラミング言語です。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "GPT-5.6やClaude Opusの性能を「MCPサーバーを構築できるか？」という観点で測定したベンチマークテスト「mcpbench」",
     "url": "https://gigazine.net/news/20260729-mcpbench/",
     "source": "GIGAZINE",
@@ -6286,6 +6325,32 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Google Cloud、AIエージェントからの大量アクセスをPostgreSQLのプライマリDBから切り離せる「PostgreSQL for agents in AlloyDB」発表",
+    "url": "https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-29T15:46:18Z",
+    "fetched_at": "2026-09-30T00:01:25.303061+00:00",
+    "summary": "Google Cloudは、本番環境で動作しているPostgreSQLの処理に影響を与えないよう、AIエージェントからの読み取りワークロード用にサンドボックス化されたPostgreSQLのデータベースインスタンスを数秒でプロビジョニングする...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "コーディングエージェントにGoogle Cloudの専門知識とツールを組み込む「Google Cloud Developer Plugin for AI Coding Agents」発表",
+    "url": "https://www.publickey1.jp/blog/26/google_cloudgoogle_cloud_developer_plugin_for_ai_coding_agents.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-09-29T15:44:15Z",
+    "fetched_at": "2026-09-30T00:01:25.306844+00:00",
+    "summary": "Google Cloudは、Claude CodeなどのコーディングエージェントにGoogle Cloudの専門知識とツールなどを組み込める「Google Cloud Developer Plugin for AI Coding Agent...…",
     "importance": "medium",
     "tags": [
       "it"
