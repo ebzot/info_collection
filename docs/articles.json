@@ -4225,6 +4225,32 @@
     ]
   },
   {
+    "title": "社会主義の東ドイツで育った高齢者は西ドイツ育ちよりも認知機能が良好との研究結果",
+    "url": "https://gigazine.net/news/20261003-growing-up-east-germany-cognitive-health/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 03 Oct 2026 09:00:00 +0900",
+    "fetched_at": "2026-10-03T00:05:57.872952+00:00",
+    "summary": "ドイツは第二次世界大戦後、ドイツ民主共和国(東ドイツ)とドイツ連邦共和国(西ドイツ)に分裂しており、1990年に東ドイツが西ドイツに編入される形で再統一されました。新たな研究では、ドイツ再統一前の社会主義時代に東ドイツで生まれ育った高齢者は、西ドイツ育ちの高齢者より認知機能が良好で、精神機能の低下が遅いことがわかりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "アツアツのお茶やコーヒーを飲むと食道がんの発症リスクが3倍高まる",
+    "url": "https://gigazine.net/news/20261003-very-hot-tea-coffee-cancer-risk/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 03 Oct 2026 08:00:00 +0900",
+    "fetched_at": "2026-10-03T00:05:57.876782+00:00",
+    "summary": "飲み物にこだわりがあって、しっかり熱くなっていないと飲んだ気がしないと考える人は少なくないはず。紅茶とコーヒーの愛飲者を調べた研究で、熱い飲み物を飲むと食道がんのリスクが増加することが示されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "「研究論文がSNSで著名な学者に紹介されること」が研究者の求職活動にメリットをもたらすとの研究結果",
     "url": "https://gigazine.net/news/20260801-sns-promotion-paper-academic-hiring/",
     "source": "GIGAZINE",
@@ -6364,6 +6390,45 @@
     "published_at": "Fri, 03 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-02T21:25:59.937683+00:00",
     "summary": "老朽化が進む国際宇宙ステーション(ISS)では、空気漏れへの対応をめぐって宇宙飛行士5人が一時退避する事態が発生しました。イギリスのノーサンブリア大学で宇宙法と政策を専門とするクリストファー・ニューマン氏は、この空気漏れをきっかけに「ISSをいつまで使い続けるのか」「後継施設を誰が担うのか」という問題を論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "中国へのGPU密輸はなぜ続くのか、そしてなぜアメリカ政府は取り締まることができないのか？",
+    "url": "https://gigazine.net/news/20261002-gpu-black-market-in-china/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 02 Oct 2026 22:00:00 +0900",
+    "fetched_at": "2026-10-03T00:05:57.878547+00:00",
+    "summary": "アメリカが先端AI半導体の対中輸出を制限する一方、第三国の企業や物流網を通じて中国へ不正に送る事件が相次いでいます。アメリカ当局の摘発では、購入者や最終用途を偽り、大量のGPUやサーバーを調達する手口が明らかになりました。AIの軍事利用を抑えるための規制を、複雑な国際取引の中でどう徹底するかが課題になっています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "無料でカスタマイズ可能SVGパターンをいろいろ作成できる「Book of Shapes」",
+    "url": "https://gigazine.net/news/20261002-book-of-shapes/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 02 Oct 2026 21:00:00 +0900",
+    "fetched_at": "2026-10-03T00:05:57.879464+00:00",
+    "summary": "サイトやデザインの背景などに使えるベクター形式のSVGパターン作品集「Book of Shapes」は、さまざまなSVGパターンをカテゴリ別に見ることができるほか、パラメータを調節してカスタマイズした上でポスターを作成することもできます。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "無料メールアプリ「Thunderbird for iOS」の詳細がついに判明、iPhone・iPad向けにアカウント自動設定やバックグラウンド同期を開発中で数カ月以内のコミュニティテストを目指す",
+    "url": "https://gigazine.net/news/20261002-thunderbird-for-ios/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 02 Oct 2026 20:30:00 +0900",
+    "fetched_at": "2026-10-03T00:05:57.880436+00:00",
+    "summary": "無料のメールクライアント「Thunderbird」を開発するThunderbirdチームが2026年10月1日にiPhone・iPad向けの「Thunderbird for iOS」の開発状況を公開しました。メールアカウントの簡単な追加やバックグラウンド同期、メールの閲覧・作成といった開発中の主要機能が明らかになっています。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
