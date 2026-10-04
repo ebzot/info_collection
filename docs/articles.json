@@ -2951,6 +2951,32 @@
     ]
   },
   {
+    "title": "『鬼滅の刃』と『Fate/Zero＆魔法使いの夜』ポストカードが鳴門金時・すだち・阿波尾鶏など徳島名物を食べてもらえるマチ★アソビ vol.31の「グルメハント」に挑んできた",
+    "url": "https://gigazine.net/news/20261004-gourmet-hunt-machiasobi31/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 04 Oct 2026 23:20:00 +0900",
+    "fetched_at": "2026-10-04T23:45:54.563371+00:00",
+    "summary": "総合エンタメイベント「マチ★アソビ vol.31」が2026年10月17日(土)・18日(日)に開催されるのに向けて、徳島阿波おどり空港でアニメジャックが実施されていますが、同じく10月3日(土)から飲食店を巡るスタンプラリーイベント「グルメハント」が始まっているので、いくつか巡ってきました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「ウエストの太さ」と「握力」の組み合わせでBMI単独よりその人の死亡リスクがよくわかる",
+    "url": "https://gigazine.net/news/20261004-abdominal-fat-grip-strength-risk-death/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 04 Oct 2026 22:00:00 +0900",
+    "fetched_at": "2026-10-04T23:45:54.564554+00:00",
+    "summary": "身長と体重から算出されるボディマス指数(BMI)は、肥満か否かを判断する尺度として広く利用されており、健康的な生活のためにBMIを下げることが推奨されることもあります。死亡リスクに関する研究ではBMI以外の指標も考案されており、新たに「ウエストの太さ」と「握力」を組み合わせることで、BMI単体と比べて死亡リスクをより正確に予測できるという結果が示されました。",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "レーザービーム式蚊撃ち器の予約受付が開始される",
     "url": "https://gigazine.net/news/20261004-photon-matrix/",
     "source": "GIGAZINE",
@@ -5109,6 +5135,19 @@
     ]
   },
   {
+    "title": "警察が押収したiPhoneの自動再起動を回避してデータを抽出しやすくするツールが登場している",
+    "url": "https://gigazine.net/news/20261005-cops-bypass-iphone-automatic-inactivity-reboot/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 05 Oct 2026 06:00:00 +0900",
+    "fetched_at": "2026-10-04T23:45:54.562125+00:00",
+    "summary": "iPhoneには、ロック状態のまま一定時間が経過すると自動的に再起動する「非アクティブ時再起動」という機能が搭載されています。そんな非アクティブ時再起動を無効化して、警察が押収したiPhoneからのデータ抽出を容易するためのツールが開発されたと、海外メディアの404 Mediaが報じました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "ワールドカップの違法配信を取り締まる「オペレーション・オフサイド」は成功を収めたがドメイン押収の限界を浮き彫りにしたと映画協会が指摘",
     "url": "https://gigazine.net/news/20260803-operation-offsides-domain/",
     "source": "GIGAZINE",
@@ -6533,6 +6572,32 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "世界中のソフトウェア開発者の実態を調べた「State of Devs 2026」公開。何歳？ 年収は？ モニタは何枚？ AIにどのくらいコードを書かせている？ 趣味は？ など集計結果",
+    "url": "https://www.publickey1.jp/blog/26/state_of_devs_2026_ai.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-10-04T15:59:31Z",
+    "fetched_at": "2026-10-04T23:45:54.431472+00:00",
+    "summary": "IT関連の各種調査を行っているプロジェクトDevographicsは、世界中のソフトウェア開発者の実態などをアンケートで調査した「State of Devs 2026」の結果を公開しました。 ここでは全体の結果から興味深いところをいくつか抜...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Supabase、1サーバあたり数百万ものSQLiteをホストする「Turso」買収を発表。AIエージェントで加速するDB需要に対応",
+    "url": "https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-10-04T15:56:27Z",
+    "fetched_at": "2026-10-04T23:45:54.434494+00:00",
+    "summary": "PostgreSQLをベースにしたデータベースサービス「Supabase」などを提供しているSupabaseは、SQLiteをベースとしたデータベースサービスを提供する「Turso」を買収したことを発表しました。 Turso is join...…",
     "importance": "medium",
     "tags": [
       "it"
