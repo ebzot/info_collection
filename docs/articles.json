@@ -1417,6 +1417,45 @@
     ]
   },
   {
+    "title": "自作PCユーザーの「重視するパーツ」「買い換えたいパーツ」「使っている最古のパーツ」などを調査してみた",
+    "url": "https://gigazine.net/news/20261006-gigazine-homebuild-pc/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 06 Oct 2026 09:00:00 +0900",
+    "fetched_at": "2026-10-06T01:37:49.623008+00:00",
+    "summary": "GIGAZINEでは毎年3回実施しているプレゼントアンケートで、読者が使っているPCのブランド・CPU・マザーボード・グラフィックボード・メモリ・ストレージなどについて調査しています。この調査で、読者が使っているPCのブランドとして最も多いのが「自作」だったため、今回は読者がどんな自作PCを使っているのかをいつもより深堀りしてみました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "TCPに代わる通信プロトコル「Homa」をスタンフォード大学名誉教授が提唱、AI時代は1ミリ秒の遅延でもGPUが待たされる",
+    "url": "https://gigazine.net/news/20261006-homa-protocol-replace-tcp/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 06 Oct 2026 08:05:00 +0900",
+    "fetched_at": "2026-10-06T01:37:49.624164+00:00",
+    "summary": "ウェブやクラウドを支える通信プロトコル「TCP」はAI向けデータセンターの通信には適していないとして、スタンフォード大学のジョン・オースターハウト名誉教授がトランスポートプロトコル「Homa」への移行を訴えています。Homaは短いメッセージを優先的に処理することで通信遅延を抑える仕組みを備えており、既存のTCPと並行して導入できるとのことです。 続きを読む.…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "無料で国のミッションクリティカル作業のために構築された主権AIモデル「Kolibri」、公共行政・産業・航空宇宙などの規制分野での使用が前提でオープンソースなだけでなく構築過程も透明化",
+    "url": "https://gigazine.net/news/20261006-kolibri/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 06 Oct 2026 07:00:00 +0900",
+    "fetched_at": "2026-10-06T01:37:49.624930+00:00",
+    "summary": "ドイツのAIスタートアップ企業Aleph Alphaは、ドイツ統一の日にあたる2026年10月3日に新たな言語モデル「Kolibri」を発表しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "「権限の低いエージェントをハックして上位権限でコードを実行する」というGoogle ADKのハッキング手法が発見される",
     "url": "https://gigazine.net/news/20260804-agent-development-kit-attack/",
     "source": "GIGAZINE",
@@ -6572,6 +6611,32 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Cloudflare ContainersがAIエージェント向けに刷新。起動が6倍速、ファイルシステムのスナップショット機能など",
+    "url": "https://www.publickey1.jp/blog/26/cloudflare_containersai6.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-10-05T15:29:53Z",
+    "fetched_at": "2026-10-06T01:37:49.479622+00:00",
+    "summary": "Cloudflareは、同社のエッジロケーションでコンテナ型仮想マシンを実行可能にする「Cloudflare Containers」をAIエージェント向けに刷新したことを発表しました。 これまでよりも起動速度が6倍となり、環境構築が容易にな...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Google、サンドボックス型コンテナランタイムの「gVisor」をCNCFに寄贈したと発表",
+    "url": "https://www.publickey1.jp/blog/26/googlegvisorcncf.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-10-05T15:27:19Z",
+    "fetched_at": "2026-10-06T01:37:49.484441+00:00",
+    "summary": "Googleはサンドボックス型コンテナランタイムの「gVisor」をCloud Native Computing Foundation（CNCF）に寄贈したことを発表しました。 gVisorはコンテナ型仮想マシンの業界標準であるOCI（Op...…",
     "importance": "medium",
     "tags": [
       "it"
