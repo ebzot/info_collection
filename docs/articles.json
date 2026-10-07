@@ -598,6 +598,45 @@
     ]
   },
   {
+    "title": "NVIDIA製GPU「GeForce RTX 4090」「GeForce RTX 5090」などを中国に密輸した疑いでアメリカのテクノロジー企業CEOが逮捕される",
+    "url": "https://gigazine.net/news/20261007-ceo-charged-nvidia-gpu-smuggling-china/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 07 Oct 2026 08:00:00 +0900",
+    "fetched_at": "2026-10-07T00:18:13.758994+00:00",
+    "summary": "近年のアメリカは中国によるAI開発を安全保障上の脅威と見なしており、NVIDIAなどが製造する高性能GPUの中国への輸出を禁止しています。そんな中、アメリカのカリフォルニア州にあるテクノロジー企業のCEOが、総額3億ドル(約470億円)を越えるNVIDIAの高性能GPUを密輸したとして逮捕・起訴されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AIエージェント搭載ガジェットを自作できる「Muse Gadgets」、MetaがオープンソースのESP32マイクロチップファームウェアとLinux SDKを提供しユーザーがRaspberry Pi 5などのハードウェアにMuseを導入可能に",
+    "url": "https://gigazine.net/news/20261007-muse-gadgets/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 07 Oct 2026 07:00:00 +0900",
+    "fetched_at": "2026-10-07T00:18:14.263475+00:00",
+    "summary": "「Muse Gadgets」はESP32ボードやRaspberry Piといった既存のデバイスにMetaが開発したパーソナルAIエージェント「Muse」を導入することにより、オープンソースハードウェアガジェットを自作できるプラットフォームです。SDKを通じてディスプレイ・ボタン・センサー・アクチュエーターなどを接続することで、ユーザー独自の機能を持つデバイス…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "ユニバーサル・スタジオ・ハリウッドの新アトラクション「ワイルド・スピード：ハリウッド・ドリフト」に乗った客の絶叫に近隣住民から苦情が相次ぐ",
+    "url": "https://gigazine.net/news/20261007-universal-coaster-screams-noise/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 07 Oct 2026 06:00:00 +0900",
+    "fetched_at": "2026-10-07T00:18:14.504459+00:00",
+    "summary": "アメリカのユニバーサル・スタジオ・ハリウッドで2026年9月16日にオープンした新アトラクション「ワイルド・スピード：ハリウッド・ドリフト」をめぐり、「乗客の叫び声がうるさい」という苦情が近隣住民から相次いだ結果、ユニバーサル側は防音壁を追加するなどの対策を行うことを約束しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "iPhoneで動作しBonsai 27Bと同等性能で13倍高速なAI「Maple-Preview」が登場、ローカルAIがまた1歩前進",
     "url": "https://gigazine.net/news/20260805-maple-preview/",
     "source": "GIGAZINE",
@@ -6611,6 +6650,32 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "マイクロソフト、VS CodeにAIモデルのオーケストレーションで高品質低コストなAIを実現する「HydraFusion」をプレビュー実装",
+    "url": "https://www.publickey1.jp/blog/26/vs_codeaiaihydrafusion.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-10-06T15:47:53Z",
+    "fetched_at": "2026-10-07T00:18:12.370392+00:00",
+    "summary": "マイクロソフトは9月30日付けでリリースされたVisual Studio Code 1.140（以下、VS Code）で、複数のAIベンダから提供されているAIモデルをオーケストレーションすることでより高品質で低コストを実現するという「Hy...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "FDE（フォワードデプロイドエンジニアリング）によって開発されたAIエージェントの7割は使われず、FDEの名前で単なるコンサルティングが販売されるようになる危険が高まるとガートナーが予測",
+    "url": "https://www.publickey1.jp/blog/26/fdeai7fde.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-10-06T15:43:31Z",
+    "fetched_at": "2026-10-07T00:18:12.822560+00:00",
+    "summary": "米調査会社のガートナーは、ベンダーのFDE（フォワードデプロイドエンジニアあるいはフォワードデプロイドエンジニアリング）によって開発されたAIエージェントの70％が2028年までに企業に使われずに放棄されるだろう（Gartner Predi...…",
     "importance": "medium",
     "tags": [
       "it"
