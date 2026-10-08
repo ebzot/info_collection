@@ -598,6 +598,19 @@
     ]
   },
   {
+    "title": "光速を超えずに光より速く進むとどうなるのか？",
+    "url": "https://gigazine.net/news/20261007-faster-than-light/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 07 Oct 2026 21:00:00 +0900",
+    "fetched_at": "2026-10-08T00:39:43.510607+00:00",
+    "summary": "2026年10月、2026年度ノーベル物理学賞が「アイスキューブ・ニュートリノ観測所」の発案者であるフランシス・ハルツェン氏に授与されることが発表されました。このアイスキューブ・ニュートリノ観測所が観測する「チェレンコフ放射」の仕組み、具体的にはチェレンコフ放射の原理につながる「光速を超えるとどうなるのか」という疑問について、科学系YouTubeチャンネルの…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "NVIDIA製GPU「GeForce RTX 4090」「GeForce RTX 5090」などを中国に密輸した疑いでアメリカのテクノロジー企業CEOが逮捕される",
     "url": "https://gigazine.net/news/20261007-ceo-charged-nvidia-gpu-smuggling-china/",
     "source": "GIGAZINE",
@@ -2347,6 +2360,45 @@
     "published_at": "Thu, 09 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-08T21:25:14.643124+00:00",
     "summary": "ウェブサイトのログインやフォーム入力時には画像の中から特定の物体を選ぶもの、「私はロボットではありません」というチェックボックスをクリックするもの、パズルのピースを正しい位置に合わせるものなどさまざまな認証テストが使われています。こうした認証テストは「CAPTCHA」と呼ばれ人間とボットを見分けるために使われてきましたが、AIの進歩によって有効性が疑問視され…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Google公式オススメの検索とテクニカルSEOの基礎が学べる厳選YouTubeプレイリスト",
+    "url": "https://gigazine.net/news/20261008-google-search-fundamentals-technical-seo-youtube-playlists/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 08 Oct 2026 08:00:00 +0900",
+    "fetched_at": "2026-10-08T00:39:43.507775+00:00",
+    "summary": "Googleの公式SEO関連情報ポータルであるGoogle Search CentralのYouTubeチャンネルでは、検索・SEO関連の動画が2000本超も公開されており、動画を分かりやすくまとめた再生リストも存在します。従来の再生リストはシリーズ形式の構成となっているため、詳細な解説やエピソード形式で最新情報を追うのに適しているものの、ゼロから明確で順序…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "意思決定モデル「d1」が画像入力に対応、同一タスクでGPT-6.1 Solより高精度・高速・低コスト",
+    "url": "https://gigazine.net/news/20261008-d1-with-vision/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 08 Oct 2026 07:00:00 +0900",
+    "fetched_at": "2026-10-08T00:39:43.508864+00:00",
+    "summary": "意思決定モデル「d1」が画像入力に対応しました。d1は入力としてテキストと画像を同時に処理できる能力を持つことになり、既存の最先端モデルと比較して同等以上の性能を大幅に低いコストで実現します。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "生の鶏肉による食中毒を「青色光」で減らせる可能性、抗生物質に耐性を持つ菌にも効果あり",
+    "url": "https://gigazine.net/news/20261008-blue-light-chicken-campylobacter/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 08 Oct 2026 06:00:00 +0900",
+    "fetched_at": "2026-10-08T00:39:43.509668+00:00",
+    "summary": "生の鶏肉に付着したカンピロバクターは調理中に手や調理器具を介して他の食品へ移り、食中毒を引き起こすことがあります。イギリスのレディング大学と動植物衛生庁(APHA)の研究チームが、3種64株のカンピロバクターを使って青色光による殺菌の効果を検証しました。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
@@ -6650,6 +6702,19 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AWS、DuckDBをAurora PostgreSQLに統合。ETL不要で直接データレイクを読み取り可能にしたと発表",
+    "url": "https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-10-07T15:59:06Z",
+    "fetched_at": "2026-10-08T00:39:43.327246+00:00",
+    "summary": "Amazon Web Services（AWS）は、Amazon Aurora PostgreSQLにDuckDBを統合し、Apache Icebergなどで構築したデータレイクのデータを直接読み取って処理できるようになったことを発表しまし...…",
     "importance": "medium",
     "tags": [
       "it"
