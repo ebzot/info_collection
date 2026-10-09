@@ -2366,6 +2366,19 @@
     ]
   },
   {
+    "title": "AIトレーニング用のオープンな生物学データセット構築のためアメリカ政府が5億ドルを投資、Meta・Google DeepMind・Isomorphic Labsはそれぞれ3億ドル投資",
+    "url": "https://gigazine.net/news/20261008-virtual-biology-initiative/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 08 Oct 2026 22:51:00 +0900",
+    "fetched_at": "2026-10-09T00:55:24.640201+00:00",
+    "summary": "Metaのマーク・ザッカーバーグCEOと妻のプリシラ・チャン氏の出資によって誕生した非営利研究組織・Biohubが手がける、生命の予測モデル構築に向けた5カ年計画「Virtual Biology Initiative」に、アメリカのエネルギー省やGoogleも合流することが発表されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "Google公式オススメの検索とテクニカルSEOの基礎が学べる厳選YouTubeプレイリスト",
     "url": "https://gigazine.net/news/20261008-google-search-fundamentals-technical-seo-youtube-playlists/",
     "source": "GIGAZINE",
@@ -6292,6 +6305,45 @@
     ]
   },
   {
+    "title": "PS5のゲームをWindowsとLinuxでプレイ可能にするオープンソースのツール「AnyPS5」",
+    "url": "https://gigazine.net/news/20261009-anyps5/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 09 Oct 2026 07:00:00 +0900",
+    "fetched_at": "2026-10-09T00:55:24.632326+00:00",
+    "summary": "AnyPS5はPlayStation 5(PS5)のゲームをLinuxおよびWindowsでプレイ可能にすることを目的としたツールです。AnyPS5はエミュレーションや独立したランタイムプロセスを必要とせず、PS5のゲームをターゲットシステムのネイティブフォーマットに変換するリリンカーと、動的リンクに適したシステムPRXライブラリによって構成されています。 …",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "通販サイトがハッキングされて公式アプリから顧客に脅迫通知が届く",
+    "url": "https://gigazine.net/news/20261009-asos-hacked-app-push-notifications/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 09 Oct 2026 06:00:00 +0900",
+    "fetched_at": "2026-10-09T00:55:24.634038+00:00",
+    "summary": "2026年10月6日、イギリスのファッション通販サイト「ASOS」の公式アプリから、同社を脅迫するプッシュ通知が一部の顧客に届きました。通知はASOSの担当部署に宛てたもので、連絡に応じなければデータを公開すると脅す内容でした。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "フルスクリーン表示のメッセージを簡単に作成してリンクで共有可能な「BIGWORDS.PAGE」",
+    "url": "https://gigazine.net/news/20261009-bigwords-page/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 09 Oct 2026 00:15:00 +0900",
+    "fetched_at": "2026-10-09T00:55:24.639423+00:00",
+    "summary": "メッセージをURLの「#」の後ろに入力するだけで全画面表示の目立つメッセージを作成できる上にリンクとして共有可能で、、さらにフォントや色なども変更できるサービスが「BIGWORDS.PAGE」です。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "「Grokipedia」は2026年4月24日に12件の修正提案を処理したあと一切の更新が停止している",
     "url": "https://gigazine.net/news/20260807-grokipedia/",
     "source": "GIGAZINE",
@@ -6702,6 +6754,19 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "さくらインターネット、GPU専有によりトークン消費量を気にせず定額で利用できる「さくらのAI Engineプライベートエディション」提供開始を発表",
+    "url": "https://www.publickey1.jp/blog/26/gpuai_engine.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-10-08T15:49:01Z",
+    "fetched_at": "2026-10-09T00:55:24.454765+00:00",
+    "summary": "さくらインターネットは、GPUサーバ上で基盤モデルを展開しマネージドサービスとして提供する「さくらのAI Engine」を、企業がGPUを専有して使える「さくらのAI Engine プライベートエディション」の提供開始を発表しました。 お知...…",
     "importance": "medium",
     "tags": [
       "it"
