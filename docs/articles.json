@@ -4121,6 +4121,32 @@
     ]
   },
   {
+    "title": "バックアップはなぜ難しいのか、ファイルをコピーするだけでは済まない理由とは？",
+    "url": "https://gigazine.net/news/20261010-data-backups-arent-simple/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 10 Oct 2026 09:00:00 +0900",
+    "fetched_at": "2026-10-10T00:25:28.016277+00:00",
+    "summary": "故障や操作ミスなどによって大切なデータが失われることがあるため、日頃からバックアップを取っておくことは重要です。しかし、データのバックアップは単にファイルを別の場所にコピーするだけでは十分とは限りません。ソフトウェアエンジニアのアレクサンダル・フィリポフスキー氏が、バックアップの仕組みを整えるにつれて増えていく課題を、自身の体験を交えて説明しています。 続き…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "月面都市は「水がないため不可能」と専門家",
+    "url": "https://gigazine.net/news/20261010-no-cities-on-the-moon/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 10 Oct 2026 08:00:00 +0900",
+    "fetched_at": "2026-10-10T00:25:28.019935+00:00",
+    "summary": "月の上に都市を造る考えは古くから創作物等でも一般的で、技術が進歩した現在では実際に月面都市を造ろうとする動きも見られます。ただ、問題になるのが生命維持に不可欠な「水」。月には水が存在する可能性が指摘されていますが、この水をどんなにうまく使っても、月面都市は維持できないと専門家は指摘しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "最大35日間駆動で睡眠時間や血中酸素濃度も測定してくれるアナログ時計風スマートウォッチ「ScanWatch Vitals」を使ってみた",
     "url": "https://gigazine.net/news/20260808-scanwatch-vitals/",
     "source": "GIGAZINE",
@@ -6299,6 +6325,45 @@
     "published_at": "Fri, 10 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-09T21:30:38.532172+00:00",
     "summary": "FBIとGoogleが、スマートテレビなど200万台超の消費者向けデバイスを組み込んでいたとされるレジデンシャルプロキシネットワーク「NetNut」を摘発・妨害しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "自動運転技術は毎年58万人の命を救う可能性がある",
+    "url": "https://gigazine.net/news/20261009-self-driving-tech-prevent-58k-deaths-every-year/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 09 Oct 2026 21:30:00 +0900",
+    "fetched_at": "2026-10-10T00:25:28.020886+00:00",
+    "summary": "自動運転車や自動運転技術の安全性についてまだまだ疑問を持つ人は多いとみられますが、自動運転車が交通事故を起こす割合は人間が運転している場合に比べて大幅に低く、事故による負傷者もはるかに少ないことが研究で示されています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "jevやGPT-6 Luna Decisionsなどの素早い判断に特化した確率モデルがパックマンをプレイするベンチマーク「jevman」",
+    "url": "https://gigazine.net/news/20261009-jevman/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 09 Oct 2026 20:00:00 +0900",
+    "fetched_at": "2026-10-10T00:25:28.021719+00:00",
+    "summary": "「jevman」は、AIにパックマンをプレイさせて、状況に応じた判断能力を比較するベンチマークです。 AI向けのAPIサービスを提供するOpperが公開しており、6種類のAIモデルにそれぞれ100回ずつパックマンをプレイさせ、その得点や判断速度、実行コストなどを比較しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "2026年10月9日のヘッドラインニュース",
+    "url": "https://gigazine.net/news/20261009-headline/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 09 Oct 2026 19:33:00 +0900",
+    "fetched_at": "2026-10-10T00:25:28.022797+00:00",
+    "summary": "とんかつ専門店「松のや」が、2026年10月14日(水)15時から新メニュー「ジンギスカン定食」を発売すると発表しました。価格は税込1190円で、一部店舗を除く全国の松のやで販売されます。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
