@@ -2990,6 +2990,32 @@
     ]
   },
   {
+    "title": "AnthropicのAIが未解決殺人事件に関する虚偽の情報を提供",
+    "url": "https://gigazine.net/news/20261011-anthropic-ai-gave-fake-tip-unsolved-homicide/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 11 Oct 2026 09:00:00 +0900",
+    "fetched_at": "2026-10-11T00:03:31.845588+00:00",
+    "summary": "2026年10月9日、フィラデルフィア警察が「AnthropicのAIモデルが未解決殺人事件に関する虚偽の情報を送信してきた」と発表しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "誰が自殺願望を持つかを予測するのは難しいので自らを銃で撃てないようにする方が簡単だという専門家の提言",
+    "url": "https://gigazine.net/news/20261011-hard-to-predict-suicidal/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 11 Oct 2026 08:00:00 +0900",
+    "fetched_at": "2026-10-11T00:03:31.863069+00:00",
+    "summary": "銃社会のアメリカでは、自殺者の半数以上が銃器により自殺しています。自殺を減らす取り組みは世界各国で行われていますが、それでも自殺者を予測するのは大変困難で、アメリカでは銃を禁止する方がよっぽど効果的だと専門家が主張しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "18歳以下入場禁止なワンダーフェスティバル 2026[夏]の成人向けエリアのアイテムいろいろ",
     "url": "https://gigazine.net/news/20260809-over19-wf2026s/",
     "source": "GIGAZINE",
@@ -4115,6 +4141,45 @@
     "published_at": "Sat, 11 Jul 2026 17:00:00 +0900",
     "fetched_at": "2026-07-11T21:17:01.797419+00:00",
     "summary": "MetaがAIを使ってInstagram上の写真を編集する機能を廃止しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "ADHDの人は便秘や過敏性腸症候群などの「腸の問題」を抱えやすいことが約200万人の分析で判明",
+    "url": "https://gigazine.net/news/20261010-adhd-higher-odds-gut-problems/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 10 Oct 2026 23:00:00 +0900",
+    "fetched_at": "2026-10-11T00:03:31.865174+00:00",
+    "summary": "注意欠如多動症(ADHD)は不注意や衝動性を特徴とする発達障害であり、世界全体では成人の2～4％がADHDを持っているといわれています。イギリスのウォーリック大学が主導した研究では、ADHDを持つ人は便秘や過敏性腸症候群(IBS)、下痢といった胃腸症状を経験する可能性が著しく高いとの結果が示されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "世界で発生するがん症例全体の約12％は感染症が原因である可能性が高いことがWHOの研究で示される",
+    "url": "https://gigazine.net/news/20261010-cancers-infection/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 10 Oct 2026 19:00:00 +0900",
+    "fetched_at": "2026-10-11T00:03:31.866407+00:00",
+    "summary": "がん治療に特化した医学専門誌のThe Lancet Oncologyで2026年9月末に世界保健機関(WHO)が発表した研究では、2024年に世界で発生したがん症例のうち、約12％は感染症が原因である可能性が高いことが示されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "無料のオープンソースEPUB・PDFリーダー「Readest」、Windows・Linux・macOS・Android・iOS・ブラウザ・KOReaderでハイライト・メモ・分割画面読書・AIテキスト読み上げ・AI自動翻訳・クラウド同期が可能",
+    "url": "https://gigazine.net/news/20261010-readest/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 10 Oct 2026 18:00:00 +0900",
+    "fetched_at": "2026-10-11T00:03:31.867161+00:00",
+    "summary": "電子書籍のハイライトやメモだけでなく、2冊を横並びにする分割画面読書・AI音声読み上げ・文章や書籍全体の翻訳・端末間のクラウド同期まで利用でき、Windows・Linux・macOS・Android・iOS・ブラウザに対応する「Readest」が公開されています。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
