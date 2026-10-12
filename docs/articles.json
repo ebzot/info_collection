@@ -2990,6 +2990,58 @@
     ]
   },
   {
+    "title": "スマホ依存を解消するためにiPhoneの機能制限システム「Apple Configurator」が役立つ",
+    "url": "https://gigazine.net/news/20261011-apple-configurator/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 11 Oct 2026 23:11:00 +0900",
+    "fetched_at": "2026-10-12T00:08:24.564927+00:00",
+    "summary": "食事中でも布団の中でもスマートフォンを触り続けてしまうという人は多いはず。iPhoneはApple公式システムの「Apple Configurator」を使うことでインストールするアプリを制限してSNSや動画アプリの使いすぎを防ぐことができます。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "折りたたみスマホ8世代分の進化を薄型ボディに凝縮した「Galaxy Z Fold8 Ultra」「Galaxy Z Fold8」「Galaxy Z Flip8」外観レビュー",
+    "url": "https://gigazine.net/news/20261011-samsung-galaxy-z-fold8-ultra-fold8-flip8-appearance/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 11 Oct 2026 23:05:00 +0900",
+    "fetched_at": "2026-10-12T00:08:24.611349+00:00",
+    "summary": "Samsungが本体を横折りで折りたためるスマートフォン「Galaxy Z Fold8 Ultra」「Galaxy Z Fold8」と、縦折りで折りたためるスマートフォン「Galaxy Z Flip8」を2026年8月にリリースしました。Foldは8世代目、Flipは7世代目で、それぞれ歴代最薄ボディに進化を遂げているということなので、どんな端末なのかを借り…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「出産した回数」が母親の寿命に影響を与える可能性がある",
+    "url": "https://gigazine.net/news/20261011-number-of-kids-affect-lifespan/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 11 Oct 2026 20:00:00 +0900",
+    "fetched_at": "2026-10-12T00:08:24.691557+00:00",
+    "summary": "近年は特に先進国における出生率低下が著しく、多くの国では合計特殊出生率が人口を維持するのに必要な「2.1」を下回っています。そんな中、フィンランドのヘルシンキ大学が主導した研究では、「出産した回数」が母親の寿命に影響を与える可能性があることがわかりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "既に実行中のWireGuardホスト向けの集中型Web UI「wg-admin」、無料でセルフホスト可能",
+    "url": "https://gigazine.net/news/20261011-wg-admin/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 11 Oct 2026 18:00:00 +0900",
+    "fetched_at": "2026-10-12T00:08:24.811138+00:00",
+    "summary": "WireGuardでVPNを運用していると、新しい端末を追加するたびに公開鍵やIPアドレスを確認して設定ファイルを書き換える作業が発生します。「wg-admin」は既存のWireGuard設定をそのまま引き継ぎ、Peerの追加や編集、QRコードの生成、接続状況の確認などをブラウザから行えるオープンソースの管理ツールです。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "AnthropicのAIが未解決殺人事件に関する虚偽の情報を提供",
     "url": "https://gigazine.net/news/20261011-anthropic-ai-gave-fake-tip-unsolved-homicide/",
     "source": "GIGAZINE",
@@ -5194,6 +5246,19 @@
     "published_at": "Mon, 13 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-12T21:16:58.886783+00:00",
     "summary": "親元で暮らせない子どもは児童養護施設などの集団養育施設で生活することがありますが、こうした施設では交代制の職員が多くの子どもを世話するため、特定の養育者と継続的な関係を築くのが難しくなる場合があります。また、子ども1人1人の反応に合わせた会話や遊び、周囲を探索する経験が限られることで、情緒・社会性・認知・感覚・運動面の発達に影響が出る可能性があるとのこと。ア…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "似たような精神疾患を抱える人々は一緒にいることが多いので家族内でのリスクを高めるという研究結果",
+    "url": "https://gigazine.net/news/20261012-people-similar-mental-health/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 12 Oct 2026 08:00:00 +0900",
+    "fetched_at": "2026-10-12T00:08:24.415387+00:00",
+    "summary": "「人は自分と似た人に引かれる」というのはよく言われますが、これは精神疾患を抱える人に特に強く当てはまる可能性があることが研究で分かりました。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
