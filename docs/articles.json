@@ -1287,6 +1287,45 @@
     ]
   },
   {
+    "title": "モバイルバッテリーが機内で爆発、乗客と乗務員が消火する様子を収めた動画が公開される",
+    "url": "https://gigazine.net/news/20261013-indigo-flight-power-bank-fire/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 13 Oct 2026 11:17:00 +0900",
+    "fetched_at": "2026-10-13T02:21:07.015654+00:00",
+    "summary": "インドの格安航空会社であるIndiGoで、乗客の持ち込んだモバイルバッテリーが発火し、緊急着陸する事態が発生しました。乗客によって撮影された機内の様子がSNSで公開されています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Googleが税込2万6800円の画面付きフィットネストラッカー「Google Fitbit Edge」を発表、バッテリーは充電1回で最大1週間持続",
+    "url": "https://gigazine.net/news/20261013-google-fitbit-edge/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 13 Oct 2026 11:10:00 +0900",
+    "fetched_at": "2026-10-13T02:21:07.017193+00:00",
+    "summary": "Googleが新型スマートウォッチ「Google Fitbit Edge」を発表しました。多機能なスマートウォッチであるGoogle Pixel Watchと、シンプルで画面を持たないFitbit Airのちょうど中間にあたるスマートウォッチで、1回の充電で1週間持続するバッテリーの持ちが売りとなっています。価格は2万6800円で、発売日は10月27日です。",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "スマート家電を「使いたい」「もう使っている」人が半数超えのGIGAZINE読者にスマートホームの理想と現実を聞いてみた",
+    "url": "https://gigazine.net/news/20261013-gigazine-user-smart-home/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 13 Oct 2026 09:00:00 +0900",
+    "fetched_at": "2026-10-13T02:21:07.017989+00:00",
+    "summary": "エアコンの電源を入れたり照明の明るさを変えたりとさまざまな家電を手元のスマートフォンやPCで操作できる「スマート家電」について、GIGAZINEが2026年夏に実施した読者アンケートで利用状況や今後の希望を調べてみました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "人気店の1日10食限定メニューを再現したハウス食品の「地球のカレー ＜タイ風マッサマンカレー＞」を食べてみた",
     "url": "https://gigazine.net/news/20260811-housefoods-chikyuu-no-curry-massaman/",
     "source": "GIGAZINE",
@@ -6949,6 +6988,32 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「情シスって楽しい」がテーマ。チームみらい安野党首、ひろゆき氏、OpenID Foundation崎村氏らが登壇。BTCONJP 2026［PR］",
+    "url": "https://www.publickey1.jp/blog/26/openid_foundationbtconjp2026.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-10-12T16:11:37Z",
+    "fetched_at": "2026-10-13T02:21:06.779259+00:00",
+    "summary": "進化し続けるITを企業において最適な形で取り入れ続け、ビジネスと統合していく情報システム部門の役割は、AIの登場でビジネスそのものが大きな変革の波を受けざるを得ない現在、ますます重要さを増しています。 その情報システム部門に在籍している有志...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Deno開発元がCloudflareに合流。Denoの開発は終了へ、今後はCloudflare WorkersとDurable Objectsのオープンソース実装に注力",
+    "url": "https://www.publickey1.jp/blog/26/denocloudflaredenocloudflare_workersdurable_objects.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-10-12T15:46:53Z",
+    "fetched_at": "2026-10-13T02:21:06.782512+00:00",
+    "summary": "JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ...…",
     "importance": "medium",
     "tags": [
       "it"
