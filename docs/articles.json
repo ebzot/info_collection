@@ -4069,6 +4069,19 @@
     ]
   },
   {
+    "title": "エンジニアが勤務先の管理者アカウントをロックして約1億円相当の身代金を要求したとして有罪判決を受ける",
+    "url": "https://gigazine.net/news/20261017-cyberattack-engineer-sentenced/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 17 Oct 2026 08:00:00 +0900",
+    "fetched_at": "2026-10-16T23:11:56.832842+00:00",
+    "summary": "インフラエンジニアとして働いていたアメリカ人が、勤務先の企業が管理するアカウントのパスワードをリセットするなどして他の社員を閉め出し、復旧の条件として多額の身代金を要求していたことが分かりました。このエンジニアは匿名で脅迫していましたが、監視カメラの映像などから身元が割り出されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "無料でMySQL・PostgreSQL・SQL Server・MongoDB・SQLiteなどのデータベースを操作できる「DbGate」、ブラウザ経由だけでなくWindows・Linux・Macアプリもあり",
     "url": "https://gigazine.net/news/20260815-dbgate/",
     "source": "GIGAZINE",
@@ -6312,6 +6325,58 @@
     "published_at": "Fri, 17 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-16T21:21:53.053099+00:00",
     "summary": "年を取るにつれて人の顔を見分ける能力が低下することは知られていますが、その仕組みは十分に解明されていません。香港科技大学や香港理工大学などの研究チームは顔認識実験の結果から、顔を見る際の目の動かし方が不安定になることが加齢に伴う顔認識能力の低下の一因になり得ると指摘しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "マチ★アソビ Vol.31前夜祭は3時間超でトークありクイズありの大祭りに",
+    "url": "https://gigazine.net/news/20261016-pre-event-machiasobi31/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 16 Oct 2026 22:35:00 +0900",
+    "fetched_at": "2026-10-16T23:11:56.838605+00:00",
+    "summary": "総合エンタメイベント「マチ★アソビ vol.31」が2026年10月17日(土)・18日(日)に徳島市で開催されるのに先駆けて、16日(金)16時から「前夜祭」が開催されました。前年10月に開催されたvol.29の前夜祭はおよそ1時間のイベントでしたが、今回は3時間超と、マチ★アソビの中のイベントとしても特に長丁場のものとなりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Perplexityが安全な自律型AIエージェント構築支援のためサンドボックスプラットフォーム「SPACE」をオープンソース化",
+    "url": "https://gigazine.net/news/20261016-perplexity-space/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 16 Oct 2026 21:30:00 +0900",
+    "fetched_at": "2026-10-16T23:11:56.839736+00:00",
+    "summary": "パーソナルエージェント分野の先駆者を標榜するPerplexityが、開発者がより安全なエージェントシステムを構築するための基盤を提供し、業界全体で保護体制を強化していくため、サンドボックスプラットフォーム「SPACE」をオープンソース化すると発表しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Googleが「魔法状態の培養」を量子プロセッサ「Willow」で実証、量子ビットのエラーを約40分の1に減らすことに成功",
+    "url": "https://gigazine.net/news/20261016-google-quantum-ai-magic-state-cultivation/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 16 Oct 2026 20:50:00 +0900",
+    "fetched_at": "2026-10-16T23:11:56.840796+00:00",
+    "summary": "Googleの量子コンピューター研究チームであるGoogle Quantum AIが、量子コンピューターの実用化に向けた重要な技術「魔法状態の培養(Magic State Cultivation)」を実証したと発表しました。Googleの量子プロセッサ「Willow」を用いた実験では、従来の方法と比べてエラーを約40分の1に減らすことに成功したとのことです。",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「マチ★アソビ vol.31」イベントスケジュール一覧まとめ",
+    "url": "https://gigazine.net/news/20261016-event-schedule-machiasobi31/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 16 Oct 2026 20:10:00 +0900",
+    "fetched_at": "2026-10-16T23:11:56.841617+00:00",
+    "summary": "徳島市まるごとがアニメ・ゲーム・マンガなどに染まる一大イベント「マチ★アソビ vol.31」が2026年10月17日(土)・18日(日)に開催されます。イベント情報はフライヤーにまとめられていますが、観覧計画を立てる参考となるように、日付・場所別のスケジュール表を作成しました。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
