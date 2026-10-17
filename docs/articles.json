@@ -3094,6 +3094,32 @@
     ]
   },
   {
+    "title": "「NieR(ニーア)」シリーズのゲーミングチェアやPCケースが「マチ★アソビ vol.31」の会場で販売されていた、ヨコオタロウ氏のサイン会も開催",
+    "url": "https://gigazine.net/news/20261018-nier-automata-machiasobi31/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 18 Oct 2026 07:00:00 +0900",
+    "fetched_at": "2026-10-17T22:48:56.083181+00:00",
+    "summary": "大人気ゲーム「NieR(ニーア)」シリーズのデザインを施したゲーミングチェアやPCケースがマチ★アソビ vol.31の会場で販売されていました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "『銀河特急 ミルキー☆サブウェイ』のカート＆マックスのパネル展示を見てきた【マチ★アソビ vol.31】",
+    "url": "https://gigazine.net/news/20261018-milky-subway-machiasobi31/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 18 Oct 2026 00:31:00 +0900",
+    "fetched_at": "2026-10-17T22:48:56.149055+00:00",
+    "summary": "『銀河特急 ミルキー☆サブウェイ』のフォトスポットがマチ★アソビ vol.31の会場に設置されていました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "女性創業者のスタートアップが株式上場や大企業による買収を達成しにくいのはなぜか？",
     "url": "https://gigazine.net/news/20260816-women-founders-start-ups-exit-less/",
     "source": "GIGAZINE",
@@ -4063,6 +4089,32 @@
     "published_at": "Sat, 18 Jul 2026 00:00:00 +0900",
     "fetched_at": "2026-07-17T21:16:49.061408+00:00",
     "summary": "お知らせその1。GIGAZINEのX(旧Twitter)公式アカウントではその日に更新された記事だけではなく、同月同日に掲載された過去記事を紹介するべく自動投稿しています。これまでこの自動投稿は「記事のタイトルと掲載年、記事のURLをポストする」というスタイルだったのですが、2026年4月から「まず記事のタイトルとトップ画像のみを投稿し、リプライする形で記事…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "国立公文書館の所蔵文書をコンテンツ産業に活用してもらう試みが進行中",
+    "url": "https://gigazine.net/news/20261017-archives-machiasobi31/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 17 Oct 2026 23:45:00 +0900",
+    "fetched_at": "2026-10-17T22:48:56.151937+00:00",
+    "summary": "マチ★アソビ vol.31で、内閣府大臣官房参事官・国立公文書館次長で村上耕司さんが「国立公文書館はマチ★アソビの夢を見るか？～クリエイターのための活用術～」と題したイベントを開催しました。マチ★アソビは、今や国の成長戦略に位置づけられたコンテンツ産業の関係者が集う場であり、約180万冊の資料を収蔵する国立公文書館として、所蔵文書の活用を目指すねらいがありま…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "マチ★アソビ vol.31では眉山の上にサウナやキャンプ場が用意されている",
+    "url": "https://gigazine.net/news/20261017-sauna-camp-machiasobi31/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 17 Oct 2026 23:38:00 +0900",
+    "fetched_at": "2026-10-17T22:48:56.153177+00:00",
+    "summary": "徳島の街を舞台としたアニメやゲームの総合エンタメイベント「マチ★アソビ vol.31」では、徳島市にそびえる眉山(びざん)でも各種イベントが開催されており、山頂付近やサウナに入ったりテントを設営してキャンプしたりできます。どんな感じの雰囲気か分かるようにサウナとキャンプエリアの様子を撮影してきました。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
@@ -7209,6 +7261,19 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性",
+    "url": "https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-10-17T15:27:18Z",
+    "fetched_at": "2026-10-17T22:48:55.701782+00:00",
+    "summary": "悪意のある攻撃者がLinuxの仮想マシンを不正に操作することで、仮想マシンの境界を抜けてホスト側のLinux OSで不正なコードを実行できる可能性がある脆弱性「PwnEscape」（CVE-2026-99999）の情報が公開されています。 ...…",
     "importance": "medium",
     "tags": [
       "it"
