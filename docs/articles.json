@@ -3094,6 +3094,32 @@
     ]
   },
   {
+    "title": "コロコロ連載の人気作を全力でアニメ化する『運命の巻戻士』ステージイベントにクロノ役・小村将さん登場",
+    "url": "https://gigazine.net/news/20261018-makimodosi-machiasobi31/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 18 Oct 2026 23:05:00 +0900",
+    "fetched_at": "2026-10-18T22:42:07.396908+00:00",
+    "summary": "2022年から月刊コロコロコミックに連載され、単行本が既刊13巻を数える木村風太さんの人気漫画『運命の巻戻士』がアニメ化され、2027年4月から放送されます。マチ★アソビではこれまでに2度のステージイベントが行われ、3度目となる今回は主人公・クロノ役の小村将さんが初めて参加しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "血液検査の前に必ず絶食する必要はないという研究結果",
+    "url": "https://gigazine.net/news/20261018-fasting-duration-differences/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 18 Oct 2026 19:00:00 +0900",
+    "fetched_at": "2026-10-18T22:42:07.397940+00:00",
+    "summary": "血液検査を受ける前は、血糖値等の急激な変化を避けるため、基本的にはしばらく絶食するよう案内されます。このような絶食に意味があるのかについて、韓国の研究者らが調査しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "「NieR(ニーア)」シリーズのゲーミングチェアやPCケースが「マチ★アソビ vol.31」の会場で販売されていた、ヨコオタロウ氏のサイン会も開催",
     "url": "https://gigazine.net/news/20261018-nier-automata-machiasobi31/",
     "source": "GIGAZINE",
@@ -5317,6 +5343,32 @@
     ]
   },
   {
+    "title": "天井に取り付けるシーリングファンのデザインがすさまじいことになっている理由",
+    "url": "https://gigazine.net/news/20261019-ceiling-fans/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 19 Oct 2026 07:00:00 +0900",
+    "fetched_at": "2026-10-18T22:42:07.394962+00:00",
+    "summary": "天井に取り付けて室内の空気を循環させる「シーリングファン」は、扇風機や換気扇のような羽がくるくる回るシンプルなものから、一見するとファンには見えないようなものまで、さまざまなデザインが存在しています。建築やデザインについて扱うブログ「McMansionHell」のケイト・ワグナー氏が、シーリングファンの現状について取り上げています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "人気アニメの動画をダウンロードしたつもりが中身はマルウェアだった話",
+    "url": "https://gigazine.net/news/20261019-torrent-sites-malware/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 19 Oct 2026 06:00:00 +0900",
+    "fetched_at": "2026-10-18T22:42:07.396048+00:00",
+    "summary": "Sonarrユーザーがトレントサイトにアップロードされた実行ファイル(.exe)形式のマルウェアに遭遇した事例を通して、発見の経緯・詳細な技術分析・推奨される対策について解説していました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "ナンバープレート情報検索について「裁判官署名の令状を取得するのが常識」と電子フロンティア財団が改めて非難",
     "url": "https://gigazine.net/news/20260817-police-need-to-get-a-warrant-to-search-alpr/",
     "source": "GIGAZINE",
@@ -7261,6 +7313,19 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "マイクロソフト、.NETのツールチェーンマネージャ「dotnetup」プレビュー公開。複数バージョンの.NET環境を管理可能",
+    "url": "https://www.publickey1.jp/blog/26/netdotnetupnet.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-10-18T15:35:52Z",
+    "fetched_at": "2026-10-18T22:42:06.683132+00:00",
+    "summary": "マイクロソフトは、.NETの各種コマンドラインツールやC#コンパイラ、ビルドエンジン、ランタイムなどを含む.NETのツールチェーンをまとめてインストールし、バージョン管理などができるツールチェーンマネージャ「dotnetup」をパブリックプ...…",
     "importance": "medium",
     "tags": [
       "it"
