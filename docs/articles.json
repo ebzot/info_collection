@@ -1170,6 +1170,45 @@
     ]
   },
   {
+    "title": "コンビニのおにぎり1個に払える金額は？GIGAZINE読者から圧倒的支持を集める3大コンビニは？",
+    "url": "https://gigazine.net/news/20261020-gigazine-convenience-store-rice-ball/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 20 Oct 2026 09:00:00 +0900",
+    "fetched_at": "2026-10-20T00:03:30.221955+00:00",
+    "summary": "総務省統計局によると、2021年9月から60カ月連続で消費者物価指数(CPI)は上昇し続けています。物価が上がり続ける日本において、「コンビニのおにぎり1個当たり、いくらまで許せるか？」を、GIGAZINE読者に聞いてみました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "エミュレーターを使わずにブラウザ上でPSPゲームが動作するというプロジェクト「PSP Web Recomp」",
+    "url": "https://gigazine.net/news/20261020-psp-web-recomp/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 20 Oct 2026 08:00:00 +0900",
+    "fetched_at": "2026-10-20T00:03:30.223296+00:00",
+    "summary": "PSPゲームをエミュレーターを介することなくウェブブラウザで実行できるというプロジェクト「PSP Web Recomp」を、ソフトウェアエンジニアのsnuri00氏がGitHubで公開しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "イギリスとアメリカをつないでいた極秘ホットラインプロジェクト「SIGSALY」とは？",
+    "url": "https://gigazine.net/news/20261020-sigsaly/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 20 Oct 2026 07:00:00 +0900",
+    "fetched_at": "2026-10-20T00:03:30.224078+00:00",
+    "summary": "第二次世界大戦時、アメリカとイギリスは敵国に通信を傍受される心配のない、極秘ホットラインの「SIGSALY」を運用していました。このSIGSALYについて、イギリスの国立博物館組織である帝国戦争博物館が解説しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "Appleの「カメラ搭載AirPods」がリリース間近らしいことがmacOSリリース候補版内のファイルから判明",
     "url": "https://gigazine.net/news/20260818-camera-equipped-airpods/",
     "source": "GIGAZINE",
@@ -7313,6 +7352,32 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AWS LambdaでNext.jsやHonoなどNode.jsフレームワークとアプリをそのままデプロイ、実行できる「AWS Lambda Web Functions」発表",
+    "url": "https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-10-19T15:49:22Z",
+    "fetched_at": "2026-10-20T00:03:30.102238+00:00",
+    "summary": "Amazon Web Services（AWS）は、サーバレス基盤のAWS Lambda上でNext.jsやExpress、Hono、FastifyなどのNode.js用フレームワークとそのアプリケーションをそのままデプロイして実行できる新...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AWS Transform、Azure Functions用のコードをAWS Lambda用に変換など、Microsoft AzureからAWSへの移行に対応",
+    "url": "https://www.publickey1.jp/blog/26/aws_transformazure_functionsaws_lambdamicrosoft_azureaws.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-10-19T15:47:48Z",
+    "fetched_at": "2026-10-20T00:03:30.107446+00:00",
+    "summary": "Amazon Web Services（AWS）は、Azure SDKで書かれた.NETアプリケーションをAWS SDKを用いたコードに変換する新機能をAWS Transformに搭載したと発表しました。 これによりMicrosoft Az...…",
     "importance": "medium",
     "tags": [
       "it"
