@@ -221,6 +221,32 @@
     ]
   },
   {
+    "title": "ヒッタイト王国の粘土板文書131枚がトルコで発掘される、3400年前の流行病や当時の兵站などが明らかに",
+    "url": "https://gigazine.net/news/20261021-hittite-royal-archive-tablets-turkiye/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 21 Oct 2026 08:00:00 +0900",
+    "fetched_at": "2026-10-20T23:34:36.104094+00:00",
+    "summary": "トルコ文化観光省が、紀元前17～13世紀に栄えたヒッタイト王国の遺跡で行われた2026年の発掘調査で、王室の粘土板文書および断片が131枚も発掘されたと報告しました。これらの粘土板文書には3400年前に発生した熱病の流行を記したものや、当時の兵站(へいたん)に関わる文書などが含まれています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "WineがOpenBSDに移植される",
+    "url": "https://gigazine.net/news/20261021-openbsd-ports-wine/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 21 Oct 2026 06:00:00 +0900",
+    "fetched_at": "2026-10-20T23:34:36.105931+00:00",
+    "summary": "Windows互換レイヤーのWineについて、OpenBSD Portsで新たなポート提案が行われました。これはWineがOpenBSDに導入されることになったことを意味し、ひいてはOpenBSDで64ビットWindowsアプリケーションを実行できる可能性を示唆しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "広告ブロッカー「uBlock Origin」がFacebook広告のブロックを断念",
     "url": "https://gigazine.net/news/20260819-ublock-origin-facebook-ads/",
     "source": "GIGAZINE",
@@ -1164,6 +1190,32 @@
     "published_at": "Tue, 21 Jul 2026 21:00:00 +0900",
     "fetched_at": "2026-07-21T21:27:13.411606+00:00",
     "summary": "AIを用いたコーディング手法「バイブコーディング」によりアプリの開発が高速化しており、2026年5月までの6カ月間にリリースされたスマートフォンゲームが前年同期比のほぼ倍まで増加していたり、2026年第1四半期の世界のアプリリリース総数が前年比60％増加していたりと、アプリ開発ブームをAIがけん引しているとみられます。その一方でダウンロード数の増加は2％程度…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "同じ問題を解決してもAIによってコードの増加量に大きな差、AIモデルを比較するベンチマーク「Parsimony」が登場",
+    "url": "https://gigazine.net/news/20261020-parsimony/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 20 Oct 2026 23:00:00 +0900",
+    "fetched_at": "2026-10-20T23:34:36.107013+00:00",
+    "summary": "AIがプログラムを修正する際に追加したコードと削除したコードの差を測定するオープンソースのベンチマーク「Parsimony」が公開されました。従来のベンチマークで重視されてきた問題の解決率やコストに加えて、コードの増加量からAIモデルを比較できるのが特徴です。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "なんと23の主要なオープンソースプロジェクトのうち11は1人または2人で運営されている実態が明らかに",
+    "url": "https://gigazine.net/news/20261020-open-source-projects/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 20 Oct 2026 22:00:00 +0900",
+    "fetched_at": "2026-10-20T23:34:36.108322+00:00",
+    "summary": "Redditユーザーが、スマートフォン・ブラウザ・サーバーが依存している23の主要なオープンソースプロジェクトの履歴から、プロジェクトのメンテナーについて記録する調査を行いました。その結果、23のプロジェクトのうち11では、過去1年間に定期的に変更を加えた開発者が1人または2人しかいなかったことが判明しました。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
@@ -7352,6 +7404,19 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「Cloudflare OS」のマネージドサービス提供へ。GitHubとの接続やGmailとの連携強化など",
+    "url": "https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-10-20T15:10:05Z",
+    "fetched_at": "2026-10-20T23:34:35.876055+00:00",
+    "summary": "Cloudflareは、AIを活用した業務のためのプラットフォームとなる「Cloudflare OS」のマネージドサービスを発表しました。現在ウェイティングリストへの登録を募集しています。 AIを活用した業務アプリのプラットフォーム Clo...…",
     "importance": "medium",
     "tags": [
       "it"
