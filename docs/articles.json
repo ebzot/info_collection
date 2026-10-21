@@ -2080,6 +2080,58 @@
     ]
   },
   {
+    "title": "神の如く自由な都市開発を行うのではなく市民の要望を聞き建設計画には議会の承認が必要となる都市シミュレーター「Permit Pending」",
+    "url": "https://gigazine.net/news/20261022-permit-pending/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 22 Oct 2026 08:00:00 +0900",
+    "fetched_at": "2026-10-21T23:51:45.676623+00:00",
+    "summary": "シムシティのような都市シミュレーターでは、プレイヤーは予算の許す限り神の如く自由に都市開発を行えます。しかし、実際には開発計画が議会の承認を得られなかったり、住民から反対されたりと、さまざまな障害が発生するものです。そんな実際に起こるであろうさまざまな障害まで再現した、よりリアルな都市シミュレーターが「Permit Pending」です。無料でプレイできるの…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "ディープウォーター・ホライズン原油流出事故から16年が経過してもメキシコ湾の深海生物は約6割減ったまま回復していない実態が明らかに",
+    "url": "https://gigazine.net/news/20261022-deepwater-horizon-deep-sea-life/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 22 Oct 2026 07:00:00 +0900",
+    "fetched_at": "2026-10-21T23:51:45.678187+00:00",
+    "summary": "2010年にメキシコ湾で起きたディープウォーター・ホライズン原油流出事故から16年が経過した2026年10月19日、アメリカのノバ・サウスイースタン大学などの研究チームが深海生物の個体数に関する研究結果を発表しました。2011～2023年の調査データを分析したところ、調査が終了した2023年になっても個体数は2011年初めの水準に戻っていなかったとのことです…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "eMudhraで侵害された8つの認証局すべての秘密鍵はなんとたった「1バイト」で秘密鍵の1つは「4」、Mozilla・Microsoft・Apple・Chromeのルートプログラムや多くの下流トラストストアによって信頼されているルート証明書に連鎖",
+    "url": "https://gigazine.net/news/20261022-emudhra-problem/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 22 Oct 2026 06:00:00 +0900",
+    "fetched_at": "2026-10-21T23:51:45.679127+00:00",
+    "summary": "2026年10月20日、eMudhraの中間認証局(CA)証明書8件の秘密鍵が侵害されたことが明らかになりました。侵害された証明書はMozilla・Microsoft・Apple・Chromeなどの主要なルートプログラムおよび多くの下流トラストストアによって信頼されているルートに連鎖していたため、攻撃者は侵害された中間CAの秘密鍵を悪用して様々なウェブサイト…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "PHPの重大脆弱性「PHP2Shell」はセキュリティ企業のCalifとWizがAIを用いて発見しOpenAIの枠組みを使って対策したことが判明",
+    "url": "https://gigazine.net/news/20261022-php2shell-wiz-openai-calif/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 22 Oct 2026 00:06:00 +0900",
+    "fetched_at": "2026-10-21T23:51:45.680370+00:00",
+    "summary": "プログラミング言語のPHPに「PHP2Shell」と呼ばれる重大な脆弱性が見つかり、緊急アップデートがリリースされました。「PHP2Shell」の2つの脆弱性は、セキュリティ企業のCalifとWizがそれぞれ独立して2026年8月に発見していたことが報告されています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "プログラマーはどの言語からどの言語へ移住しているのか？JetBrainsが8837人分の回答を分析",
     "url": "https://gigazine.net/news/20260820-jetbrains-programming-language-migration/",
     "source": "GIGAZINE",
@@ -7404,6 +7456,19 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定",
+    "url": "https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-10-21T15:42:36Z",
+    "fetched_at": "2026-10-21T23:51:45.537140+00:00",
+    "summary": "Cloudflareは、TypeScriptをRustに移植した「tsrs」を発表しました。 下記は、Cloudflareに買収されたVoidZeroによるtsrsに関するポストです。VoidZeroもこのtsrsの開発に関わっています。 ...…",
     "importance": "medium",
     "tags": [
       "it"
