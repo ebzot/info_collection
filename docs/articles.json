@@ -2080,6 +2080,45 @@
     ]
   },
   {
+    "title": "Windows 11には31年前の「Windows 95のメモリ管理機能」が今も隠されている",
+    "url": "https://gigazine.net/news/20261022-windows-11-95-memory-manager/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 22 Oct 2026 21:00:00 +0900",
+    "fetched_at": "2026-10-22T23:48:38.433257+00:00",
+    "summary": "1995年に登場した「Windows 95」のメモリ管理機能が、2026年時点で最新バージョンのWindows 11にも残されていることが分かりました。古いソフトウェアを動作させるための互換機能「EmulateHeap」にWindows 95のプログラムが組み込まれており、必要に応じて実際に動作する仕組みになっています。Windows関連のニュースサイトであ…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "家庭にある電子レンジを使って「ソーラーパネル」を作る方法とは？",
+    "url": "https://gigazine.net/news/20261022-making-solar-panels-with-microwave/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 22 Oct 2026 20:00:00 +0900",
+    "fetched_at": "2026-10-22T23:48:38.433966+00:00",
+    "summary": "ソーラーパネル(太陽電池パネル)は太陽光で発電を行うためのパネルであり、化石燃料の消費を減らして再生可能エネルギーへの転換を進める上で欠かせない存在です。そんなソーラーパネルを家庭にある電子レンジを使って作る方法を、さまざまな電子部品を自作しているYouTuberのDr.Semiconductorが公開しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "2026年10月22日のヘッドラインニュース",
+    "url": "https://gigazine.net/news/20261022-headline/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 22 Oct 2026 19:31:00 +0900",
+    "fetched_at": "2026-10-22T23:48:38.434784+00:00",
+    "summary": "酒造メーカーとして知られる大関が、ラーメン店のコールとして使われる「マシマシカラメ」を商品設計に落とし込んだという「ワンカップ マシマシカラメ300ml瓶詰」を2026年11月9日(月)に発売することを発表しました。大関によると、1つ目のマシは通常のワンカップより増量した300mlという内容量、2つ目のマシはアルコール18％の飲みごたえ、「カラメ」はキレのあ…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "神の如く自由な都市開発を行うのではなく市民の要望を聞き建設計画には議会の承認が必要となる都市シミュレーター「Permit Pending」",
     "url": "https://gigazine.net/news/20261022-permit-pending/",
     "source": "GIGAZINE",
@@ -6260,6 +6299,32 @@
     "published_at": "Fri, 24 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-23T21:24:13.806086+00:00",
     "summary": "FirefoxやChromeなどのウェブブラウザ上で動作する無料のスライド作成アプリ「Bento/Slides」が登場しました。Bento/Slidesは作成したスライドだけでなく「スライド作成機能そのもの」も含めて単一のHTMLファイルとして保存できるのが特徴で、インターネット接続不要でスライドを作成できます。また、AIエージェントを用いたスライド作成も考…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Airbnbが宿泊客に食器洗いやゴミ出しを求めることを原則禁止へ",
+    "url": "https://gigazine.net/news/20261023-airbnb-checkout-chores-ban/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 23 Oct 2026 07:00:00 +0900",
+    "fetched_at": "2026-10-22T23:48:38.425284+00:00",
+    "summary": "民泊仲介サービスのAirbnbが2026年10月20日、宿泊客に食器洗いや敷地外へのゴミ出しなどを求めることを原則禁止すると発表しました。宿泊施設を貸し出すホスト向けの新しいポリシーで、2026年11月20日以降に入る予約から適用されます。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Interop 2027で注目すべき未来のCSS",
+    "url": "https://gigazine.net/news/20261023-future-of-css/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 23 Oct 2026 06:00:00 +0900",
+    "fetched_at": "2026-10-22T23:48:38.432168+00:00",
+    "summary": "ウェブブラウザの互換性向上プロジェクト「Interop 2027」で注目すべきCSS機能トップ10について、ウェブ開発者のジョシュ・コーモー氏が自身のブログにて解説していました。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
