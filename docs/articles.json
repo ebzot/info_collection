@@ -4030,6 +4030,71 @@
     ]
   },
   {
+    "title": "人間とAIエージェント両方のために設計されたワークスペース全体を対象としたローカルファースト検索「zg」",
+    "url": "https://gigazine.net/news/20261024-zvec-grep/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 24 Oct 2026 23:00:00 +0900",
+    "fetched_at": "2026-10-24T22:48:48.168395+00:00",
+    "summary": "zg(zvec-grep)はAlibaba製のベクトルデータベース「zvec」を基盤とする、ripgrep・BM25・ベクトル検索を統合したローカルファーストな検索レイヤーです。ターミナルから直接使うことも、AIエージェントから利用することも可能です。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "折りたたみスマホ「Galaxy Z Fold8 Ultra・Fold8・Flip8」で写真撮影するとこんな感じになる",
+    "url": "https://gigazine.net/news/20261024-samsung-galaxy-z-fold8-ultra-fold8-flip8-photos/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 24 Oct 2026 21:35:00 +0900",
+    "fetched_at": "2026-10-24T22:48:48.173965+00:00",
+    "summary": "Samsungから歴代最薄となった折りたたみ式スマートフォン「Galaxy Z Fold8 Ultra」「Galaxy Z Fold8」「Galaxy Z Flip8」の3機種が発売されたので、それぞれ、どういった写真が撮影可能なのか、持ち出してみました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "GPT-6 Astraと同等性能の中国製モデル「Kimi K3.1 Pro」が登場、2026年11月4日にモデルを無償公開予定",
+    "url": "https://gigazine.net/news/20261024-kimi-k3-1-pro/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 24 Oct 2026 20:50:00 +0900",
+    "fetched_at": "2026-10-24T22:48:48.177860+00:00",
+    "summary": "中国企業のMoonshot AIがAIモデル「Kimi K3.1 Pro」を日本時間の2026年10月24日に発表しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "薄く軽く進化した「Kindle」2026年最新モデル開封の儀",
+    "url": "https://gigazine.net/news/20261024-kindle-2026/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 24 Oct 2026 19:40:00 +0900",
+    "fetched_at": "2026-10-24T22:48:48.178916+00:00",
+    "summary": "Amazonが2026年10月1日に電子書籍リーダー「Kindle」の最新モデル「Kindle(16GB)」「Kindle(32GB)」の2種を発売しました。より薄く・軽くなり、使用感も改善したという新型Kindleが編集部に届いたので、実際に開封してみました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "無料で予約ページ・カレンダー同期・ビデオ会議室・自動メール送信機能などのダブルブッキングしないようにする機能を駆使してスケジュールの自動調整ができる「Tymeslot」、オープンソースでセルフホスト可能",
+    "url": "https://gigazine.net/news/20261024-tymeslot/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 24 Oct 2026 18:00:00 +0900",
+    "fetched_at": "2026-10-24T22:48:48.179946+00:00",
+    "summary": "予約管理システムではカレンダーとの同期やオンライン会議サービスとの連携・メール通知など必要とする機能に応じて利用条件が変わることがあります。そこで、予約ページの作成・複数カレンダーを使った重複予約の防止・ビデオ会議室の自動生成・確認メールの送信・Webサイトへの埋め込みなどの機能をまとめて搭載し、セルフホスト版なら予約件数の制限もなく無料で使えるオープンソー…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "フォートナイトで「捜査官を撃つ」と発言した容疑でFBIが29歳の男を逮捕",
     "url": "https://gigazine.net/news/20261024-fbi-arrests-fortnite-threats/",
     "source": "GIGAZINE",
