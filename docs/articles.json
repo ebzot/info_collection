@@ -3107,6 +3107,32 @@
     ]
   },
   {
+    "title": "夜型人間は定年より前に障害年金を受給する傾向が強いとの研究結果",
+    "url": "https://gigazine.net/news/20261025-night-owls-more-disability-pension/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 25 Oct 2026 23:00:00 +0900",
+    "fetched_at": "2026-10-25T22:58:42.321730+00:00",
+    "summary": "世の中には朝や日中よりも夜の方が活動的で頭も回る「夜型人間」だという人がいます。夜型人間は脳機能が優れているとの研究結果もありますが、フィンランドの研究では夜型人間はそうでない人と比較して、定年前に障害年金を受給する可能性が高いとの結果が明らかになりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "GⅠ・菊花賞を武豊騎手がゴーイントゥスカイで制し史上最年長GⅠ勝利記録をみたび更新、二冠馬ロブチェンは14着",
+    "url": "https://gigazine.net/news/20261025-gointosky-wins-kikka-sho/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 25 Oct 2026 19:12:00 +0900",
+    "fetched_at": "2026-10-25T22:58:42.322588+00:00",
+    "summary": "2026年10月25日(日)に京都競馬場で開催された競馬のGⅠレース・菊花賞(芝3000m)で、武豊騎手の騎乗する3番人気・ゴーイントゥスカイが勝利しました。武騎手は自らが2026年6月に更新した史上最年長GⅠ勝利記録をみたび更新する形となりました。三冠達成のかかっていたロブチェンは14着に敗れました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "リンゴの味と香りが特濃な「三ツ矢特濃アップルスカッシュ」試飲レビュー",
     "url": "https://gigazine.net/news/20260823-mitsuya-apple-squash/",
     "source": "GIGAZINE",
@@ -5395,6 +5421,32 @@
     ]
   },
   {
+    "title": "「地球上のどこにも存在しない花」を遺伝子工学で作り出す植物生物学者とは？",
+    "url": "https://gigazine.net/news/20261026-how-to-design-flowers/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 26 Oct 2026 07:00:00 +0900",
+    "fetched_at": "2026-10-25T22:58:42.152360+00:00",
+    "summary": "イギリスのノリッジ在住の植物生物学者であるニック・デノワイエ氏は、植物を遺伝子操作して「地球上のどこにも存在しない花」を作り出している人物です。そんなデノワイエ氏へのインタビューを、バイオテクノロジー分野のメディアであるAsimov Pressが公開しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AIエージェントによる操作の多くがボット検出システムのhCaptchaやCloudflare Turnstileを通過",
+    "url": "https://gigazine.net/news/20261026-ai-bot-detection-benchmark/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 26 Oct 2026 06:00:00 +0900",
+    "fetched_at": "2026-10-25T22:58:42.308953+00:00",
+    "summary": "ボット検出システムを開発するProof of Humanが、自社製品を含む5種類のシステムを比較した結果を公開しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "AI分野では「オープンモデルがクローズドモデルに追いつく時間」が飛躍的に縮まっているとの指摘",
     "url": "https://gigazine.net/news/20260824-open-ai-models-catching-up/",
     "source": "GIGAZINE",
@@ -7651,6 +7703,19 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「DuckDB 2.0 LTS」正式リリース。Quackプロトコルによるクライアント/サーバ機能や非同期処理による高速化など",
+    "url": "https://www.publickey1.jp/blog/26/duckdb_20_ltsquack.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-10-25T15:44:47Z",
+    "fetched_at": "2026-10-25T22:58:41.939133+00:00",
+    "summary": "DuckDB Foundationは、シングルバイナリで高速なデータ分析を実現するOLAP型データベース「DuckDB 2.0 LTS」（コード名：Cinnamon Teal）の正式リリースを発表しました。 Announcing Duck...…",
     "importance": "medium",
     "tags": [
       "it"
