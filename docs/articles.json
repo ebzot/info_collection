@@ -1001,6 +1001,45 @@
     ]
   },
   {
+    "title": "大手テクノロジー企業以外ではAIへの投資による経済的利益がほとんど得られていないとの指摘",
+    "url": "https://gigazine.net/news/20261027-no-signs-ai-payoff-outside-tech/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 27 Oct 2026 07:00:00 +0900",
+    "fetched_at": "2026-10-27T00:09:56.812845+00:00",
+    "summary": "近年では多くの企業がAIツールやAIエージェントを導入し、生産性や収益性を向上させようと取り組んでいます。ところがアメリカの投資会社・Apolloのチーフエコノミストであるトルステン・スロク氏は、「AIはテクノロジー業界以外のアメリカ企業に何の経済的利益ももたらしていない」とするレポートを発表しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "C++やRustよりも高速に動作しメモリ使用量も少ないプログラミング言語「Goose」",
+    "url": "https://gigazine.net/news/20261027-goose/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 27 Oct 2026 06:00:00 +0900",
+    "fetched_at": "2026-10-27T00:09:56.814036+00:00",
+    "summary": "GooseはAIの支援を受けて開発された革新的なシステムプログラミング言語です。「メモリ安全性」「驚異的な実行速度」「コンパクトなメモリ使用量」を両立させることに成功しており、既存のC++やRustといった言語をベンチマークで凌駕する可能性があります。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "2万6800円で買えるGoogle製スマートウォッチ「Google Fitbit Edge」の各種機能を使ってみたよレビュー",
+    "url": "https://gigazine.net/news/20261027-google-fitbit-edge-short-review/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 27 Oct 2026 02:00:00 +0900",
+    "fetched_at": "2026-10-27T00:09:56.814985+00:00",
+    "summary": "Google製スマートウォッチ「Google Fitbit Edge」が2026年10月27日に登場しました。Google Fitbit Edgeは多機能スマートウォッチ「Google Pixel Watch」と、画面なしスマートバンド「Google Fitbit Air」の中間を目指して開発されたスマートウォッチで、スマートフォンと連携して歩数・心拍数・睡…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "WindowsのペイントやMicrosoftフォトのAI生成画像に電子透かしが埋め込まれていることが判明",
     "url": "https://gigazine.net/news/20260825-microsoft-embed-invisible-watermarks/",
     "source": "GIGAZINE",
@@ -5421,6 +5460,19 @@
     ]
   },
   {
+    "title": "マンガの原稿を落とさないようにできる無料のスケジュール管理ソフト「Otosazu」、クリスタと連動してページ工程ごとに作業時間を計測・記録可能",
+    "url": "https://gigazine.net/news/20261026-otosazu/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 26 Oct 2026 23:00:00 +0900",
+    "fetched_at": "2026-10-27T00:09:56.815719+00:00",
+    "summary": "ゲームクリエイターのtozica氏が、マンガを描くことに特化したスケジュール管理ソフト「Otosazu」を公開しました。CLIP STUDIO PAINTのファイルと連動して作業時間を記録し、記録から完成見込みを予測してスケジュールを組むこともできます。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "「地球上のどこにも存在しない花」を遺伝子工学で作り出す植物生物学者とは？",
     "url": "https://gigazine.net/news/20261026-how-to-design-flowers/",
     "source": "GIGAZINE",
@@ -7703,6 +7755,19 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AWSとGoogle Cloudが「PyTorch」のAWS Trainium、Google Cloud TPU対応版をオープンソースで公開。NVIDIAからの移行に挑む",
+    "url": "https://www.publickey1.jp/blog/26/awsgoogle_cloudpytorchaws_trainiumgoogle_cloud_tpunvidia.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-10-26T15:59:52Z",
+    "fetched_at": "2026-10-27T00:09:55.495143+00:00",
+    "summary": "10月20日と21日に米カリフォルニア州で行われたイベント「PyTorch Conference 2026」において、AWSとGoogle Cloudが相次いでPyTorchの自社AIプロセッサ対応版をオープンソースとして発表しました。 A...…",
     "importance": "medium",
     "tags": [
       "it"
