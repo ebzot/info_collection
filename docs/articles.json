@@ -91,6 +91,45 @@
     ]
   },
   {
+    "title": "AIから園芸までGIGAZINE読者の「オタク趣味」調査結果まとめ、年代・性別・他の設問との関連など細かい分析もあり",
+    "url": "https://gigazine.net/news/20261028-gigazine-user-otaku/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 28 Oct 2026 09:00:00 +0900",
+    "fetched_at": "2026-10-28T00:11:37.778585+00:00",
+    "summary": "GIGAZINEではガジェットやAI、ゲーム、アニメ、食などさまざまな分野の記事を掲載しています。そんなGIGAZINE読者がどんな分野に深く関心を持っているのかを調べるため、2026年夏に実施した読者アンケートで「あなたは何オタクですか？(複数選択可)」と質問。年代やゲーム・マンガとの関わりによる違いも分析してみました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "身近な物を説明するとAIが手描き風で実際に機能するボタン付きで描いてくれる「Colorfigures」",
+    "url": "https://gigazine.net/news/20261028-colorfigures/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 28 Oct 2026 08:00:00 +0900",
+    "fetched_at": "2026-10-28T00:11:37.779840+00:00",
+    "summary": "「Colorfigures」は「コインを入れてレバーを回すガムボールマシン」「お湯を沸かし、沸騰したら自動的に電源が切れる電気ケトル」というように身近な物を説明すると手描き風のイラストを生成し、3Dでぐりぐり動かしたりボタンを押して実際に動作させたりできるClaude Codeのスキルです。Claude Codeのターミナルからスキルを追加できるほか、ブラウ…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AIによって脆弱性発見が爆増したことが一目で分かるグラフ「CVE Tracker」",
+    "url": "https://gigazine.net/news/20261028-cve-tracker/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 28 Oct 2026 07:00:00 +0900",
+    "fetched_at": "2026-10-28T00:11:37.781448+00:00",
+    "summary": "AIの性能向上によってソフトウェアの脆弱性が続々と発見されるようになりました。@0x_Osprey氏が公開しているウェブアプリ「CVE Tracker」では2026年に入ってから脆弱性の報告件数が急増していることが読み取れます。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "AIエージェント時代のコーディングテクニック「コーディングルールをAGENTS.mdにまとめる」「品質が低下したらAGENTS.mdの読み直しを指示」",
     "url": "https://gigazine.net/news/20260826-agent-improve-llm-code-quality/",
     "source": "GIGAZINE",
@@ -7755,6 +7794,32 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Oracle CloudがGoogle TPU導入を発表、2027年に提供を開始。Oracle AI World 2026",
+    "url": "https://www.publickey1.jp/blog/26/oracle_cloudgoogle_tpu2027oracle_ai_world_2026.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-10-27T16:33:51Z",
+    "fetched_at": "2026-10-28T00:11:37.645120+00:00",
+    "summary": "オラクルはGoogleが開発しているAI専用チップのGoogle TPUをOracle Cloud Infrastructure（以下、Oracle Cloud）に導入し、2027年からGoogle TPUのサービスを提供開始すると発表しま...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "JavaScriptランタイムの「Bun」がPrettier互換で300倍以上高速なフォーマッタに。Prettier設定ファイルもそのまま利用可能",
+    "url": "https://www.publickey1.jp/blog/26/javascriptbunprettier300prettier.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-10-27T15:27:52Z",
+    "fetched_at": "2026-10-28T00:11:37.649918+00:00",
+    "summary": "Anthropicが開発しているJavaScriptランタイムの「Bun」の新機能として、Prettier互換のフォーマッタ搭載が発表されました。 2026年10月22日付けでリリースされたBun v1.4.4に搭載されたPrettier互...…",
     "importance": "medium",
     "tags": [
       "it"
