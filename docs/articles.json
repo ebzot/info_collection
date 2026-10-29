@@ -91,6 +91,19 @@
     ]
   },
   {
+    "title": "ルービン天文台が太陽系の準惑星候補を発見、冥王星の外を公転しておりこの領域で発見された最大かつ最も明るい天体の1つの可能性",
+    "url": "https://gigazine.net/news/20261028-tno-ed138/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Wed, 28 Oct 2026 21:00:00 +0900",
+    "fetched_at": "2026-10-29T00:33:03.088381+00:00",
+    "summary": "チリに設置されたNSFヴェラ・C・ルービン天文台(ルービン天文台)が、大型で明るい天体「2026 ED138(ED138)」を発見しました。科学者らはこれを太陽系の準惑星候補とみています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "AIから園芸までGIGAZINE読者の「オタク趣味」調査結果まとめ、年代・性別・他の設問との関連など細かい分析もあり",
     "url": "https://gigazine.net/news/20261028-gigazine-user-otaku/",
     "source": "GIGAZINE",
@@ -1931,6 +1944,45 @@
     "published_at": "Thu, 30 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-29T21:18:59.395773+00:00",
     "summary": "動物の集団では、個体が情報を覚えていなくても過去の選択が個体同士の相互作用によって維持される場合があります。ベルギー・ブリュッセル自由大学のマリアノ・カルボ・マルティン氏らの研究チームは、明るさの異なる2つの隠れ場所を用いてワモンゴキブリの個体と集団が環境の変化にどう反応するのかを調べました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "末期がんすら寛解できる抗がん剤の「シスプラチン」とは？",
+    "url": "https://gigazine.net/news/20261029-how-survived-late-stage-cancer/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 29 Oct 2026 08:00:00 +0900",
+    "fetched_at": "2026-10-29T00:33:03.080923+00:00",
+    "summary": "チャンネル登録者数2580万人の科学系アニメーション動画を投稿するYouTubeチャンネルのKurzgesagtが、「末期がんを生き延びた方法」という動画を投稿しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "無料で災害や非常時にオフラインで動作できるサバイバル知識満載のAIアシスタント「Survival LLM」、停電時の食料の安全な保管方法・火傷の手当て方法・水の浄化方法などを信頼できる情報源から回答し出典も表示可能",
+    "url": "https://gigazine.net/news/20261029-survival-llm/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 29 Oct 2026 07:00:00 +0900",
+    "fetched_at": "2026-10-29T00:33:03.082996+00:00",
+    "summary": "「Survival LLM」はインターネット接続がない状況でも利用できる無料のAIアシスタントです。ユーザー自身のコンピューター上で完全に動作するためプライバシーが保護され、オフラインでの利用が可能です。停電時の食品の安全な保存方法や応急処置など、緊急時に必要となる信頼できる情報にアクセスできます。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "OpenAIとAnthropicが2026年夏から秋にかけてLLM料金を相次いで値下げした理由とは？",
+    "url": "https://gigazine.net/news/20261029-openai-anthropic-llm-price-cuts/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 29 Oct 2026 06:00:00 +0900",
+    "fetched_at": "2026-10-29T00:33:03.083985+00:00",
+    "summary": "OpenAIとAnthropicが2026年夏から秋にかけて大規模言語モデル(LLM)の利用料金を相次いで引き下げました。この値下げについてデータサイエンティストのマックス・ウルフ氏は、別のモデルに乗り換えやすいことと、モデルの重みを公開する「オープンウェイトモデル」との競争を背景として挙げています。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
@@ -7794,6 +7846,19 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "オラクル、社員が業務アプリをAIで自動作成、Oracle Cloud上で共有できる「Oracle App Composer」発表。Oracle AI World 2026",
+    "url": "https://www.publickey1.jp/blog/26/aioracle_cloudoracle_app_composeroracle_ai_world_2026.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-10-28T15:39:53Z",
+    "fetched_at": "2026-10-29T00:33:02.346964+00:00",
+    "summary": "オラクルは、社員が業務アプリをAIで自動的に生成しOracle Cloudにデプロイして利用できる「Oracle App Composer」を、米国ラスベガスで開催中の年次イベント「Oracle AI World 2026」で発表しました。...…",
     "importance": "medium",
     "tags": [
       "it"
