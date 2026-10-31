@@ -3822,6 +3822,45 @@
     ]
   },
   {
+    "title": "AIに性格診断をやらせてみたところ言語を切り替えると結果が変わることが判明",
+    "url": "https://gigazine.net/news/20261031-ai-personality-profile-language-bias/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 31 Oct 2026 08:00:00 +0900",
+    "fetched_at": "2026-10-31T00:17:34.366072+00:00",
+    "summary": "一口にAIといってもその性能は千差万別です。中国科学技術大学の実験では、AIの「性格」もそれぞれバラバラであることが分かった一方で、この結果は回答に使う言語によって変わることも明らかになりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Waymoが日本で自動運転タクシーにトヨタbZ4Xを採用し2027年に運行開始すると発表",
+    "url": "https://gigazine.net/news/20261031-toyota-waymo-bz4x-robotaxi-2027/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 31 Oct 2026 07:00:00 +0900",
+    "fetched_at": "2026-10-31T00:17:34.376620+00:00",
+    "summary": "Google発の自動運転企業であるWaymoが、電気自動車の「bZ4X」を日本での自動運転タクシー(ロボタクシー)に採用し、初期運行を2027年に日本で開始することを発表しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "『鬼滅の刃』フィギュア・『この世界の片隅に』片渕須直監督インタビュー・書店の減少問題などAmazonで売上トップ10のGIGAZINE記事ランキング2026年9月版はコレ！",
+    "url": "https://gigazine.net/news/20261031-gigazine-kindle-ranking-2026-09/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 31 Oct 2026 00:00:00 +0900",
+    "fetched_at": "2026-10-31T00:17:34.377401+00:00",
+    "summary": "GIGAZINEの記事を電子化した書籍を対象に「2026年9月に出版した中で最もたくさん読まれた記事は何なのか？」がわかるランキングを作ってみました。Google検索の影響が大きい普段のアクセス解析記事と違い、Amazonならではのランキングとなっています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "SNS依存症を巡る訴訟が公判前に和解した一件で支払われる和解金総額は40億円以上に",
     "url": "https://gigazine.net/news/20260530-kentucky-sns-lawsuit/",
     "source": "GIGAZINE",
@@ -6377,6 +6416,32 @@
     "published_at": "Fri, 31 Jul 2026 06:00:00 +0900",
     "fetched_at": "2026-07-30T21:24:33.515963+00:00",
     "summary": "人間の脳は意識的な判断を必要とする2つの課題に同時並行で取り組む時、複数のタスクを同時処理する「マルチタスク」ではなく、タスク間を素早く切り替えて処理していると考えられてきました。アメリカ・ジョージタウン大学のマキシミリアン・リーゼンフーバー氏や、リーハイ大学のパトリック・コックス氏らの研究チームは、1つの課題を長期間練習した時に脳内の処理経路と同時作業の能…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "プライバシー重視メール「Proton Mail」の開発企業はAIの導入に突き進んでおりCEOが社員を日常的に叱責",
+    "url": "https://gigazine.net/news/20261030-proton-ceo-ai/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 30 Oct 2026 23:00:00 +0900",
+    "fetched_at": "2026-10-31T00:17:34.378338+00:00",
+    "summary": "スイスに拠点を置くテクノロジー企業「Proton」はプライバシー重視のメールサービス「Proton Mail」やAIサービス「Lumo」などの製品を展開しています。そんなProtonについて「社内でAI導入が急速に進んでおり、CEOによる社員への叱責が日常的に繰り広げられている」という情報が海外メディアの404 Mediaによって報じられました。 続きを読む…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Google検索の売上高がAlphabetの総売上高の50％を史上初めて下回る",
+    "url": "https://gigazine.net/news/20261030-google-search-alphabet-revenue/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 30 Oct 2026 22:53:00 +0900",
+    "fetched_at": "2026-10-31T00:17:34.379006+00:00",
+    "summary": "Alphabetの2026年第3四半期(7月～9月)決算で、総売上のうちGoogle検索の占める割合が49.7％と、50％を割り込んだことがわかりました。Alphabetの総売上高のうちGoogle検索の占める割合が50％を切ったのはこれが初めてのことです。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
