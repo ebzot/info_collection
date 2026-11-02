@@ -3822,6 +3822,32 @@
     ]
   },
   {
+    "title": "アニメ『ぼっち・ざ・ろっく！』前日譚を描く『映画ぼっち・ざ・ろっく！ 星のあしあと』2027年公開決定で特報映像登場",
+    "url": "https://gigazine.net/news/20261101-bocchi-the-rock-hoshi-no-ashiato/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 01 Nov 2026 22:32:00 +0900",
+    "fetched_at": "2026-11-02T00:07:24.249197+00:00",
+    "summary": "2022年放送のTVアニメが大ヒットし、2024年には劇場版総集編が前後編構成で公開された『ぼっち・ざ・ろっく！』の新展開として、原作コミックス5巻に掲載された物語の前日譚が映画化されることになりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "無料ストレージベンチマークアプリ「ATTO Disk Benchmark」の使い方まとめ、「小さいサイズのファイルでも高速に読み書きできるか？」といった観点でSSDの性能を分析して適切な用途を見極め可能",
+    "url": "https://gigazine.net/news/20261101-atto-disk-benchmark/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 01 Nov 2026 22:32:00 +0900",
+    "fetched_at": "2026-11-02T00:07:24.249960+00:00",
+    "summary": "SSDは「1MBのファイルを1000個移動する」という操作より「1GBのファイルを1個移動する」という操作の方が短時間で処理できます。このため購入するSSDを選択する際は単純な読み込み・書き込み速度だけでなく「どれくらいの大きさのファイルを高速に読み書きできるか」という観点も重要です。「ATTO Disk Benchmark」はファイルサイズことの読み込み・…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "男性管理職は娘が生まれると女性従業員の雇用を増やす傾向があるとの研究結果",
     "url": "https://gigazine.net/news/20261101-male-managers-daughter-hiring-women/",
     "source": "GIGAZINE",
@@ -6383,6 +6409,32 @@
     ]
   },
   {
+    "title": "誰でも簡単にAndroidやiPhoneで広告ブロックできる「AdGuard 広告ブロッカー」のインストールと使い方、迷惑広告・詐欺広告を全部まとめて一気に削除",
+    "url": "https://gigazine.net/news/20261102-adguard-adblocking/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 02 Nov 2026 09:00:00 +0900",
+    "fetched_at": "2026-11-02T00:07:24.246778+00:00",
+    "summary": "スマホでページを見ていると明らかに度を超えて不快な広告や肝心のページ内容を見せるのを妨害するような広告、さらには広告自体が詐欺的で誤クリックや誤誘導を狙っている悪質な広告が爆増しています。Googleなどへ通報すると削除できるのですが、いたちごっこになっており、特にスマホでは通報するのも手間がかかりますし、無駄に時間も通信量も奪われてしまいます。そこで是非と…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Claude Codeは各バックグラウンドエージェントのトランスクリプトを定期的にモデルに送信していることが発覚",
+    "url": "https://gigazine.net/news/20261102-claude-code-resends-background-agents-transcript/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 02 Nov 2026 07:00:00 +0900",
+    "fetched_at": "2026-11-02T00:07:24.248043+00:00",
+    "summary": "Claude Codeの「エージェントサマリー」機能はバックグラウンドエージェントのステータスを約30秒ごとに更新するため、トランスクリプト(記録したデータ)全体をモデルに再送信しています。トランスクリプト送信によりトークンの約15～20％が消費されている計算になります。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "「GTA 6」開発元の従業員が労働組合を結成",
     "url": "https://gigazine.net/news/20260601-rockstar-games-workers-union/",
     "source": "GIGAZINE",
@@ -8041,6 +8093,19 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026",
+    "url": "https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-02T14:36:38Z",
+    "fetched_at": "2026-11-02T00:07:24.079241+00:00",
+    "summary": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。 Copilot Fusi...…",
     "importance": "medium",
     "tags": [
       "it"
