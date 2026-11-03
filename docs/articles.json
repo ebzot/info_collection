@@ -1833,6 +1833,58 @@
     ]
   },
   {
+    "title": "Appleが2026年度第4四半期の業績を発表、前年同期比で12％増の18兆円超の売上高を記録",
+    "url": "https://gigazine.net/news/20261103-apple-2026q4-earnings-reports/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 03 Nov 2026 10:00:00 +0900",
+    "fetched_at": "2026-11-03T02:43:58.185198+00:00",
+    "summary": "現地時間の2026年11月2日、Appleが2026年度第4四半期(7～9月)の業績を発表しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "GoogleとAppleの電子書籍ストア開設したので90％オフの記念セール実施中！【2026年11月10日(火)まで】",
+    "url": "https://gigazine.net/news/20261103-ebook-google-apple/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 03 Nov 2026 09:00:00 +0900",
+    "fetched_at": "2026-11-03T02:43:58.198775+00:00",
+    "summary": "GIGAZINEでは電子書籍をAmazonのKindleストアのみで販売してきましたが、この度新たに「Google Play ブックス」と「Apple Books」にもリリースしました。新しいストア開設を記念して、「Google Play ブックス」と「Apple Books」では電子書籍を90％オフにしているので、ぜひこの機会にゲットしてみてください。リリ…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "猛スピードで海面に突撃する鳥の背骨はなぜ折れないのか？",
+    "url": "https://gigazine.net/news/20261103-plunge-diving-seabirds-without-breaking-neck/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 03 Nov 2026 08:00:00 +0900",
+    "fetched_at": "2026-11-03T02:43:58.199619+00:00",
+    "summary": "魚を狙って上空から海面に突撃する海鳥のスピードは時速100kmを超えることもあります。こんなに速いのにもかかわらず、なぜ海鳥の背骨は海に飛び込む際に折れないのかを、科学者らが調査しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Evernoteの大幅値上げの裏では200回超の実験を通じて料金や機能の調整が進められていた",
+    "url": "https://gigazine.net/news/20261103-evernote-pricing-experiments/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 03 Nov 2026 06:00:00 +0900",
+    "fetched_at": "2026-11-03T02:43:58.200732+00:00",
+    "summary": "メモアプリ「Evernote」では有料プランの再編によって一部のユーザーの利用料金が大きく上がっています。そんなEvernoteについて、ニュースサイトのArs Technicaが長年使い続けるユーザーを収益増につなげる料金戦略を分析しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "AIによる人員削減のせいで市場が壊滅して民主主義体制が揺らぐ「死んだ経済理論」とは？",
     "url": "https://gigazine.net/news/20260602-ai-dead-economy-theory/",
     "source": "GIGAZINE",
@@ -6403,6 +6455,19 @@
     "published_at": "Mon, 03 Aug 2026 06:00:00 +0900",
     "fetched_at": "2026-08-02T21:18:15.058291+00:00",
     "summary": "パエリアやブイヤベースを鮮やかに彩ったり独特の風味を加えたりするのに使われるサフランは、「赤い金」とも呼ばれる世界で最も高価なスパイスです。突然変異で生まれた「種子を作れない花」を人間が数千年にわたって増やしてきたというサフランクロッカスの特異な生態と、高価格が続く理由について、教育系YouTubeチャンネルのTED-Edがアニメーションで解説しています。 …",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "nanochatの日本語版フォーク「nanochat-jp」、トークナイザ学習・事前学習・SFT・RL・評価・推論を単一リポジトリで完結させ、SentencePiece Unigram トークナイザ・日本語コーパスと日本語 SFT/RL データ・日本語ベンチマーク（CORE / ChatCORE）・HuggingFace形式への変換器あり",
+    "url": "https://gigazine.net/news/20261102-nanochat-jp/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 02 Nov 2026 23:00:00 +0900",
+    "fetched_at": "2026-11-03T02:43:58.201497+00:00",
+    "summary": "日本語を扱うAIモデルを一から開発する際には学習用の文章を集めるだけでなく、文章を細かく分割するトークナイザの作成や追加学習・性能の評価などの工程が必要です。こうした作業を個別に組み合わせる手間を減らし、日本語の学習データや評価用のプログラムをまとめて利用できるようにしたのが「nanochat」の日本語版フォーク「nanochat-jp」です。 続きを読む.…",
     "importance": "medium",
     "tags": [
       "it"
