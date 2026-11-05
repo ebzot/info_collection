@@ -3055,6 +3055,32 @@
     ]
   },
   {
+    "title": "メトロポリタン美術館の収蔵品で「塊魂」的な遊びができる「Katamari Met」",
+    "url": "https://gigazine.net/news/20261105-katamari-met/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 05 Nov 2026 08:00:00 +0900",
+    "fetched_at": "2026-11-05T01:13:38.749928+00:00",
+    "summary": "最初は小さな球を転がすところからスタートし、だんだん落ちている物体を吸収して巨大にしていくアクションゲーム「塊魂」のノリを、世界最大の美術館・メトロポリタン美術館の収蔵品でできる「Katamri Met」を遊んでみました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "macOSには単語が冒涜的かどうかを識別する仕組みがある",
+    "url": "https://gigazine.net/news/20261105-macos-vulgar-word-flags/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 05 Nov 2026 07:00:00 +0900",
+    "fetched_at": "2026-11-05T01:13:38.751141+00:00",
+    "summary": "開発者のヘルゲ・スヴェレ氏はmacOSのプライベートフレームワーク「Lexicon.framework」にアクセスし、Appleのシステム辞書が単語をどのように分類し、それがキーボードの予測変換や自動修正にどのように影響するかを調査しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "AIが法学教授より学生の質問にうまく答えられるとの研究結果、ブラインドテストでもAIの方が「誤解を招く可能性が低い」と判断される",
     "url": "https://gigazine.net/news/20260604-ai-outperforms-law-professors-stanford/",
     "source": "GIGAZINE",
@@ -8197,6 +8223,45 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "クラウドインフラのシェア、AWSが26％に後退、Google Cloudは16％に上昇。クラウドインフラ市場全体は過去最大の高成長率へ。2026年第3四半期、Synergy Research",
+    "url": "https://www.publickey1.jp/blog/26/aws26google_cloud1620263synergy_research.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-04T15:23:21Z",
+    "fetched_at": "2026-11-05T01:13:38.021353+00:00",
+    "summary": "調査会社のSynergy Research Groupは、グローバルにおける2026年第3四半期のクラウドインフラの市場状況について調査結果を発表しました。 クラウドインフラとは、IaaS、PaaS、ホステッドプライベートクラウドを合わせた...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "GitHubで最も使われている言語は2年連続TypeScript、プルリクの増加率はRust。急成長したOSSはCC Switch、Omarchyなど。GitHub Octoverse 2026",
+    "url": "https://www.publickey1.jp/blog/26/github2typescriptrustosscc_switchomarchygithub_octoverse_2026.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-04T15:18:02Z",
+    "fetched_at": "2026-11-05T01:13:38.030783+00:00",
+    "summary": "GitHubは、この1年のGitHubにおけるGitHubの利用動向やオープンソースの動向などをまとめた年次レポート「Octoverse 2026」を発表しました。 発表によると、GitHubを利用している開発者は総数2億2500万人。国別...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「GitHub Copilot Dreaming」発表。作業を振り返ってパーソナルメモリやガイダンスをバックグラウンドで整理、アップデート。GitHub Universe 2026",
+    "url": "https://www.publickey1.jp/blog/26/github_copilot_dreaminggithub_universe_2026.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-04T15:15:49Z",
+    "fetched_at": "2026-11-05T01:13:38.031620+00:00",
+    "summary": "GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Dreaming」をパブリックプレビューとして発表しました。 Copi...…",
     "importance": "medium",
     "tags": [
       "it"
