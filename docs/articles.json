@@ -3055,6 +3055,45 @@
     ]
   },
   {
+    "title": "64ビット版Windows上でWindows 3.1までの時代の16ビット版Windowsアプリを動かす「winevdm on 64-bit Windows」",
+    "url": "https://gigazine.net/news/20261105-winevdm/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 05 Nov 2026 23:00:00 +0900",
+    "fetched_at": "2026-11-06T01:18:43.573691+00:00",
+    "summary": "古いWindows向けのゲームや業務用アプリケーションを現在のPCで使おうとしても、16ビットで開発されたソフトウェアは64ビット版Windowsの標準機能では実行できません。Windows 3.1などのOSを仮想マシンにインストールする方法もありますが、16ビットアプリケーションをWindows 11で直接動かせるようにする無料のオープンソースソフトウェア…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AppleがiCloudの公開リンク先に有害コンテンツがないかの確認を開始",
+    "url": "https://gigazine.net/news/20261105-apple-will-check-icloud-public-link/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 05 Nov 2026 21:50:00 +0900",
+    "fetched_at": "2026-11-06T01:18:43.575001+00:00",
+    "summary": "iOS 27.3の最初のベータ版が公開され、Apple端末でiCloudのファイルを共有するにあたって「リンクを知っている人は誰でもアクセス可能」な設定である公開リンクを作成した場合、共有アイテムが有害なコンテンツではないかAppleによるチェックが行われるようになることが明らかになりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Nintendo Switchのゲームカード用ROMサプライヤーがROM生産を段階的に終了、物理メディア業界にさらなる打撃",
+    "url": "https://gigazine.net/news/20261105-nintendo-switch-cartridge-chip-manufacturer-data-centers/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 05 Nov 2026 21:00:00 +0900",
+    "fetched_at": "2026-11-06T01:18:43.575997+00:00",
+    "summary": "任天堂の携帯ゲーム機であるNintendo Switchのゲームカード用ROMの主要サプライヤーであるMacronixが、ROMの生産を段階的に廃止する予定を発表しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "メトロポリタン美術館の収蔵品で「塊魂」的な遊びができる「Katamari Met」",
     "url": "https://gigazine.net/news/20261105-katamari-met/",
     "source": "GIGAZINE",
@@ -7904,6 +7943,19 @@
     ]
   },
   {
+    "title": "AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている",
+    "url": "https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 06 Nov 2026 06:00:00 +0900",
+    "fetched_at": "2026-11-06T01:18:43.571953+00:00",
+    "summary": "2026年10月21日に発見された深刻なサイバーセキュリティ脆弱性「PHP2Shell」はNASA・Wikipedia・ホワイトハウスといった名だたるウェブサイトに影響を与える可能性があったものの、悪用される前に修正パッチがリリースされたため大規模な被害は回避されました。しかし、PHP2Shellはいわば「炭鉱のカナリア」でありAI時代に起こり得ることへの警…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "無料でiPhone・iPadから直接YouTubeの動画をダウンロードして保存できる「SW-DLT」、YouTubeアプリから数タップでダウンロード可能",
     "url": "https://gigazine.net/news/20260605-sw-dlt-youtube-download/",
     "source": "GIGAZINE",
@@ -8223,6 +8275,19 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Linuxカーネルの深刻な脆弱性／FDEの名前で単なるコンサルティングが販売／TypeScriptをRustに移植した「tsrs」発表ほか、2026年10月の人気記事",
+    "url": "https://www.publickey1.jp/blog/26/linuxfdetypescriptrusttsrs202610.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-05T15:37:44Z",
+    "fetched_at": "2026-11-06T01:18:43.311333+00:00",
+    "summary": "2026年の9月から10月にかけては、タイムズカーから自動車免許証の画像を含む大規模な個人情報の漏洩があり、Linuxの深刻な脆弱性が発見され、PHPの脆弱について高市総理がXにポストするなど、ITの分野で社会的に大きな問題がありました。 ...…",
     "importance": "medium",
     "tags": [
       "it"
