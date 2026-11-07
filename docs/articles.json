@@ -5356,6 +5356,32 @@
     ]
   },
   {
+    "title": "PROLED XDRディスプレイ搭載MacBook Proで10年ぶりに復活した「光るAppleロゴ」は消灯することも可能",
+    "url": "https://gigazine.net/news/20261107-apple-how-turn-off-macbook-glowing-logo/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 07 Nov 2026 09:00:00 +0900",
+    "fetched_at": "2026-11-07T00:33:18.097373+00:00",
+    "summary": "Appleが2026年10月末に発表した「PROLED XDRディスプレイ搭載MacBook Pro」では、10年ぶりに天板のAppleロゴが光ります。この光るAppleロゴは消灯可能であることが明らかになりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "歌詞の「感情表現」が時間の経過とともに減少し非道徳的な歌詞が増えていることが判明",
+    "url": "https://gigazine.net/news/20261107-lyrics-less-emotion/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 07 Nov 2026 08:00:00 +0900",
+    "fetched_at": "2026-11-07T00:33:18.108895+00:00",
+    "summary": "人気の曲を調べた研究で、曲に使われる歌詞が時代と共に変化していることが分かりました。表現の幅が狭まった上で、非道徳的思想に関連する歌詞が増加するなどの傾向が見られています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "GoogleがSpaceXの計算能力にアクセスするため月額1500億円弱を支払う契約を締結",
     "url": "https://gigazine.net/news/20260606-google-will-pay-spacex-920-million-usd-per-month/",
     "source": "GIGAZINE",
@@ -7937,6 +7963,45 @@
     "published_at": "Fri, 07 Aug 2026 06:00:00 +0900",
     "fetched_at": "2026-08-07T01:00:06.701777+00:00",
     "summary": "父親が子の受胎前に経験した感染症は、精子を通じて子の脳や行動に影響する可能性があります。オーストラリアのフローリー神経科学・精神衛生研究所のエリザベス・クレーマン氏やアンソニー・ハナン氏らの研究チームが、中等症から重症に当たる新型コロナウイルス感染を経験したオスのマウスを使い、感染後に生まれた子への影響を調べました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "無料でローカルAIを簡単にオフライン利用できるオープンソースアプリ「Hob」、Windows・Mac・Linux対応でPCに適したAIモデルの自動選択・ファイル操作・外部アプリ連携が可能",
+    "url": "https://gigazine.net/news/20261106-hob/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 06 Nov 2026 23:00:00 +0900",
+    "fetched_at": "2026-11-07T00:33:18.110167+00:00",
+    "summary": "自分のPCでAIを動かすには、PCの性能に合ったAIモデルを選んだり実行環境を構築したりする必要があり、AIとのチャットだけでなく手元のファイルを読み取らせたり加工したりするには追加の設定が必要になる場合もあります。こうした作業を自動化する無料のオープンソースアプリ「Hob」は、PCに適したAIモデルを選んで実行環境を構築し、文書や表計算ファイルの解析・編集…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AIのオープンモデル利用率が大きく拡大中、オープンウェイトモデルとクローズドウェイトモデルの違いは何か？",
+    "url": "https://gigazine.net/news/20261106-open-closed-weight/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 06 Nov 2026 20:00:00 +0900",
+    "fetched_at": "2026-11-07T00:33:18.111033+00:00",
+    "summary": "AIモデルの提供プラットフォームであるOpenRouterの調査によると、2026年9月末時点で、OpenRouter上の上位50モデルのトークンのうちオープンウェイトモデルが処理した割合は72％と、前年の27％から大幅に増加したとのこと。AIのオープンウェイトモデルとクローズドウェイトモデルの違いについて、OpenRouterが解説しています。 続きを読む…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "なぜかWindowsの「ペイント」にリモートコード実行の脆弱性",
+    "url": "https://gigazine.net/news/20261106-ms-paint-remote-code-execution-vulnerability/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 06 Nov 2026 19:00:00 +0900",
+    "fetched_at": "2026-11-07T00:33:18.111787+00:00",
+    "summary": "Windowsに標準搭載されているお絵描きソフト「ペイント」に、リモートコードを実行してしまう脆弱(ぜいじゃく)性が存在することが明らかになりました。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
