@@ -6513,6 +6513,32 @@
     ]
   },
   {
+    "title": "【期間限定最大75％オフ】YouTubeなどの動画サイト1000以上からダウンロードできる「VideoProc Converter AI」と簡単に低解像度から自然に4K高画質化できる「Aiarty Video Enhancer」を使ってみたよレビュー",
+    "url": "https://gigazine.net/news/20261109-videoproc-converter-ai-aiarty-video-enhancer/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 09 Nov 2026 09:00:00 +0900",
+    "fetched_at": "2026-11-09T00:25:12.674560+00:00",
+    "summary": "YouTubeやX(旧Twitter)を含む1000以上のサイトから動画をダウンロードすることができる「VideoProc Converter AI」と、低解像度の動画をAIを用いて4Kや8Kに高画質化することができる「Aiarty Video Enhancer」を併用すれば、「低解像度の動画をYouTubeからダウンロードして4K高画質化する」という作業が…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "超低コストで効率的な学習に成功した画像生成AIモデル「P-JiT」、オープンウェイトで公開中",
+    "url": "https://gigazine.net/news/20261109-pjit-21k/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 09 Nov 2026 07:00:00 +0900",
+    "fetched_at": "2026-11-09T00:25:12.681514+00:00",
+    "summary": "2名の研究者によるAI研究組織「Linum」が画像生成モデル「Pyramid-JiT(P-JiT)」を公開しました。P-JiTは画像生成AIが抱える「生成に時間とコストがかかる」「制御が難しい」という二つの主要な課題の克服を目指しており、開発コストを2万1千ドル(約331万5千円)に抑えられたことがアピールされています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "史上最大の株式市場デビューとなることが期待されているOpenAI・Anthropic・SpaceXを市場は受け止めきれるか？",
     "url": "https://gigazine.net/news/20260608-stockmarket-swallow-anthropic-spacex-openai/",
     "source": "GIGAZINE",
@@ -8405,6 +8431,45 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Excelで帳票レイアウトを作成、CSVデータから簡単に単票や明細付きの帳票を生成できる「AS-DataReport」が新登場［PR］",
+    "url": "https://www.publickey1.jp/blog/26/excelcsvas-datareportpr.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-08T15:16:44Z",
+    "fetched_at": "2026-11-09T00:25:12.541916+00:00",
+    "summary": "年度の切り替え時に取引先に提出する見積書のフォーマットが変わる、取引先から納品書のフォーマットを指定されたなど、ビジネスにおいて帳票のレイアウトに新たな要求が寄せられることは珍しくありません。 しかし業務システムをそのたびに作り変えるのは一...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "MCP仕様を完全にサポートしたMCP公式のRuby SDKが登場。「MCP SDK Tier 1」に到達と",
+    "url": "https://www.publickey1.jp/blog/26/mcpmcpruby_sdkmcp_sdk_tier_1.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-08T15:12:29Z",
+    "fetched_at": "2026-11-09T00:25:12.551601+00:00",
+    "summary": "Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、MCP公式のRuby SDKがMCP仕様を完全にサポートした「M...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "ターミナル用ライブラリ［Libghostty 1.0」リリース。Windows版マルチプレクサ「Rex」もまもなく登場予定",
+    "url": "https://www.publickey1.jp/blog/26/libghostty_10windowsrex.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-08T15:09:07Z",
+    "fetched_at": "2026-11-09T00:25:12.553170+00:00",
+    "summary": "ターミナルエミュレータ「Ghostty」のコア部分を汎用ライブラリ化した「Libghostty 1.0」正式版がリリースされました。 「Libghostty」は、HashiCorpの共同創業者であり、同社を退社後は個人開発者としてターミナル...…",
     "importance": "medium",
     "tags": [
       "it"
