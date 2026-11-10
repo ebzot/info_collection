@@ -1651,6 +1651,45 @@
     ]
   },
   {
+    "title": "大学生の学業成績に最も悪影響を与えるのはストレスや不安ではなく「先延ばし」",
+    "url": "https://gigazine.net/news/20261110-college-students-procrastination-academic-problem/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 10 Nov 2026 12:00:00 +0900",
+    "fetched_at": "2026-11-10T03:05:46.887982+00:00",
+    "summary": "「先延ばし」は多くの人が持っている悪癖であり、締め切りがある仕事を後回しにして緊急ではない事務作業を進めたり、テスト期間中なのに部屋の掃除を始めたりした経験がある人も多いはず。大学生の間でも、「先延ばし」はストレスや不安よりも学業成績に悪影響を与えているとの研究結果が報告されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "冷蔵庫・冷凍庫へのサイバー攻撃はイランによるものだとフランス外相が非難",
+    "url": "https://gigazine.net/news/20261110-france-fridges-hacking-iran/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 10 Nov 2026 11:58:00 +0900",
+    "fetched_at": "2026-11-10T03:05:46.890164+00:00",
+    "summary": "スーパーマーケットの冷蔵庫や冷凍庫を対象に設定温度を上げるサイバー攻撃が行われた問題で、フランスのジャン＝ノエル・バロ外務大臣が「攻撃はイランの革命防衛隊によって行われたものだと確認された」と述べ、イランに対して制裁を課す方針を示しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "誰でも簡単にWindowsやMacで広告ブロックできる「AdGuard 広告ブロッカー」のインストールと使い方、ブラウザだけでなくアプリやスタートメニューに出る広告までまとめて削除",
+    "url": "https://gigazine.net/news/20261110-adguard-windows-mac/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 10 Nov 2026 09:00:00 +0900",
+    "fetched_at": "2026-11-10T03:05:46.889178+00:00",
+    "summary": "詐欺的な広告やサイトのコンテンツを覆い隠す不快な広告が爆増しており、Googleへ通報してもイタチごっこで対応が追いつかない状況になっています。そうした広告に悩まされるのはAndroidやiPhoneなどのスマホを使っている時だけではなく、WindowsやMacのPCでウェブサイトを見たりアプリを使ったりしているときも同じ。今回はGIGAZINE編集部がオス…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "トランプ大統領一族が仮想通貨市場や予測市場に参入するため政府機関から職員を追放したとの報道",
     "url": "https://gigazine.net/news/20260609-cftc-trump/",
     "source": "GIGAZINE",
@@ -8431,6 +8470,32 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Google、Kubernetesで10倍高密度にAIエージェントを実行可能にする「Agent Sustrate」と「gVisor」、オープンソースとしてCNCFに寄贈と発表",
+    "url": "https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-09T15:25:30Z",
+    "fetched_at": "2026-11-10T03:05:46.745453+00:00",
+    "summary": "Googleは、Kubernetes上にAIエージェントのための高効率な基盤を構築するためのオープンソースソフトウェア「Agent Substrate」と「gVisor」を、Linux Foundation傘下のCloud Native C...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "マイクロソフト、150以上のオープンソースUIコンポーネントがBlazorに寄贈されたことを発表。InfragisticsとSyncfusionから",
+    "url": "https://www.publickey1.jp/blog/26/150uiblazorinfragisticssyncfusion.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-09T15:22:44Z",
+    "fetched_at": "2026-11-10T03:05:46.776938+00:00",
+    "summary": "マイクロソフトは、C#などの.NETテクノロジーを用いてWebアプリケーションの開発を可能にするフレームワーク「Blazor」に150以上のオープンソースUIコンポーネントが寄贈されたことを発表しました（発表1、発表2） これはマイクロソフ...…",
     "importance": "medium",
     "tags": [
       "it"
