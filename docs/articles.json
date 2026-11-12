@@ -2834,6 +2834,32 @@
     ]
   },
   {
+    "title": "Appleが約30年の歴史を持つ「Appleサポートコミュニティ」を2026年11月20日に閉鎖へ",
+    "url": "https://gigazine.net/news/20261112-apple-support-community-closing/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 12 Nov 2026 11:04:00 +0900",
+    "fetched_at": "2026-11-12T02:05:04.061421+00:00",
+    "summary": "Appleが2026年11月10日、Apple製品のユーザー同士が質問や回答を投稿できるAppleサポートコミュニティを11月20日に閉鎖すると発表しました。1998年から名称を変えながら運営されてきたフォーラムが、約28年の歴史に幕を下ろします。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "ゼロから独自開発した国産AIでトップクラスの日本語翻訳精度を実現する「PLaMo翻訳」を開発したPreferred Networksエンジニアに編集長が根掘り葉掘り聞いてみたよインタビュー",
+    "url": "https://gigazine.net/news/20261112-preferred-networks-plamo-translate-interview/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 12 Nov 2026 09:00:00 +0900",
+    "fetched_at": "2026-11-12T02:05:04.062542+00:00",
+    "summary": "日本の企業・Preferred Networks(PFN)が提供する「PLaMo」はフルスクラッチで開発された国産生成AI基盤モデルで、日本語に特化しているのが特徴。このPLaMoベースで開発された「PLaMo翻訳」はとにかく非常に質の高い翻訳が可能で、テキスト翻訳だけでなくFirefoxやChromeの拡張機能でも提供されています。2026年10月にはPL…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "AppleがmacOS上で高速かつ軽量なLinux環境を提供できる「Container machine」を発表",
     "url": "https://gigazine.net/news/20260611-apple-container-machines/",
     "source": "GIGAZINE",
@@ -8496,6 +8522,45 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "テストフレームワーク「Playwright」がBunを正式サポート。テストランナーの実行を可能に",
+    "url": "https://www.publickey1.jp/blog/26/playwrightbun.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-11T15:07:35Z",
+    "fetched_at": "2026-11-12T02:05:03.899507+00:00",
+    "summary": "Webアプリケーションのテストフレームワーク「Playwright」が、最新バージョンのv1.65.0で、Bunでのテストランナー実行を正式にサポートしました。 PlaywrightのテストランナーはこれまでNode.jsが用いられていまし...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
+    "url": "https://www.publickey1.jp/blog/26/awsaiec2vmaws_nitro_sandboxes.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-11T15:04:47Z",
+    "fetched_at": "2026-11-12T02:05:03.914077+00:00",
+    "summary": "Amazon Web Services（AWS）は、Amazon EC2インスタンス上でほぼネイティブのEC2性能で動作しつつ、Nitroシステムハードウェアレベルのきわめて強力な隔離環境を備えた軽量な仮想マシン「AWS Nitro San...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "ITエンジニアが選ぶ「ITエンジニア本大賞2027」投票スタート",
+    "url": "https://www.publickey1.jp/blog/26/itit2027.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-11T15:01:02Z",
+    "fetched_at": "2026-11-12T02:05:03.915393+00:00",
+    "summary": "翔泳社が毎年開催している「ITエンジニア本大賞」の今年の投票が開始されました。 「ITエンジニア本大賞2027」投票がスタート！ https://t.co/9elKdpCcVS 今年読んでよかったおすすめ本を投票してみてください&mdash...…",
     "importance": "medium",
     "tags": [
       "it"
