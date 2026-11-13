@@ -2834,6 +2834,19 @@
     ]
   },
   {
+    "title": "NVIDIAのジェンスン・フアンがCEOを辞任",
+    "url": "https://gigazine.net/news/20261112-nvidia-jensen-huang-resigns/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 12 Nov 2026 23:16:00 +0900",
+    "fetched_at": "2026-11-13T01:37:41.315167+00:00",
+    "summary": "NVIDIAの創業者であるジェンスン・フアン氏がCEOおよび取締役を辞任しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "Appleが約30年の歴史を持つ「Appleサポートコミュニティ」を2026年11月20日に閉鎖へ",
     "url": "https://gigazine.net/news/20261112-apple-support-community-closing/",
     "source": "GIGAZINE",
@@ -7761,6 +7774,32 @@
     ]
   },
   {
+    "title": "2026年のCPU-Z統計ではメモリ64GB搭載PCの割合が2025年の同時期より18％減少、旧世代のDDR4はシェア拡大",
+    "url": "https://gigazine.net/news/20261113-cpu-z-64gb-ram-ddr4/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 13 Nov 2026 09:15:00 +0900",
+    "fetched_at": "2026-11-13T01:37:41.313110+00:00",
+    "summary": "PCの構成を調べられる無料ソフト「CPU-Z」の開発元であるCPUIDが、2026年11月時点のハードウェア統計を公開しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "無料でAWSをローカル環境で再現できるAmazon公式エミュレーターが登場",
+    "url": "https://gigazine.net/news/20261113-aws-emulator/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 13 Nov 2026 07:00:00 +0900",
+    "fetched_at": "2026-11-13T01:37:41.314368+00:00",
+    "summary": "Amazonはすべて自律AIエージェントによって開発された新しいローカルAWSエミュレーター「AWS Emulator」をリリースしました。AWS EmulatorはAWSサービスをローカル環境で実行することによりAWSアプリケーションの開発とテストを可能にするとのことです。注目すべき点として、AWS Emulatorのプロジェクトでは人間のエンジニアによる…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "Snapdragon 8 Elite Gen 5を搭載する「Xperia 1 VIII」のベンチマーク結果まとめ、ソニー・Xperiaシリーズのフラッグシップモデルの性能はどれほどか？",
     "url": "https://gigazine.net/news/20260612-sony-xperia-1-viii-benchmark/",
     "source": "GIGAZINE",
@@ -8522,6 +8561,32 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Google Antigravity、クラウド上でAIエージェントが働く「リモートエージェント」機能を搭載。就業時間外でもAIエージェントは働き続ける",
+    "url": "https://www.publickey1.jp/blog/26/google_antigravityaiai.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-12T15:13:43Z",
+    "fetched_at": "2026-11-13T01:37:41.177324+00:00",
+    "summary": "Googleが提供するAIエージェントによる開発環境「Antigravity」に、新機能「リモートエージェント」が搭載されました。 We want Antigravity to be working for you all the time...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミュレータ」正式リリース",
+    "url": "https://www.publickey1.jp/blog/26/awsawsaws_1.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-12T15:09:51Z",
+    "fetched_at": "2026-11-13T01:37:41.189681+00:00",
+    "summary": "Amazon Web Servicesは、ローカルマシン上でAWSのAPIをエミュレートする「AWSエミュレータ」の正式リリースを発表しました。 ダウンロードしてインストールすれば誰でも無料で利用でき、AWSアカウントも不要です。 Toda...…",
     "importance": "medium",
     "tags": [
       "it"
