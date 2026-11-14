@@ -5109,6 +5109,32 @@
     ]
   },
   {
+    "title": "AIを使って科学論文を偽造してみたらこうなった",
+    "url": "https://gigazine.net/news/20261114-ai-generated-scientific-papers/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 14 Nov 2026 09:00:00 +0900",
+    "fetched_at": "2026-11-14T01:10:02.584714+00:00",
+    "summary": "学術出版業界ではAIによって大量生産された低品質なコンテンツ、いわゆる「AIスロップ」が問題視されつつあります。科学技術系フリーライターのベンジャミン・スクーゼ氏はAIツールを用いて偽造論文を生成する実証実験を通じ、学術出版システムの未来に関する考察を行いました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "幻覚がひどいAIでも言葉遣いが洗練されていれば人を簡単に騙せることが判明",
+    "url": "https://gigazine.net/news/20261114-llm-fluency-credible/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 14 Nov 2026 08:00:00 +0900",
+    "fetched_at": "2026-11-14T01:10:02.588282+00:00",
+    "summary": "ChatGPTなどに代表される大規模言語モデルは、その根本的な仕組みとして、モデル自身は自分の回答が合っているか間違っているかを判断できません。そのためこの手のAIには事実ではないことをまるで事実かのように話してしまう「幻覚(ハルシネーション)」の問題が常につきまといます。新たな研究では、AIの回答に幻覚があったとしても、流暢(りゅうちょう)な言葉遣いであれ…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "KDPで「予約注文禁止状態」になってから解除されるまでの経緯をまとめてみた",
     "url": "https://gigazine.net/news/20260613-kdp-pre-orders/",
     "source": "GIGAZINE",
@@ -7768,6 +7794,45 @@
     "published_at": "Fri, 14 Aug 2026 06:00:00 +0900",
     "fetched_at": "2026-08-13T21:38:10.543737+00:00",
     "summary": "ニンニクの球根をバラすと複数の「かけら」に分かれる理由を、料理や食べ物にまつわる科学を扱うYouTubeチャンネルのMinuteFoodが解説しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "無料・インストール不要で日本語を含む13言語のリアルタイム文字起こしがブラウザからできる「Voxtral Mini 4B Realtime WebGPU」、WebGPUを駆使して完全ローカル動作可能",
+    "url": "https://gigazine.net/news/20261113-voxtral-mini-4b-realtime-webgpu/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 13 Nov 2026 23:00:00 +0900",
+    "fetched_at": "2026-11-14T01:10:02.590256+00:00",
+    "summary": "会議や取材で録音した音声を文字に起こす際には、録音ファイルをアップロードしたり専用の文字起こしソフトを使ったりする方法がありますが、ブラウザだけでリアルタイムに行える無料のツールが「Voxtral Mini 4B Realtime WebGPU」です。日本語を含む13言語に対応し、WebGPUによって音声認識AIを完全ローカルで実行できるとのことなので実際に…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "古い機器をスマートホームデバイスとしてよみがえらせる「Home Assistant Connect AUX-2」が発売開始",
+    "url": "https://gigazine.net/news/20261113-home-assistant-connect-aux-2/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 13 Nov 2026 22:00:00 +0900",
+    "fetched_at": "2026-11-14T01:10:02.591008+00:00",
+    "summary": "「Home Assistant」は異なるメーカーのIoTデバイスを一元管理して、スマートホームを構築できるオープンソースサービスであり、非営利団体のOpen Home Foundationによって運営されています。そんなOpen Home Foundationの商業部門であるNabu Casaが、非スマートホームのデバイスをスマートホームデバイスとして生まれ…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "古いiPadやメモリ1GBの小型端末でも160億パラメータのAIをローカルで動かせる無料ツール「smolmaxxing」が登場",
+    "url": "https://gigazine.net/news/20261113-smolmaxxing/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 13 Nov 2026 21:00:00 +0900",
+    "fetched_at": "2026-11-14T01:10:02.591749+00:00",
+    "summary": "古いタブレットや小型デバイスでもAIモデルを動かせるようにするオープンソースプロジェクト「smolmaxxing」が公開されました。メモリ容量が限られた端末でもAIモデルを実行できるようにするもので、2013年発売の初代iPad Airや小型のテレビ用端末で動作が確認されています。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
