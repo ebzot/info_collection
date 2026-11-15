@@ -3796,6 +3796,32 @@
     ]
   },
   {
+    "title": "AIが便利になればなるほど深刻になる「自動化の皮肉」に人間はどう対処すべきか",
+    "url": "https://gigazine.net/news/20261115-ai-isnt-replacing-sres-its-deskilling/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 15 Nov 2026 09:00:00 +0900",
+    "fetched_at": "2026-11-15T00:36:03.312341+00:00",
+    "summary": "近年のAIの進化はSRE(サイト信頼性エンジニアリング)に大きな影響を与えています。AIがインシデント対応の大部分を自動化するにつれて、人間が担うべき「稀・複雑・曖昧」な問題への対応能力が低下するという「自動化の皮肉」が指摘されています。オープンソースのシステム監視・分析ツール「SigNoz」の開発者エリザベス・マシュー氏は「AIがインシデント対応の95%を…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "ナルシシストはSNSの登場で増加しているのか？",
+    "url": "https://gigazine.net/news/20261115-narcissists-sns/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 15 Nov 2026 08:00:00 +0900",
+    "fetched_at": "2026-11-15T00:36:03.315648+00:00",
+    "summary": "承認欲求を簡単に満たすことができるSNSの登場で、強い自己愛を持つナルシシストが増えているのではないかと考えた研究者らが、ナルシシストとSNSの関係について調査しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "メモ書き機能付きAmazon純正電子書籍リーダー「Kindle Scribe」に初のカラー表示可能な「Kindle Scribe Colorsoft」を含む3モデルが新登場したので使ってみた",
     "url": "https://gigazine.net/news/20260614-kindle-scribe-2026/",
     "source": "GIGAZINE",
@@ -5103,6 +5129,45 @@
     "published_at": "Sat, 15 Aug 2026 12:30:00 +0900",
     "fetched_at": "2026-08-15T21:14:58.450167+00:00",
     "summary": "アクションカメラなどで知られるInsta360から、送信機の前面にカスタマイズ可能なE-Inkディスプレイを搭載したワイヤレスマイク「Insta360 Mic Pro」が2026年5月19日に登場しました。Mic Proは3基のマイクを内蔵して指向性を切り替えられるほか、AIノイズキャンセリングやオートゲインなども搭載しています。そんなMic Proを実際に…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "摂取量が多い人ほど認知機能が速く低下する傾向が見られた6種の甘味料とは？",
+    "url": "https://gigazine.net/news/20261114-sugar-substitutes-cognitive-decline/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 14 Nov 2026 23:00:00 +0900",
+    "fetched_at": "2026-11-15T00:36:03.316849+00:00",
+    "summary": "ゼロカロリーの炭酸飲料や砂糖不使用のガムには砂糖に代わるさまざまな甘味料が使われています。ブラジルのサンパウロ大学などの研究チームは、成人を約8年間追跡した観察研究のデータを基に甘味料の摂取量と認知機能の変化との関係を調べました。7種類の甘味料を種類ごとに分析したところ、6種類の甘味料で、摂取量が多い人ほど認知機能テストの総合成績が速く低下する傾向が見られた…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "高速回転するホイールが発する火花を超スローモーションで捉えたムービー",
+    "url": "https://gigazine.net/news/20261114-10-billion-sparks/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 14 Nov 2026 21:30:00 +0900",
+    "fetched_at": "2026-11-15T00:36:03.318099+00:00",
+    "summary": "ハイスピードカメラを使ってさまざまな瞬間を超スローモーションで撮影するYouTubeチャンネルのThe Slow Mo Guysが、高速回転するホイールから円状に放出される火花をスローモーションで撮影することを試みたムービーを公開しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "無料で時間管理用のカレンダーとタスク管理用のToDoアプリの両方を1つのタイムラインにまとめる「Mitra」、CalDAV・Googleカレンダー・Appleカレンダー・Notion・Todoist・Tempoと双方向同期可能",
+    "url": "https://gigazine.net/news/20261114-mitra/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 14 Nov 2026 21:00:00 +0900",
+    "fetched_at": "2026-11-15T00:36:03.319334+00:00",
+    "summary": "仕事や日常生活の予定をカレンダーで管理し作業内容をToDoアプリに登録していると、予定とタスクをそれぞれ確認する必要があります。この2つの機能を1つのタイムラインに統合し、空き時間へタスクを割り当てたりGoogleカレンダー・Notion・Todoistなどと双方向同期したりできる無料のオープンソースアプリ「Mitra」を実際に使ってみました。 続きを読む.…",
     "importance": "medium",
     "tags": [
       "it"
