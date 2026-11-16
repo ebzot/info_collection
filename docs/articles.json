@@ -3796,6 +3796,19 @@
     ]
   },
   {
+    "title": "大量のMacBook Proでデータセンターを構築した企業が「なぜMacなのか」を解説",
+    "url": "https://gigazine.net/news/20261115-mac-datacenter-namespace/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 15 Nov 2026 23:20:00 +0900",
+    "fetched_at": "2026-11-16T00:37:09.452835+00:00",
+    "summary": "NamespaceはWindowsやmacOSの仮想環境をオンラインで提供している企業です。NamespaceはmacOS関連サービスを展開するために大量のMacBook Proを導入しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "AIが便利になればなるほど深刻になる「自動化の皮肉」に人間はどう対処すべきか",
     "url": "https://gigazine.net/news/20261115-ai-isnt-replacing-sres-its-deskilling/",
     "source": "GIGAZINE",
@@ -6487,6 +6500,32 @@
     ]
   },
   {
+    "title": "スピーカーに12億Wもの電力を瞬間的に流し込むとどうなるのか？",
+    "url": "https://gigazine.net/news/20261116-billion-wats-in-speaker/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 16 Nov 2026 07:00:00 +0900",
+    "fetched_at": "2026-11-16T00:37:09.450563+00:00",
+    "summary": "映画「バック・トゥ・ザ・フューチャー」では、タイムマシンを動かすために1.21GW(12億1000万W)もの電力を必要とする設定となっています。そんな途方もない電力を家庭用電源から生み出して市販のスピーカーに瞬間的に流し込むとどうなるのかを検証した実験動画を、電気工作系YouTuberのPhotonicinductionが公開しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "自転車専用レーンを守るための物を勝手に設置する「ゲリラ自転車レーン」が恒久化した事例",
+    "url": "https://gigazine.net/news/20261116-guerrilla-bike-lanes/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Mon, 16 Nov 2026 02:07:00 +0900",
+    "fetched_at": "2026-11-16T00:37:09.451742+00:00",
+    "summary": "サンフランシスコで2人のサイクリストがひき逃げ事故で亡くなった後、都市活動家グループが、自転車レーンを守るための交通コーンを非公式で設置しました。通常はこのようにゲリラ的に設置されたものは市当局に撤去されますが、同じ活動家グループが設置した物を市が公式なものとして認めるという対応をした事例があります。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "ソニーのハイエンドスマホ「Xperia 1 VIII」の発熱やバッテリーの持ちが気になったのでチェックしてみたよレビュー",
     "url": "https://gigazine.net/news/20260615-sony-xperia-1-viii-battery/",
     "source": "GIGAZINE",
@@ -8691,6 +8730,32 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか",
+    "url": "https://www.publickey1.jp/blog/26/postgresql_194ai.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-15T15:31:49Z",
+    "fetched_at": "2026-11-16T00:37:09.358698+00:00",
+    "summary": "オープンソースのリレーショナルデータベース「PostgreSQL」は、先週木曜日（2026年11月12日）に最終リリース候補版となるPostgreSQL 19 RC2が公開され、予定では今週の11月19日に正式リリースとなる見通しです。 そ...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開",
+    "url": "https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-15T15:30:19Z",
+    "fetched_at": "2026-11-16T00:37:09.372008+00:00",
+    "summary": "Cloudflareは、AIエージェントが操作することを想定した軽量のヘッドレスブラウザ「Kitesurf」をオープンソースで公開したと発表しました。 Kitesurf is now open source on GitHub under ...…",
     "importance": "medium",
     "tags": [
       "it"
