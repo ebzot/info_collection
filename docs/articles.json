@@ -1443,6 +1443,45 @@
     ]
   },
   {
+    "title": "Hugging Faceのモデル公開ページでOpenRouterのルーティングサービスを用いたチャットが可能に",
+    "url": "https://gigazine.net/news/20261117-hugging-face-openrouter/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 17 Nov 2026 12:20:00 +0900",
+    "fetched_at": "2026-11-17T03:20:55.279529+00:00",
+    "summary": "Hugging FaceとOpenRouterが提携し、Hugging Faceのサービス内でOpenRouterのルーティングサービスを利用できるようになりました。これにより、Hugging Faceのユーザーはコスト効率やレイテンシなどを加味しつつプロバイダーを選択できるようになります。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Boseが60万個以上のBluetoothスピーカー用バッテリーをリコール",
+    "url": "https://gigazine.net/news/20261117-bose-recalls-s1-pro/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 17 Nov 2026 12:15:00 +0900",
+    "fetched_at": "2026-11-17T03:20:55.280727+00:00",
+    "summary": "アメリカに本社を置く音響機器メーカーのBoseが、Bluetoothスピーカーシステム用のバッテリーについて過熱して発火する可能性があるとして、60万個以上をリコールしました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "トランプ大統領がジェンスン・フアンのNVIDIAのCEO復帰を支持、一方で取締役会はフアンをCEOに戻す気なし",
+    "url": "https://gigazine.net/news/20261117-trump-backs-return-of-jensen-huang/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 17 Nov 2026 12:10:00 +0900",
+    "fetched_at": "2026-11-17T03:20:55.281557+00:00",
+    "summary": "不倫問題を認めたのちNVIDIAのCEOを辞任したジェンスン・フアン氏について、会社内外から強い復帰の要望が出ている中、親密な仲として知られるアメリカのドナルド・トランプ大統領もフアン氏のCEO復帰支持を表明しました。ただし、NVIDIAの取締役会はフアン氏のCEO復帰については検討していないと述べています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "力こそパワーな筋肉駆動の手回し式AIマシン「CrankGPT」が登場、負荷の高いAI処理ほど多くの筋力を求められる仕様",
     "url": "https://gigazine.net/news/20260616-crankgpt-local-human-powered-ai/",
     "source": "GIGAZINE",
@@ -8730,6 +8769,32 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "軽量なマイクロVMでネイティブよりアプリを高速起動できる「Hyperlight-Unikraft」登場",
+    "url": "https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-16T18:30:31Z",
+    "fetched_at": "2026-11-17T03:20:55.167351+00:00",
+    "summary": "Cloud Native Computing Foundationは、Linuxアプリケーションを再コンパイルや再ビルドすることなくそのまま、Unikernelのような軽量かつセキュアな実行環境で仮想マシンによる堅牢な隔離環境で実行できるM...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Node.jsとnpmをWebブラウザ上で実行可能にする「OpenVessel」、神戸ソフトがオープンソースで公開",
+    "url": "https://www.publickey1.jp/blog/26/nodejsnpmwebopenvessel.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-16T15:23:28Z",
+    "fetched_at": "2026-11-17T03:20:55.171412+00:00",
+    "summary": "神戸ソフトは、Webブラウザ上でNode.jsとパッケージマネージャのnpm、AstroなどのNode.jsに対応したフレームワークなどが実行できる「OpenVessel」をオープンソースで公開しました。 OpenVesselは、Webブラ...…",
     "importance": "medium",
     "tags": [
       "it"
