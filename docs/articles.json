@@ -2587,6 +2587,32 @@
     ]
   },
   {
+    "title": "ゲームのように移動可能な世界を生成できるAI「Genie 4」をGoogleが正式リリース、参照画像を入力したり途中で環境を変更したりできる",
+    "url": "https://gigazine.net/news/20261119-google-genie-4/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 19 Nov 2026 11:07:00 +0900",
+    "fetched_at": "2026-11-19T02:10:28.488941+00:00",
+    "summary": "Googleがインタラクティブな仮想世界を生成できる世界モデル「Genie 4」を正式リリースしました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "好きな時にAmazonの商品を受け取れる「Amazonロッカー」のセキュリティをあらゆる手段を駆使して突破する試み～ソフトウェア編",
+    "url": "https://gigazine.net/news/20261119-breaking-amazon-lockers/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 19 Nov 2026 10:17:00 +0900",
+    "fetched_at": "2026-11-19T02:10:28.491541+00:00",
+    "summary": "DEF CON 34カンファレンスにおいてセキュリティエンジニアのマーティン・ヴィゴ氏が、日常生活に不可欠な存在となりつつあるAmazonロッカーのセキュリティに関する調査結果を発表しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "アメリカの科学界はトランプ大統領の政策で大混乱状態に陥っている",
     "url": "https://gigazine.net/news/20260618-us-science-chaos/",
     "source": "GIGAZINE",
@@ -8769,6 +8795,45 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
+    "url": "https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-18T16:00:37Z",
+    "fetched_at": "2026-11-19T02:10:28.334821+00:00",
+    "summary": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "マイクロソフト、AIが生成したアプリを企業内で安全に実行するランタイム「Copilot Managed Runtime」正式リリース",
+    "url": "https://www.publickey1.jp/blog/26/aicopilot_managed_runtime.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-18T15:58:32Z",
+    "fetched_at": "2026-11-19T02:10:28.340425+00:00",
+    "summary": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIが生成したアプリなどを企業内で安全に実行するための基盤となる「Copilot Managed Runtime」の正式リリース...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "Windows Server 2028がパブリックプレビュー公開。Microsoft FoundryなどAIによる推論の実行基盤へと拡張",
+    "url": "https://www.publickey1.jp/blog/26/windows_server_2028microsoft_foundryai.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-18T15:55:49Z",
+    "fetched_at": "2026-11-19T02:10:28.341866+00:00",
+    "summary": "マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、次期サーバ向けOSとなるWindows Server 2028のパブリックプレビュー公開を発表しました。 企業内のAI推論基盤へ...…",
     "importance": "medium",
     "tags": [
       "it"
