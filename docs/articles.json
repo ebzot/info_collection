@@ -4914,6 +4914,32 @@
     ]
   },
   {
+    "title": "SpaceXは圏外エリアを撲滅しあらゆる場所で通信できるようにするため屋上設置型基地局の設計を完了したとイーロン・マスクが語る",
+    "url": "https://gigazine.net/news/20261121-elon-musk-spacex-plan-eliminate-cell-phone-dead-zones/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 21 Nov 2026 09:00:00 +0900",
+    "fetched_at": "2026-11-21T01:55:11.940509+00:00",
+    "summary": "衛星インターネットサービスのStarlinkを提供する宇宙開発企業・SpaceXのイーロン・マスクCEOが、「地球上のどこでも通信できるようにする計画がある」と語りました。さらに、Starlink衛星からの電波が届きにくい建物内の圏外エリアを解消するために、小型の屋上設置型基地局の設計を完了したことも明かしています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "退役したジェットエンジンがAIデータセンターの動力源として使われている",
+    "url": "https://gigazine.net/news/20261121-jet-engine-ai-power/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 21 Nov 2026 08:00:00 +0900",
+    "fetched_at": "2026-11-21T01:55:11.951769+00:00",
+    "summary": "発電能力を確保するため、ボーイングやエアバスなど民間機で使われ役目を終えた古いジェットエンジンが買いあさられていることが分かりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "歩きながらブレのない安定した動画を撮影できる小型カメラ「Osmo Pocket 4」でVlogっぽい散歩動画を撮影してみたよレビュー",
     "url": "https://gigazine.net/news/20260620-osmo-pocket-4-example/",
     "source": "GIGAZINE",
@@ -7573,6 +7599,45 @@
     "published_at": "Fri, 21 Aug 2026 06:00:00 +0900",
     "fetched_at": "2026-08-20T21:21:10.786817+00:00",
     "summary": "生成AIはさまざまな現場で活用されており、法律の現場でも関係者がAIを使って提出書類を要約したり、裁判書類の作成をAIにサポートさせたりしています。そんな中、弁護人に依頼せず自ら本人訴訟を起こしたアメリカの男性が、裁判所への提出書類に「自分に有利な出力を生成するようにAIへ指示するテキスト」を隠していたことが発覚しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "VPN通信に使うWireGuardやOpenVPNをターミナルUIの1画面で管理できる「Vortix」、マルチトンネル制御・リアルタイムテレメトリ・リークガード機能を搭載",
+    "url": "https://gigazine.net/news/20261120-vortix/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 20 Nov 2026 23:00:00 +0900",
+    "fetched_at": "2026-11-21T01:55:11.952723+00:00",
+    "summary": "複数のVPNを利用していると接続先ごとに異なるアプリやコマンドを使い分ける必要があり、通信状態や通信経路の確認も複雑になります。そこでWireGuard・OpenVPNなどの接続管理を一つの画面にまとめ、通信速度・遅延のリアルタイム監視・情報漏えいの検出・VPN切断時の通信遮断まで行える無料のオープンソースツールが「Vortix」です。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "SSDの価格は2027年後半に下落し始める可能性あり",
+    "url": "https://gigazine.net/news/20261120-ssd-prices-outlook/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 20 Nov 2026 22:00:00 +0900",
+    "fetched_at": "2026-11-21T01:55:11.953564+00:00",
+    "summary": "アナリストの分析により、HDDの価格が今後2年で高止まりする一方、SSDは価格が落ち着くという予測が出てきました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "RTX Spark搭載ノートPCで画像生成AIや動画生成AIのローカル実行速度を検証した結果が公開される",
+    "url": "https://gigazine.net/news/20261120-rtx-spark-image-video-generation/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 20 Nov 2026 21:00:00 +0900",
+    "fetched_at": "2026-11-21T01:55:11.954374+00:00",
+    "summary": "RTX SparkはNVIDIAが開発したSoCで、RTX Sparkを搭載したノートPCやミニPCは大規模言語モデルやコンテンツ生成モデルをローカルで実行することができます。そんなRTX Spark搭載ノートPCで画像生成AIや動画生成AIを実行して速度を検証した結果をテクノロジーメディアのLTT Labsが公開しています。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
