@@ -3653,6 +3653,32 @@
     ]
   },
   {
+    "title": "多様性を受け入れるには「幸福感」が重要かもしれないとの研究結果",
+    "url": "https://gigazine.net/news/20261122-happiness-emotional-lever-openness-diversity/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 22 Nov 2026 09:00:00 +0900",
+    "fetched_at": "2026-11-22T00:50:59.321484+00:00",
+    "summary": "さまざまな背景を持つ人々がともに生活している現代社会では、多様性や公平性についての取り組みが重要となっていますが、一部の人は多様性を推進する取り組みに反対しています。新たな研究では、多様性を受け入れて社会的不平等に疑問を持つには、「幸福感」を覚えることが重要かもしれないとの結果が示されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "出社してオフィスで働く頻度の最適解とは？",
+    "url": "https://gigazine.net/news/20261122-work-at-office/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sun, 22 Nov 2026 08:00:00 +0900",
+    "fetched_at": "2026-11-22T00:50:59.325056+00:00",
+    "summary": "2019年から発生した新型コロナウイルス感染症によるパンデミックで、多くの企業が従業員に自宅で仕事をさせるリモートワークを実施しました。あれから数年が経過し、リモートワークを取りやめる企業も出てきていますが、出勤に伴うストレスが減ることからリモートワークの継続を願う人も少なくありません。新たな研究で、週5日勤務の場合何日出社すればバランスがいいのかが明らかに…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "ハチミツは運動のパフォーマンス向上に役立つのか？",
     "url": "https://gigazine.net/news/20260621-honey-natural-fuel-workouts/",
     "source": "GIGAZINE",
@@ -4908,6 +4934,45 @@
     "published_at": "Sat, 22 Aug 2026 17:20:00 +0900",
     "fetched_at": "2026-08-22T21:15:28.536546+00:00",
     "summary": "Googleのコーディングエージェント「Antigravity」がウェブブラウザからのリモートコントロールに対応しました。ユーザーの操作が必要になった際にスマートフォンに通知を届ける機能も提供されています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "無料でセルフホストできWindows・macOS・LinuxアプリもあるRSSリーダー「WyrmRSS」、YouTube動画の再生やDiscord・Slackへの新着通知も可能",
+    "url": "https://gigazine.net/news/20261121-wyrmrss/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 21 Nov 2026 23:00:00 +0900",
+    "fetched_at": "2026-11-22T00:50:59.326197+00:00",
+    "summary": "ニュースサイトやブログなどの更新情報をまとめて取得できるほか、YouTube動画の再生・フィルター・外部サービスへの新着通知にも対応した無料のオープンソースRSSリーダーが「WyrmRSS」です。セルフホストに加えてWindows・macOS・Linux用のアプリも提供されているので実際に使ってみました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "ヒヨコの脳細胞は酸素が極めて少なくても2時間以上生き延びる",
+    "url": "https://gigazine.net/news/20261121-chicken-brain-low-oxygen/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 21 Nov 2026 22:00:00 +0900",
+    "fetched_at": "2026-11-22T00:50:59.327391+00:00",
+    "summary": "人間の脳に酸素が届かなくなると一部の脳細胞は数分で死に始めます。ところが、アメリカのウェイクフォレスト大学の研究チームがヒヨコの脳組織を調べたところ、酸素が極めて少ない状態でも2時間以上にわたって電気信号を出し続ける神経細胞が見つかりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AIエージェントは「仲間のAI」の助けが得られると思うと秘密を漏らしやすくなるという実験結果",
+    "url": "https://gigazine.net/news/20261121-ai-agents-leak-secrets/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 21 Nov 2026 21:00:00 +0900",
+    "fetched_at": "2026-11-22T00:50:59.328806+00:00",
+    "summary": "AIエージェントにソフトウェアのバグ修正を任せ、別のAIとやり取りする中で秘密を守れるかどうかを調べる実験を行ったところ、修正方法を教えてもらう代わりに秘密の認証情報を相手に渡すエージェントがいたという実験結果が報告されています。 続きを読む...…",
     "importance": "medium",
     "tags": [
       "it"
