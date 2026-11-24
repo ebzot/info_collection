@@ -1196,6 +1196,45 @@
     ]
   },
   {
+    "title": "独自開発のブラウザエンジンを搭載した独立系ウェブブラウザ「Ladybird」のアルファ版が登場",
+    "url": "https://gigazine.net/news/20261124-ladybird-now-alpha/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 24 Nov 2026 14:00:00 +0900",
+    "fetched_at": "2026-11-24T05:05:55.095052+00:00",
+    "summary": "Google ChromeやMicrosoft Edge、Opera、Braveといったウェブブラウザは、Googleが開発とメンテナンスを主導するChromiumをベースとしています。こういったGoogleのエコシステムから離れた、独自開発のウェブブラウザが「Ladybird」です。そんなLadybirdのアルファ版がついに登場しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "GTA6のXBOX版実行ファイルが第三者により公開される",
+    "url": "https://gigazine.net/news/20261124-gta6-xbox-build-leaked/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 24 Nov 2026 13:38:00 +0900",
+    "fetched_at": "2026-11-24T05:05:55.096636+00:00",
+    "summary": "2026年11月19日に「グランド・セフト・オートVI(GTA6)」のPlayStation 5(PS5)およびXBOX Series X|S版が発売されて以降、このゲームを公式より先にPCへ移植しようとする試みが進められています。新たにXBOX版の実行ファイルがリリースされ、以前にリリースされたXBOX版ビルドが完成したことが分かりました。 続きを読む..…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "【ブラックフライデーセール開催中】誰でも簡単にAI時代に役立つスキルが動画でわかる「Udemy」おすすめ講座まとめ、Claude Code・AIエージェント・要件定義・Linux・AWS認定資格・AIセキュリティなど",
+    "url": "https://gigazine.net/news/20261124-udemy/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Tue, 24 Nov 2026 09:00:00 +0900",
+    "fetched_at": "2026-11-24T05:05:55.096019+00:00",
+    "summary": "AIにコードを書いてもらったり面倒な仕事をAIエージェントに任せたりと、生成AIを活用することで効率的に仕事を進められるようになってきました。しかし、うまくAIに働いてもらうにはAIに適切な指示を出したりAIが生成したプログラムを動かすインフラを用意したり、安全に運用するためのセキュリティを確保したりするためのスキルが必要です。そんなAI時代に役立つスキルを…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "世界的なメモリ不足が極まってDDR2やDDR3のような旧型製品の価格も上昇開始",
     "url": "https://gigazine.net/news/20260623-cascading-consumer-dram-shortage/",
     "source": "GIGAZINE",
@@ -9042,6 +9081,32 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "DHH氏が開発する「Omarchy 4.5」リリース。一般的なマルチウィンドウをサポート。最速7秒で導入、Appleシリコン対応、Webアプリ版MS Office用ランチャーなど新機能",
+    "url": "https://www.publickey1.jp/blog/26/dhhomarchy_457applewebms_office.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-23T15:49:45Z",
+    "fetched_at": "2026-11-24T05:05:54.990916+00:00",
+    "summary": "Ruby on Railsの作者として知られるDHH氏が主導して開発しているデスクトップ向けのLinux OS「Omarchy」の最新版「Omarchy 4.5」（別名Omarchy Quattro RS）正式版がリリースされました。 Om...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "PostgreSQL 19正式リリース。ノンブロッキングなREPACKやI/Oワーカーのオートスケールなど新機能",
+    "url": "https://www.publickey1.jp/blog/26/postgresql_19repackio.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-23T15:45:37Z",
+    "fetched_at": "2026-11-24T05:05:54.992868+00:00",
+    "summary": "オープンソースのリレーショナルデータベース「PostgreSQL」の最新版となる「PostgreSQL 19」正式版がリリースされました（日本語のプレスリリース）。 PostgreSQLは毎年9月もしくは10月にメジャーバージョンアップが行...…",
     "importance": "medium",
     "tags": [
       "it"
