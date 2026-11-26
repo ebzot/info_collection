@@ -2340,6 +2340,45 @@
     ]
   },
   {
+    "title": "男性の「精子の数や質」は本当に減少しているのか？",
+    "url": "https://gigazine.net/news/20261126-mens-sperm-counts-not-decline/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 26 Nov 2026 12:00:00 +0900",
+    "fetched_at": "2026-11-26T03:19:43.452972+00:00",
+    "summary": "近年は「男性の精子」が世界的に減少しているという研究結果が複数報告されており、出生率への悪影響が懸念されています。ところが、デンマークで行われた研究では過去20年以上にわたって精子の数が安定しており、状況はより複雑であることが示唆されています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "GoogleのAIが人間の介入なしに6本の数学論文を生成、素因数分解など数十年停滞していた分野に光",
+    "url": "https://gigazine.net/news/20261126-cogentic-6-research-papers/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 26 Nov 2026 11:47:00 +0900",
+    "fetched_at": "2026-11-26T03:19:43.453867+00:00",
+    "summary": "Googleの研究部門であるGoogle Researchが、6つの数学論文をGitHubに投稿しました。これらの論文は全て、Gemini 4をベースとする数学的発見を行うためのマルチエージェントシステム「Cogentic」が生成しています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "アメリカの規制当局がSpaceXの宇宙AIデータセンター設置計画を承認",
+    "url": "https://gigazine.net/news/20261126-fcc-approves-spacex-plan-ai-data-centers-space/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Thu, 26 Nov 2026 11:30:00 +0900",
+    "fetched_at": "2026-11-26T03:19:43.454567+00:00",
+    "summary": "アメリカ国内の放送通信事業の規制監督を行う連邦通信委員会(FCC)が、イーロン・マスク氏率いる宇宙開発企業であるSpaceXの「宇宙AIデータセンター」設置計画を承認しました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "カーボンナノチューブ採用サーマルパッド「Carbice Ice Pad」はどれぐらいCPUを冷やす効果があるのか？",
     "url": "https://gigazine.net/news/20260625-carbice-carbon-nanotube-cpu-cooling/",
     "source": "GIGAZINE",
@@ -9120,6 +9159,32 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供",
+    "url": "https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-25T15:29:05Z",
+    "fetched_at": "2026-11-26T03:19:43.347464+00:00",
+    "summary": "AIエージェントと外部ツールを接続する業界標準となっているMCP（Model Context Protocol）に、新機能として「Skills over MCP」がβ版として追加されました。 Skills over MCPを利用することで、...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "「Google Workspace MCPサーバ」と「Google Workspace CLI」が正式版としてリリース",
+    "url": "https://www.publickey1.jp/blog/26/google_workspace_mcpgoogle_workspace_cli.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-25T15:27:15Z",
+    "fetched_at": "2026-11-26T03:19:43.358752+00:00",
+    "summary": "Googleは、Google WorkspaceをAIエージェントが操作するためのインターフェイスとして「Google Workspace MCP Server」と「Google Workspace CLI」が正式版になったことを発表しまし...…",
     "importance": "medium",
     "tags": [
       "it"
