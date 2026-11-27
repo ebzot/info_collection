@@ -7527,6 +7527,19 @@
     ]
   },
   {
+    "title": "破産申請したAIチャットサービス「Character.AI」が2100万アカウント超の非公開の会話履歴を競売にかけようとしている",
+    "url": "https://gigazine.net/news/20261127-character-ai-asset-sale/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 27 Nov 2026 11:42:00 +0900",
+    "fetched_at": "2026-11-27T03:25:17.860113+00:00",
+    "summary": "AIチャットサービス「Character.AI」が破産手続きの一環として、アメリカ国内の2100万アカウント超の会話履歴を売却しようとしていることが明らかになりました。売却対象には未成年者の会話履歴も含まれており、アメリカの42人の州司法長官が裁判所に売却計画を認めないよう求めています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "中国の開発者が公式価格の約10％でAnthropicのAIモデルを利用できるAPIプロキシ「中转站」が支えるグレー経済圏の実態とは？",
     "url": "https://gigazine.net/news/20260626-china-anthropic-api/",
     "source": "GIGAZINE",
@@ -9159,6 +9172,58 @@
     "published_at": "Fri, 02 Oct 2026 06:00:00 +0900",
     "fetched_at": "2026-10-02T00:25:33.042822+00:00",
     "summary": "AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "さくらインターネットが大規模イベント開催。田中社長「日本から世界へ挑戦するためのデジタル基盤を支える」",
+    "url": "https://www.publickey1.jp/blog/26/post_311.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-26T15:50:16Z",
+    "fetched_at": "2026-11-27T03:25:17.712083+00:00",
+    "summary": "さくらインターネットは11月25日と26日の2日間、同社にとって初のパートナーやデベロッパー向け大規模イベント「SAKURA DEKIRU Conference 2026」を都内で開催しました。 2日目となる「Cloud/AI Day」の基...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "さくらのクラウド、新ネットワーク基盤、新データベースサービスなど投入。東京リージョン第三ゾーン新設も発表",
+    "url": "https://www.publickey1.jp/blog/26/post_310.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-26T15:47:22Z",
+    "fetched_at": "2026-11-27T03:25:17.727184+00:00",
+    "summary": "さくらインターネットは11月25日と26日の2日間、大規模イベント「SAKURA DEKIRU Conference 2026」を都内で開催し、さくらのクラウドに関して東京リージョンの第三ゾーン、新ネットワーク基盤や新データベースサービスの...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "さくらインターネット、AIを月額固定料金で提供する「シンプルAI」発表、システムへの組み込み用途を想定",
+    "url": "https://www.publickey1.jp/blog/26/aiai_1.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-26T15:45:31Z",
+    "fetched_at": "2026-11-27T03:25:17.728559+00:00",
+    "summary": "さくらインターネットは11月25日と26日の2日間、大規模イベント「SAKURA DEKIRU Conference 2026」を都内で開催。2日目の基調講演で、新サービスとして月額固定料金でAIを提供する「シンプルAI」を発表しました。 ...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "さくらインターネット、AWSやAzureなど他クラウドでバックアップ可能な新ストレージ「Object Storage Suite」（OS2）発表",
+    "url": "https://www.publickey1.jp/blog/26/awsazureobject_storage_suiteos2.html",
+    "source": "Publickey",
+    "category": "it",
+    "published_at": "2026-11-26T15:42:36Z",
+    "fetched_at": "2026-11-27T03:25:17.730041+00:00",
+    "summary": "さくらインターネットは11月25日と26日の2日間、大規模イベント「SAKURA DEKIRU Conference 2026」を都内で開催。2日めの基調講演で、新たなストレージサービス「Object Storage Suite」（OS2）...…",
     "importance": "medium",
     "tags": [
       "it"
