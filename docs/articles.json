@@ -4654,6 +4654,58 @@
     ]
   },
   {
+    "title": "リモートワークをすると1日あたり「21分」の運動時間を失うという研究結果",
+    "url": "https://gigazine.net/news/20261128-remote-work-costs-21-minutes-exercise/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 28 Nov 2026 12:00:00 +0900",
+    "fetched_at": "2026-11-28T03:01:31.911408+00:00",
+    "summary": "リモートワークをすると朝晩の通勤やオフィスビル内の移動がなくなるため、オフィスに出勤する時より仕事がはかどるという人もいるはず。その一方で、リモートワークによって日々の運動時間が大きく減ってしまう可能性があるとの研究結果が発表されました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AppleのiPhoneは中国最大のネット通販セールイベントで最も売れたスマホ10機種のうち6機種を占める",
+    "url": "https://gigazine.net/news/20261128-china-double-11-iphone-domination/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 28 Nov 2026 10:35:00 +0900",
+    "fetched_at": "2026-11-28T03:01:31.935253+00:00",
+    "summary": "11月11日は中国では独身の日として知られており、現在は世界最大級のネット通販セールイベントとして広まっています。そんな独身の日に、中国ではAppleのiPhoneがよく売れたことが調査企業Counterpoint Researchの調査で明らかになりました。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "人類は350年前にどうやって「光にも速さがある」と気づいたのか？",
+    "url": "https://gigazine.net/news/20261128-light-speed-discovered-350-years-ago/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 28 Nov 2026 10:00:00 +0900",
+    "fetched_at": "2026-11-28T03:01:31.936271+00:00",
+    "summary": "光の速さは真空中で秒速約30万kmであることが知られていますが、光が移動するのに時間がかかることが観測によって初めて実証されたのは1676年のことです。現代のような精密な測定機器が存在しなかった350年前に、デンマークの天文学者であるオーレ・レーマーがどのようにして光の速さが有限であることを突き止めたのかについて、科学メディアのScience Norwayが…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "AI音声による虚偽通報が深刻化",
+    "url": "https://gigazine.net/news/20261128-fake-911-call-ai/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Sat, 28 Nov 2026 08:00:00 +0900",
+    "fetched_at": "2026-11-28T03:01:31.937053+00:00",
+    "summary": "人間の声色と変わらないAI音声が登場したことで、警察への虚偽通報が相次いでいることがアメリカで問題視されていると、海外メディアのNPRが報じています。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
     "title": "無料で創作に生かせる3Dポーズ作成ツール「SetPose」",
     "url": "https://gigazine.net/news/20260627-setpose-3d/",
     "source": "GIGAZINE",
@@ -7521,6 +7573,19 @@
     "published_at": "Fri, 28 Aug 2026 12:20:00 +0900",
     "fetched_at": "2026-08-28T05:03:14.917228+00:00",
     "summary": "トランプ政権による半導体に対する新たな包括的関税の計画を、ニュースサイト・POLITICOが関係者情報として報じました。テック業界は「アメリカを破滅させる可能性がある」と警告しているとのことです。 続きを読む...…",
+    "importance": "medium",
+    "tags": [
+      "it"
+    ]
+  },
+  {
+    "title": "シンプルな構文で美しい図を自動生成する「D2」が進化、非営利化で独自レイアウトエンジンもオープンソース化",
+    "url": "https://gigazine.net/news/20261127-d2/",
+    "source": "GIGAZINE",
+    "category": "it",
+    "published_at": "Fri, 27 Nov 2026 23:00:00 +0900",
+    "fetched_at": "2026-11-28T03:01:31.937818+00:00",
+    "summary": "テキストで図形や矢印の関係を記述するだけで図を自動生成できる「D2」は、2022年に基本的な使い方をレビューしました。その後は手描き風のデザインやアニメーション、ターミナルでも表示できるASCII出力などに対応し、図の表現方法が広がっています。2026年9月には運営体制が非営利に切り替わり、独自の自動配置エンジンもオープンソース化されたので、追加された機能を…",
     "importance": "medium",
     "tags": [
       "it"
